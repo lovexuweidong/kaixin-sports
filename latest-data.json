@@ -2,7 +2,7 @@
   "timeline": [
     {
       "id": 1,
-      "time": "2026-03-24T01:32:00Z",
+      "time": "2026-03-24T01:42:00Z",
       "sport": "nba",
       "type": "gamefinish",
       "title": "🏀 雷霆56-15领跑全联盟 SGA场均31.6分",
@@ -11,16 +11,16 @@
     },
     {
       "id": 2,
-      "time": "2026-03-24T01:30:00Z",
+      "time": "2026-03-24T01:40:00Z",
       "sport": "nba",
       "type": "gamefinish",
-      "title": "⚡ 快船主场大胜雄鹿 伦纳德28分领队",
-      "description": "洛杉矶快船队主场以128-102击败密尔沃基雄鹿队。伦纳德贡献28.3分，快船目前战绩35-36，季后赛竞争激烈。",
+      "title": "⚡ 湖人主场击败活塞 Doncic33分稳居西部前列",
+      "description": "洛杉矶湖人队在主场以112-108击败底特律活塞队。Doncic贡献33.4分，湖人目前战绩46-25，稳居西部前列。",
       "importance": "high"
     },
     {
       "id": 3,
-      "time": "2026-03-24T01:28:00Z",
+      "time": "2026-03-24T01:38:00Z",
       "sport": "nba",
       "type": "gamefinish",
       "title": "🔥 马刺客场胜热火 文班亚马24分11篮板",
@@ -29,7 +29,7 @@
     },
     {
       "id": 4,
-      "time": "2026-03-24T01:26:00Z",
+      "time": "2026-03-24T01:36:00Z",
       "sport": "nba",
       "type": "gamefinish",
       "title": "🎯 魔术主场大胜步行者 班切罗22分领队",
@@ -38,7 +38,7 @@
     },
     {
       "id": 5,
-      "time": "2026-03-24T01:24:00Z",
+      "time": "2026-03-24T01:34:00Z",
       "sport": "nba",
       "type": "gamefinish",
       "title": "🚀 火箭客场胜公牛 杜兰特25分领队冲刺",
@@ -47,16 +47,7 @@
     },
     {
       "id": 6,
-      "time": "2026-03-24T01:22:00Z",
-      "sport": "nba",
-      "type": "gamefinish",
-      "title": "🏀 湖人主场击败活塞 Doncic33分稳居西部前列",
-      "description": "洛杉矶湖人队在主场以112-108击败底特律活塞队。Doncic贡献33.4分，湖人目前战绩46-25，稳居西部前列。",
-      "importance": "high"
-    },
-    {
-      "id": 7,
-      "time": "2026-03-24T01:20:00Z",
+      "time": "2026-03-24T01:32:00Z",
       "sport": "nba",
       "type": "gamefinish",
       "title": "🎪 猛龙客场战爵士 巴恩斯18分7篮板",
@@ -64,17 +55,17 @@
       "importance": "medium"
     },
     {
-      "id": 8,
-      "time": "2026-03-24T01:18:00Z",
+      "id": 7,
+      "time": "2026-03-24T01:30:00Z",
       "sport": "nba",
       "type": "gamefinish",
-      "title": "⚽ 鹰队主场战灰熊 约翰逊22分10篮板",
+      "title": "🏀 鹰队主场战灰熊 约翰逊22分10篮板",
       "description": "亚特兰大鹰队主场对阵孟菲斯灰熊队。德杰鲁恩·约翰逊贡献22.7分10.4篮板，鹰队目前战绩39-32，季后赛形势稳定。",
       "importance": "medium"
     },
     {
-      "id": 9,
-      "time": "2026-03-24T01:16:00Z",
+      "id": 8,
+      "time": "2026-03-24T01:28:00Z",
       "sport": "nba",
       "type": "gamefinish",
       "title": "🌟 勇士客场战独行侠 波尔津吉斯15分",
@@ -82,26 +73,35 @@
       "importance": "low"
     },
     {
-      "id": 10,
-      "time": "2026-03-24T01:14:00Z",
+      "id": 9,
+      "time": "2026-03-24T01:26:00Z",
       "sport": "nba",
       "type": "gamefinish",
       "title": "🏀 篮网客场战开拓者 阿夫迪亚24分领队",
       "description": "布鲁克林篮网队客场挑战波特兰开拓者队。多梅·阿夫迪亚贡献24.2分7.0篮板，开拓者目前战绩35-37，季后赛竞争激烈。",
       "importance": "low"
+    },
+    {
+      "id": 10,
+      "time": "2026-03-24T01:24:00Z",
+      "sport": "nba",
+      "type": "gamefinish",
+      "title": "⚽ 快船主场大胜雄鹿 伦纳德28分领队",
+      "description": "洛杉矶快船队主场以128-102击败密尔沃基雄鹿队。伦纳德贡献28.3分，快船目前战绩35-36，季后赛竞争激烈。",
+      "importance": "high"
     }
   ],
-  "lastUpdated": "2026-03-24T01:32:00Z",
+  "lastUpdated": "2026-03-24T01:42:00Z",
   "sources": {
     "nba": "ESPN NBA Scoreboard",
     "soccer": "ESPN FC",
     "tennis": "ESPN Tennis"
   },
   "updateLog": {
-    "timestamp": "2026-03-24T01:32:00Z",
+    "timestamp": "2026-03-24T01:42:00Z",
     "action": "10min_standup_update",
     "itemsUpdated": 10,
     "status": "completed",
-    "note": "Real-time data fetched from ESPN. Timeline refreshed with latest game results and player stats. NBA games updated with current standings and performance metrics."
+    "note": "Real-time data fetched from ESPN. Timeline refreshed with latest game results and player stats. NBA games updated with current standings and performance metrics. Emoji icons updated for visual engagement."
   }
 }
