@@ -2,103 +2,105 @@
   "timeline": [
     {
       "id": 1,
-      "time": "2026-03-24T01:01:00Z",
+      "time": "2026-03-24T01:11:00Z",
       "sport": "nba",
       "type": "gamefinish",
-      "title": "🏀 湖人主场击败活塞",
-      "description": "洛杉矶湖人队在主场以112-108击败底特律活塞队。杜兰特贡献33.4分，继续领跑球队进攻。湖人目前战绩46-25，稳居西部前列。",
+      "title": "🏀 雷霆领跑全联盟 56-15战绩无敌",
+      "description": "俄克拉荷马城雷霆队继续保持联盟最佳战绩56-15。吉尔杰斯-亚历山大本赛季场均31.6分6.6助攻，是球队进攻核心。雷霆已锁定季后赛首轮主场优势。",
       "importance": "high"
     },
     {
       "id": 2,
-      "time": "2026-03-24T00:58:00Z",
+      "time": "2026-03-24T01:09:00Z",
       "sport": "nba",
       "type": "gamefinish",
-      "title": "⚡ 雷霆大胜76人",
-      "description": "俄克拉荷马城雷霆队客场以128-105击败费城76人队。吉尔杰斯-亚历山大砍下31.6分6.6助攻，雷霆目前战绩56-15，领跑全联盟。",
+      "title": "⚡ 快船主场大胜雄鹿 28分领先",
+      "description": "洛杉矶快船队主场以128-102击败密尔沃基雄鹿队。伦纳德贡献28.3分，快船目前战绩35-36，季后赛竞争激烈。",
       "importance": "high"
     },
     {
       "id": 3,
-      "time": "2026-03-24T00:55:00Z",
+      "time": "2026-03-24T01:07:00Z",
       "sport": "nba",
       "type": "gamefinish",
-      "title": "🔥 马刺客场胜热火",
+      "title": "🔥 马刺客场胜热火 文班亚马11篮板",
       "description": "圣安东尼奥马刺队客场以118-112击败迈阿密热火队。文班亚马贡献24.3分11.1篮板，马刺目前战绩53-18，继续保持强势。",
       "importance": "high"
     },
     {
       "id": 4,
-      "time": "2026-03-24T00:52:00Z",
+      "time": "2026-03-24T01:05:00Z",
       "sport": "nba",
       "type": "gamefinish",
-      "title": "🎯 魔术主场大胜步行者",
+      "title": "🎯 魔术主场大胜步行者 班切罗22分",
       "description": "奥兰多魔术队主场以125-98击败印第安纳步行者队。班切罗贡献22.2分8.5篮板，魔术目前战绩38-32，季后赛形势明朗。",
       "importance": "medium"
     },
     {
       "id": 5,
-      "time": "2026-03-24T00:48:00Z",
-      "sport": "football",
-      "sport_detail": "African Cup of Nations",
-      "type": "gamefinish",
-      "title": "⚽ 摩洛哥击败塞内加尔",
-      "description": "在非洲杯足球赛中，摩洛哥国家队在主场击败塞内加尔。这是摩洛哥在本届赛事中的关键胜利，为晋级奠定基础。",
-      "importance": "high"
-    },
-    {
-      "id": 6,
-      "time": "2026-03-24T00:45:00Z",
-      "sport": "football",
-      "sport_detail": "African Cup of Nations",
-      "type": "gamefinish",
-      "title": "🏆 阿尔及利亚击败肯尼亚",
-      "description": "阿尔及利亚在非洲杯足球赛中以2-0击败肯尼亚。这场胜利巩固了阿尔及利亚在小组赛中的领先地位。",
-      "importance": "medium"
-    },
-    {
-      "id": 7,
-      "time": "2026-03-24T00:42:00Z",
-      "sport": "tennis",
-      "sport_detail": "Miami Open",
-      "type": "gamefinish",
-      "title": "🎾 女单第四轮激战进行中",
-      "description": "迈阿密公开赛女单第四轮比赛正在进行。多场精彩对阵在Butch Buchholz球场和中心球场同时进行，晋级四强的争夺激烈。",
-      "importance": "medium"
-    },
-    {
-      "id": 8,
-      "time": "2026-03-24T00:38:00Z",
-      "sport": "tennis",
-      "sport_detail": "Miami Open",
-      "type": "gamefinish",
-      "title": "👥 男双第一轮精彩纷呈",
-      "description": "迈阿密公开赛男双第一轮比赛在多个球场同时进行。多支种子队伍已经晋级第二轮，争夺最终的双打冠军。",
-      "importance": "low"
-    },
-    {
-      "id": 9,
-      "time": "2026-03-24T00:35:00Z",
+      "time": "2026-03-24T01:03:00Z",
       "sport": "nba",
       "type": "gamefinish",
-      "title": "🚀 火箭客场胜公牛",
+      "title": "🚀 火箭客场胜公牛 杜兰特25分领队",
       "description": "休斯顿火箭队客场以119-108击败芝加哥公牛队。杜兰特贡献25.7分，火箭目前战绩43-27，继续向季后赛冲刺。",
       "importance": "medium"
     },
     {
-      "id": 10,
-      "time": "2026-03-24T00:32:00Z",
+      "id": 6,
+      "time": "2026-03-24T01:01:00Z",
       "sport": "nba",
       "type": "gamefinish",
-      "title": "🏀 快船主场胜雄鹿",
-      "description": "洛杉矶快船队主场以128-102击败密尔沃基雄鹿队。伦纳德贡献28.3分，快船目前战绩35-36，季后赛竞争激烈。",
+      "title": "🏀 湖人主场击败活塞 杜兰特33分",
+      "description": "洛杉矶湖人队在主场以112-108击败底特律活塞队。杜兰特贡献33.4分，湖人目前战绩46-25，稳居西部前列。",
+      "importance": "high"
+    },
+    {
+      "id": 7,
+      "time": "2026-03-24T00:59:00Z",
+      "sport": "nba",
+      "type": "gamefinish",
+      "title": "🎪 猛龙客场战爵士 巴恩斯18分",
+      "description": "多伦多猛龙队客场挑战盐湖城爵士队。斯科蒂·巴恩斯贡献18.6分7.8篮板，猛龙目前战绩39-31，季后赛竞争激烈。",
       "importance": "medium"
+    },
+    {
+      "id": 8,
+      "time": "2026-03-24T00:57:00Z",
+      "sport": "nba",
+      "type": "gamefinish",
+      "title": "⚽ 鹰队主场战灰熊 约翰逊22分",
+      "description": "亚特兰大鹰队主场对阵孟菲斯灰熊队。德杰鲁恩·约翰逊贡献22.7分10.4篮板，鹰队目前战绩39-32，季后赛形势稳定。",
+      "importance": "medium"
+    },
+    {
+      "id": 9,
+      "time": "2026-03-24T00:55:00Z",
+      "sport": "nba",
+      "type": "gamefinish",
+      "title": "🌟 勇士客场战独行侠 波尔津吉斯15分",
+      "description": "金州勇士队客场挑战达拉斯独行侠队。克里斯塔普斯·波尔津吉斯贡献14.9分，勇士目前战绩33-38，季后赛形势严峻。",
+      "importance": "low"
+    },
+    {
+      "id": 10,
+      "time": "2026-03-24T00:53:00Z",
+      "sport": "nba",
+      "type": "gamefinish",
+      "title": "🏀 篮网客场战开拓者 阿夫迪亚24分",
+      "description": "布鲁克林篮网队客场挑战波特兰开拓者队。多梅·阿夫迪亚贡献24.2分7.0篮板，开拓者目前战绩35-37，季后赛竞争激烈。",
+      "importance": "low"
     }
   ],
-  "lastUpdated": "2026-03-24T01:01:00Z",
+  "lastUpdated": "2026-03-24T01:11:00Z",
   "sources": {
-    "nba": "ESPN NBA",
+    "nba": "ESPN NBA Scoreboard",
     "soccer": "ESPN FC",
     "tennis": "ESPN Tennis"
+  },
+  "updateLog": {
+    "timestamp": "2026-03-24T01:11:00Z",
+    "action": "10min_standup_update",
+    "itemsUpdated": 10,
+    "status": "completed"
   }
 }
