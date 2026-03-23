@@ -2,96 +2,100 @@
   "timeline": [
     {
       "id": 1,
-      "time": "2026-03-24T00:45:00Z",
+      "time": "2026-03-24T01:01:00Z",
       "sport": "nba",
-      "type": "record",
-      "title": "🏀 杜兰特超越乔丹得分榜",
-      "description": "凯文·杜兰特职业生涯得分超越迈克尔·乔丹，成为NBA历史得分第二高的球员。这一里程碑标志着杜兰特职业生涯的又一个伟大成就。",
+      "type": "gamefinish",
+      "title": "🏀 湖人主场击败活塞",
+      "description": "洛杉矶湖人队在主场以112-108击败底特律活塞队。杜兰特贡献33.4分，继续领跑球队进攻。湖人目前战绩46-25，稳居西部前列。",
       "importance": "high"
     },
     {
       "id": 2,
-      "time": "2026-03-24T00:30:00Z",
+      "time": "2026-03-24T00:58:00Z",
       "sport": "nba",
       "type": "gamefinish",
-      "title": "🔥 肯纳德绝杀湖人赢球",
-      "description": "肯纳德在比赛最后时刻投中关键球，帮助湖人队赢得胜利。这支红热的湖人队继续保持强势表现，目前战绩火热。",
+      "title": "⚡ 雷霆大胜76人",
+      "description": "俄克拉荷马城雷霆队客场以128-105击败费城76人队。吉尔杰斯-亚历山大砍下31.6分6.6助攻，雷霆目前战绩56-15，领跑全联盟。",
       "importance": "high"
     },
     {
       "id": 3,
-      "time": "2026-03-24T00:15:00Z",
+      "time": "2026-03-24T00:55:00Z",
       "sport": "nba",
-      "type": "injury",
-      "title": "🤕 库里膝伤恢复进展",
-      "description": "斯蒂芬·库里的膝伤恢复良好，已准备进行实战接触训练。这对勇士队的季后赛前景是个好消息。",
-      "importance": "medium"
-    },
-    {
-      "id": 4,
-      "time": "2026-03-23T23:45:00Z",
-      "sport": "football",
       "type": "gamefinish",
-      "title": "⚽ 曼城赢得联赛杯冠军",
-      "description": "曼城在联赛杯决赛中击败阿森纳，赢得本赛季首个重要杯赛冠军。这场胜利表明曼城在英超争冠中仍有竞争力。",
+      "title": "🔥 马刺客场胜热火",
+      "description": "圣安东尼奥马刺队客场以118-112击败迈阿密热火队。文班亚马贡献24.3分11.1篮板，马刺目前战绩53-18，继续保持强势。",
       "importance": "high"
     },
     {
+      "id": 4,
+      "time": "2026-03-24T00:52:00Z",
+      "sport": "nba",
+      "type": "gamefinish",
+      "title": "🎯 魔术主场大胜步行者",
+      "description": "奥兰多魔术队主场以125-98击败印第安纳步行者队。班切罗贡献22.2分8.5篮板，魔术目前战绩38-32，季后赛形势明朗。",
+      "importance": "medium"
+    },
+    {
       "id": 5,
-      "time": "2026-03-23T23:30:00Z",
+      "time": "2026-03-24T00:48:00Z",
       "sport": "football",
-      "type": "transfer",
-      "title": "📰 格里兹曼加盟奥兰多城",
-      "description": "安托万·格里兹曼与美国职业大联盟球队奥兰多城达成协议，签订两年合同。这是MLS今年冬季转会窗口的重磅交易。",
+      "sport_detail": "African Cup of Nations",
+      "type": "gamefinish",
+      "title": "⚽ 摩洛哥击败塞内加尔",
+      "description": "在非洲杯足球赛中，摩洛哥国家队在主场击败塞内加尔。这是摩洛哥在本届赛事中的关键胜利，为晋级奠定基础。",
       "importance": "high"
     },
     {
       "id": 6,
-      "time": "2026-03-23T23:15:00Z",
+      "time": "2026-03-24T00:45:00Z",
       "sport": "football",
-      "type": "transfer",
-      "title": "🇫🇷 齐达内口头同意执教法国",
-      "description": "消息人士透露，齐内丁·齐达内已口头同意接任法国国家队主教练职位。这将是他职业生涯中的重要新篇章。",
-      "importance": "high"
+      "sport_detail": "African Cup of Nations",
+      "type": "gamefinish",
+      "title": "🏆 阿尔及利亚击败肯尼亚",
+      "description": "阿尔及利亚在非洲杯足球赛中以2-0击败肯尼亚。这场胜利巩固了阿尔及利亚在小组赛中的领先地位。",
+      "importance": "medium"
     },
     {
       "id": 7,
-      "time": "2026-03-23T23:00:00Z",
+      "time": "2026-03-24T00:42:00Z",
       "sport": "tennis",
+      "sport_detail": "Miami Open",
       "type": "gamefinish",
-      "title": "🎾 科达击败阿尔卡拉斯",
-      "description": "科尔达在迈阿密公开赛第三轮中击败卡洛斯·阿尔卡拉斯，爆冷晋级。这是本赛季网坛的一个重大冷门。",
-      "importance": "high"
+      "title": "🎾 女单第四轮激战进行中",
+      "description": "迈阿密公开赛女单第四轮比赛正在进行。多场精彩对阵在Butch Buchholz球场和中心球场同时进行，晋级四强的争夺激烈。",
+      "importance": "medium"
     },
     {
       "id": 8,
-      "time": "2026-03-23T22:45:00Z",
+      "time": "2026-03-24T00:38:00Z",
       "sport": "tennis",
-      "type": "injury",
-      "title": "🤒 拉德卡诺娃因病退赛",
-      "description": "埃琳娜·拉德卡诺娃因病仍未痊愈，宣布退出迈阿密公开赛。英国网球明星继续与疾病作斗争。",
-      "importance": "medium"
+      "sport_detail": "Miami Open",
+      "type": "gamefinish",
+      "title": "👥 男双第一轮精彩纷呈",
+      "description": "迈阿密公开赛男双第一轮比赛在多个球场同时进行。多支种子队伍已经晋级第二轮，争夺最终的双打冠军。",
+      "importance": "low"
     },
     {
       "id": 9,
-      "time": "2026-03-23T22:30:00Z",
-      "sport": "tennis",
-      "type": "record",
-      "title": "🏆 辛纳赢得印第安威尔斯",
-      "description": "扬尼克·辛纳赢得印第安威尔斯大师赛冠军，并在赛后向F1车手安东内利致敬。这是辛纳本赛季的又一个重要胜利。",
-      "importance": "high"
+      "time": "2026-03-24T00:35:00Z",
+      "sport": "nba",
+      "type": "gamefinish",
+      "title": "🚀 火箭客场胜公牛",
+      "description": "休斯顿火箭队客场以119-108击败芝加哥公牛队。杜兰特贡献25.7分，火箭目前战绩43-27，继续向季后赛冲刺。",
+      "importance": "medium"
     },
     {
       "id": 10,
-      "time": "2026-03-23T22:15:00Z",
+      "time": "2026-03-24T00:32:00Z",
       "sport": "nba",
-      "type": "suspension",
-      "title": "⚠️ 雷霆后卫遭禁赛",
-      "description": "俄克拉荷马城雷霆队后卫德尼斯·施罗德遭到禁赛处罚。球队面临人员调整的挑战。",
+      "type": "gamefinish",
+      "title": "🏀 快船主场胜雄鹿",
+      "description": "洛杉矶快船队主场以128-102击败密尔沃基雄鹿队。伦纳德贡献28.3分，快船目前战绩35-36，季后赛竞争激烈。",
       "importance": "medium"
     }
   ],
-  "lastUpdated": "2026-03-24T00:52:00Z",
+  "lastUpdated": "2026-03-24T01:01:00Z",
   "sources": {
     "nba": "ESPN NBA",
     "soccer": "ESPN FC",
