@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-03-23T23:21:00Z",
-  "dataSource": "ESPN NBA",
+  "lastUpdated": "2026-03-23T23:23:00Z",
+  "dataSource": "ESPN",
   "timeline": [
     {
       "id": "tl010",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "07:20",
+      "time": "07:23",
       "type": "score",
       "typeLabel": "📊赛果",
-      "title": "NBA今日10场激战",
-      "desc": "湖人对阵活塞，雷霆vs76人，马刺vs热火等比赛进行中",
+      "title": "NBA今日10场激战🔥",
+      "desc": "湖人对阵活塞，马刺vs热火，雷霆客战76人等4场正在激战",
       "image": "🏀",
       "isLive": true,
       "important": true
@@ -19,11 +19,11 @@
       "id": "tl001",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "07:19",
+      "time": "07:23",
       "type": "score",
       "typeLabel": "📊赛果",
-      "title": "湖人vs活塞正在激战",
-      "desc": "湖人77-66活塞，第四节还剩6分26秒",
+      "title": "湖人vs活塞🔥激战正酣",
+      "desc": "77-77战平，第一节最后6分钟",
       "image": "🏀",
       "isLive": true,
       "important": true
@@ -32,24 +32,24 @@
       "id": "tl002",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "07:18",
+      "time": "07:22",
       "type": "score",
       "typeLabel": "📊赛果",
-      "title": "马刺vs热火火热进行",
-      "desc": "马刺15-13热火，第一节接近尾声",
+      "title": "马刺vs热火🔥",
+      "desc": "19-15马刺暂时领先，第一节中段",
       "image": "🏀",
       "isLive": true,
-      "important": false
+      "important": true
     },
     {
       "id": "tl003",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "07:17",
+      "time": "07:21",
       "type": "score",
       "typeLabel": "📊赛果",
-      "title": "雷霆客战76人",
-      "desc": "雷霆17-13领先76人，第一节中段",
+      "title": "雷霆客战76人⚡",
+      "desc": "19-13雷霆领先，第一节进行中",
       "image": "🏀",
       "isLive": true,
       "important": false
@@ -58,59 +58,59 @@
       "id": "tl004",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "07:16",
-      "type": "news",
-      "typeLabel": "📰 热点",
-      "title": "活塞锁定季后赛",
-      "desc": "底特律活塞提前锁定2025-26赛季季后赛席位",
+      "time": "07:20",
+      "type": "score",
+      "typeLabel": "📊赛果",
+      "title": "步行者vs魔术",
+      "desc": "17-11步行者领先，第一节",
       "image": "🏀",
-      "isLive": false,
-      "important": true
+      "isLive": true,
+      "important": false
     },
     {
       "id": "tl005",
-      "sport": "tennis",
-      "sportLabel": "🎾 网球",
-      "time": "07:15",
-      "type": "news",
-      "typeLabel": "📰 热点",
-      "title": "阿尔卡拉斯领跑ATP",
-      "desc": "阿尔卡拉斯以13,550积分领跑ATP世界排名",
-      "image": "🎾",
-      "isLive": false,
-      "important": true
+      "sport": "soccer",
+      "sportLabel": "⚽ 足球",
+      "time": "07:19",
+      "type": "score",
+      "typeLabel": "📊赛果",
+      "title": "格拉纳达1-0拉科鲁尼亚",
+      "desc": "西班牙足球联赛正在进行",
+      "image": "⚽",
+      "isLive": true,
+      "important": false
     },
     {
       "id": "tl006",
-      "sport": "tennis",
-      "sportLabel": "🎾 网球",
-      "time": "07:14",
-      "type": "news",
-      "typeLabel": "📰 热点",
-      "title": "萨巴伦卡WTA第一",
-      "desc": "萨巴伦卡以11,025积分稳居WTA世界第一",
-      "image": "🎾",
-      "isLive": false,
-      "important": true
+      "sport": "soccer",
+      "sportLabel": "⚽ 足球",
+      "time": "07:18",
+      "type": "score",
+      "typeLabel": "📊赛果",
+      "title": "独立圣菲2-1独立麦德林",
+      "desc": "哥伦比亚足球联赛精彩对决",
+      "image": "⚽",
+      "isLive": true,
+      "important": false
     },
     {
       "id": "tl007",
-      "sport": "basketball",
-      "sportLabel": "🏀 NBA",
-      "time": "07:13",
+      "sport": "tennis",
+      "sportLabel": "🎾 网球",
+      "time": "07:17",
       "type": "news",
       "typeLabel": "📰 热点",
-      "title": "马刺强势冲击冠军",
-      "desc": "马刺53胜18负排名西部第二，仅次于雷霆",
-      "image": "🏀",
-      "isLive": false,
+      "title": "网球赛事正在进行🏆",
+      "desc": "ATP/WTA多场对决激战正酣",
+      "image": "🎾",
+      "isLive": true,
       "important": false
     },
     {
       "id": "tl008",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "07:12",
+      "time": "07:16",
       "type": "news",
       "typeLabel": "📰 热点",
       "title": "NBA东西部最新排名",
@@ -123,14 +123,14 @@
       "id": "tl009",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "07:11",
+      "time": "07:15",
       "type": "news",
       "typeLabel": "📰 热点",
-      "title": "10场NBA比赛今日开打",
-      "desc": "包括湖人对活塞、雷霆客战76人、马刺vs热火等焦点战",
+      "title": "活塞锁定季后赛🎉",
+      "desc": "底特律活塞51胜19负提前锁定季后赛席位",
       "image": "🏀",
       "isLive": false,
-      "important": false
+      "important": true
     }
   ],
   "nba": {
@@ -344,6 +344,31 @@
         "name": "Jessica Pegula",
         "points": 6678,
         "trend": "-"
+      }
+    ]
+  },
+  "soccer": {
+    "live": [
+      {
+        "league": "La Liga 2",
+        "home": "Granada",
+        "away": "Deportivo La Coruña",
+        "score": "1-0",
+        "status": "进行中"
+      },
+      {
+        "league": "Colombia Primera A",
+        "home": "Independiente Santa Fe",
+        "away": "Independiente Medellin",
+        "score": "2-1",
+        "status": "进行中"
+      },
+      {
+        "league": "Argentina Primera B",
+        "home": "Nueva Chicago",
+        "away": "Gimnasia y Tiro Salta",
+        "score": "3-1",
+        "status": "进行中"
       }
     ]
   }
