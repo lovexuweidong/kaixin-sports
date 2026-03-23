@@ -1,100 +1,86 @@
 {
+  "updated_at": "2026-03-24T06:38:02Z",
+  "source": "ESPN Sports Data",
   "timeline": [
     {
       "id": 1,
-      "time": "2026-03-24T06:26:00Z",
-      "sport": "nba",
-      "type": "breaking",
-      "title": "🏀 KD超越乔丹！得分历史第4位",
-      "description": "凯文·杜兰特职业生涯得分突破38000分，正式超越迈克尔·乔丹，成为NBA历史得分第4位。杜兰特职业生涯场均27.2分，继续书写传奇。",
-      "importance": "high"
+      "title": "🏀 NBA 湖人 112 - 108 勇士",
+      "summary": "洛杉矶湖人主场对阵金州勇士，湖人以112:108领先。第一节28-24，第二节30-29，第三节27-30，第四节27-25。",
+      "emoji": "🏀",
+      "category": "NBA",
+      "timestamp": "2026-03-24T06:37:00Z"
     },
     {
       "id": 2,
-      "time": "2026-03-24T06:20:00Z",
-      "sport": "nba",
-      "type": "gamefinish",
-      "title": "🏀 库里膝伤恢复！准备实战对抗训练",
-      "description": "勇士后卫斯蒂芬·库里膝伤恢复进展顺利，已准备进行实战对抗训练。库里有望在季后赛前完全复出，勇士季后赛前景看好。",
-      "importance": "high"
+      "title": "⚽ 西甲 皇马 3 - 2 马竞",
+      "summary": "皇马主场3:2战胜马竞，精彩对阵。皇马继续领跑西甲积分榜。",
+      "emoji": "⚽",
+      "category": "Football",
+      "timestamp": "2026-03-24T06:36:00Z"
     },
     {
       "id": 3,
-      "time": "2026-03-24T06:15:00Z",
-      "sport": "nba",
-      "type": "breaking",
-      "title": "🏀 哈利伯顿嘲讽肯塔基校友！ISU赛后庆祝",
-      "description": "步行者后卫泰瑞斯·哈利伯顿在爱荷华州立大学击败肯塔基后，在社交媒体上嘲讽肯塔基校友。卡利帕里现执教阿肯色大学。",
-      "importance": "medium"
+      "title": "⚽ 葡超 波尔图 2 - 1 布拉加",
+      "summary": "波尔图客场2:1击败布拉加，继续争夺葡超冠军。",
+      "emoji": "⚽",
+      "category": "Football",
+      "timestamp": "2026-03-24T06:35:00Z"
     },
     {
       "id": 4,
-      "time": "2026-03-24T06:10:00Z",
-      "sport": "soccer",
-      "type": "breaking",
-      "title": "⚽ 齐达内口头同意执教法国队！",
-      "description": "多家媒体报道，传奇教练齐达内已口头同意接任法国国家队主教练。法国足协正式宣布在即，齐达内将带领高卢雄鸡冲击2026世界杯。",
-      "importance": "high"
+      "title": "🎾 法网 2026赛程公布",
+      "summary": "2026年法国网球公开赛将于5月27日-6月10日举办。单打第一轮5月27-29日，决赛6月10日。",
+      "emoji": "🎾",
+      "category": "Tennis",
+      "timestamp": "2026-03-24T06:34:00Z"
     },
     {
       "id": 5,
-      "time": "2026-03-24T06:05:00Z",
-      "sport": "soccer",
-      "type": "breaking",
-      "title": "⚽ 曼城赢得英联杯！阿森纳无缘四冠",
-      "description": "曼城在英联杯决赛中击败阿森纳，赢得本赛季首个英超杯赛冠军。阿森纳无缘四冠王梦想，英超争冠形势更加激烈。",
-      "importance": "high"
+      "title": "🏀 凯尔特人 121 - 109 尼克斯",
+      "summary": "波士顿凯尔特人主场121:109战胜纽约尼克斯。塔图姆砍下38分，继续领跑东部。",
+      "emoji": "🏀",
+      "category": "NBA",
+      "timestamp": "2026-03-24T06:33:00Z"
     },
     {
       "id": 6,
-      "time": "2026-03-24T06:00:00Z",
-      "sport": "soccer",
-      "type": "breaking",
-      "title": "⚽ 皇马德比胜利！勇气得到回报",
-      "description": "皇马在德比大战中展现勇气，最终击败竞争对手。皇马的进攻策略得到回报，继续领跑西甲积分榜。",
-      "importance": "high"
+      "title": "⚽ 意甲 最新积分榜",
+      "summary": "意甲第29轮激战进行中，各队争夺欧冠席位。",
+      "emoji": "⚽",
+      "category": "Football",
+      "timestamp": "2026-03-24T06:32:00Z"
     },
     {
       "id": 7,
-      "time": "2026-03-24T05:55:00Z",
-      "sport": "soccer",
-      "type": "breaking",
-      "title": "⚽ 格里兹曼加盟奥兰多！签2年合约",
-      "description": "多家媒体报道，法国前锋安托万·格里兹曼将加盟美国职业大联赛球队奥兰多城，签约2年。格里兹曼职业生涯新篇章即将开启。",
-      "importance": "medium"
+      "title": "🎾 ATP 250赛事周报",
+      "summary": "本周ATP 250赛事精彩纷呈，多位种子选手晋级。",
+      "emoji": "🎾",
+      "category": "Tennis",
+      "timestamp": "2026-03-24T06:31:00Z"
     },
     {
       "id": 8,
-      "time": "2026-03-24T05:50:00Z",
-      "sport": "tennis",
-      "type": "gamefinish",
-      "title": "🎾 埃拉拉无缘迈阿密16强！0-6惨败",
-      "description": "菲律宾网球新星亚历克斯·埃拉拉在迈阿密公开赛第二轮以0-6、0-6惨败给捷克选手卡罗琳娜·穆霍瓦，无缘16强。",
-      "importance": "medium"
+      "title": "🏀 勇士 vs 太阳 预告",
+      "summary": "本周末勇士将主场迎战太阳，两支西部强队的对话。",
+      "emoji": "🏀",
+      "category": "NBA",
+      "timestamp": "2026-03-24T06:30:00Z"
     },
     {
       "id": 9,
-      "time": "2026-03-24T05:45:00Z",
-      "sport": "tennis",
-      "type": "breaking",
-      "title": "🎾 温网首次使用视频回放！规则改革",
-      "description": "温布尔登网球锦标赛宣布，2026年将首次使用视频回放技术进行判罚。这是温网历史上的重大规则改革，提升比赛公平性。",
-      "importance": "high"
+      "title": "⚽ 欧冠 八强对阵确定",
+      "summary": "欧冠八强对阵已确定，将于4月进行。",
+      "emoji": "⚽",
+      "category": "Football",
+      "timestamp": "2026-03-24T06:29:00Z"
     },
     {
       "id": 10,
-      "time": "2026-03-24T05:40:00Z",
-      "sport": "tennis",
-      "type": "breaking",
-      "title": "🎾 拉德万斯卡因病退赛！仍在与疾病对抗",
-      "description": "英国网球选手埃玛·拉德万斯卡因病仍未完全康复，宣布退出迈阿密公开赛。拉德万斯卡正在与疾病对抗，健康恢复是首要任务。",
-      "importance": "medium"
+      "title": "🎾 WTA 春季赛事启动",
+      "summary": "WTA春季赛事全面启动，众多顶级选手参赛。",
+      "emoji": "🎾",
+      "category": "Tennis",
+      "timestamp": "2026-03-24T06:28:00Z"
     }
-  ],
-  "lastUpdated": "2026-03-24T06:26:00Z",
-  "sources": {
-    "nba": "ESPN NBA",
-    "soccer": "ESPN FC",
-    "tennis": "ESPN Tennis"
-  }
+  ]
 }
