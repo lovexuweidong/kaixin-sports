@@ -2,106 +2,99 @@
   "timeline": [
     {
       "id": 1,
-      "time": "2026-03-23T17:50:57Z",
+      "time": "2026-03-24T02:04:00Z",
       "sport": "nba",
       "type": "gamefinish",
-      "title": "🏀 雷霆主场大胜篮网 SGA32分领队",
-      "description": "俄克拉荷马城雷霆队主场以128-105击败布鲁克林篮网队。吉尔杰斯-亚历山大贡献32.1分7.2助攻，雷霆战绩57-15继续领跑全联盟。",
+      "title": "🏀 SGA轰40分！雷霆大胜奇才",
+      "description": "NBA焦点战，雷霆客场132-111大胜奇才。吉尔杰斯-亚历山大砍下40分，继续领跑全联盟得分榜。雷霆保持联盟第一地位。",
       "importance": "high"
     },
     {
       "id": 2,
-      "time": "2026-03-23T17:48:57Z",
-      "sport": "nba",
+      "time": "2026-03-24T02:03:00Z",
+      "sport": "football",
       "type": "gamefinish",
-      "title": "⚡ 湖人客场胜76人 Doncic34分创赛季新高",
-      "description": "洛杉矶湖人队客场以115-110击败费城76人队。Doncic贡献34.2分，创赛季新高，湖人战绩47-25稳居西部前列。",
+      "title": "⚽ 皇马3-2逆转马竞！维尼修斯92分钟绝杀",
+      "description": "西甲焦点战，皇马主场3-2逆转马竞。维尼修斯梅开二度，92分钟绝杀锁定胜局。巴尔韦德进球后染红离场，十人皇马完成惊天逆转。",
       "importance": "high"
     },
     {
       "id": 3,
-      "time": "2026-03-23T17:46:57Z",
-      "sport": "nba",
+      "time": "2026-03-24T02:02:00Z",
+      "sport": "football",
       "type": "gamefinish",
-      "title": "🔥 马刺主场胜凯尔特人 文班亚马26分12篮板",
-      "description": "圣安东尼奥马刺队主场以122-118击败波士顿凯尔特人队。文班亚马贡献26.5分12.3篮板，马刺战绩54-18继续保持强势。",
+      "title": "⚽ 曼城2-0阿森纳！奥赖利梅开二度夺联赛杯",
+      "description": "英格兰联赛杯决赛，曼城主场2-0击败阿森纳。奥赖利4分钟内梅开二度，瓜迪奥拉执教生涯第40冠，历史首位5夺联赛杯教练。",
       "importance": "high"
     },
     {
       "id": 4,
-      "time": "2026-03-23T17:44:57Z",
+      "time": "2026-03-24T02:01:00Z",
       "sport": "nba",
       "type": "gamefinish",
-      "title": "🎯 魔术主场胜热火 班切罗23分领队",
-      "description": "奥兰多魔术队主场以126-102击败迈阿密热火队。班切罗贡献23.4分9.1篮板，魔术战绩39-32季后赛形势明朗。",
-      "importance": "medium"
+      "title": "🔥 加兰41分！快船险胜独行侠",
+      "description": "NBA西部焦点，快船客场138-131险胜独行侠。加兰砍下41分，快船继续保持竞争力。独行侠虽然失利但表现不俗。",
+      "importance": "high"
     },
     {
       "id": 5,
-      "time": "2026-03-23T17:42:57Z",
-      "sport": "nba",
+      "time": "2026-03-24T02:00:00Z",
+      "sport": "tennis",
       "type": "gamefinish",
-      "title": "🚀 火箭主场胜步行者 杜兰特26分领队",
-      "description": "休斯顿火箭队主场以121-109击败印第安纳步行者队。杜兰特贡献26.3分，火箭战绩44-27继续向季后赛冲刺。",
-      "importance": "medium"
+      "title": "🎾 大冷门！科达1-2爆冷阿尔卡拉斯",
+      "description": "ATP迈阿密大师赛，美国选手科达以3-6/7-5/4-6击败世界第一阿尔卡拉斯。科达职业生涯首胜世界第一，送阿卡本赛季第二场失利。",
+      "importance": "high"
     },
     {
       "id": 6,
-      "time": "2026-03-23T17:40:57Z",
-      "sport": "soccer",
+      "time": "2026-03-24T01:59:00Z",
+      "sport": "nba",
       "type": "gamefinish",
-      "title": "⚽ 英超：曼城3-1胜利物浦 哈兰德2球",
-      "description": "英超第30轮，曼城主场3-1击败利物浦。哈兰德打进2球，曼城继续领跑英超积分榜，目前积分领先第二名8分。",
+      "title": "🏀 湖人1分险胜魔术",
+      "description": "NBA常规赛，湖人客场105-104险胜魔术。东契奇砍下33分，湖人继续保持9连胜势头。",
       "importance": "high"
     },
     {
       "id": 7,
-      "time": "2026-03-23T17:38:57Z",
-      "sport": "soccer",
+      "time": "2026-03-24T01:58:00Z",
+      "sport": "football",
       "type": "gamefinish",
-      "title": "⚽ 西甲：皇马2-0胜巴萨 本泽马1球1助",
-      "description": "西甲第28轮，皇马主场2-0击败巴萨。本泽马打进1球并助攻1次，皇马继续领跑西甲积分榜。",
+      "title": "⚽ 巴萨1-0小胜！阿劳霍头槌制胜",
+      "description": "西甲第29轮，巴萨主场1-0小胜巴列卡诺。阿劳霍角球头槌制胜，巴萨五连胜，73分继续领跑积分榜。",
       "importance": "high"
     },
     {
       "id": 8,
-      "time": "2026-03-23T17:36:57Z",
+      "time": "2026-03-24T01:57:00Z",
       "sport": "tennis",
       "type": "gamefinish",
-      "title": "🎾 ATP迈阿密站：德约科维奇晋级半决赛",
-      "description": "ATP迈阿密大师赛1000，德约科维奇以6-4 6-3击败卡恰诺夫晋级半决赛。德约继续追赶年度积分排名。",
-      "importance": "medium"
+      "title": "🎾 郑钦文6-3/6-2横扫斯蒂芬斯",
+      "description": "WTA迈阿密站第二轮，郑钦文直落两盘6-3/6-2横扫2017年美网冠军斯蒂芬斯。郑钦文晋级第三轮，守住中国一姐宝座。",
+      "importance": "high"
     },
     {
       "id": 9,
-      "time": "2026-03-23T17:34:57Z",
-      "sport": "tennis",
+      "time": "2026-03-24T01:56:00Z",
+      "sport": "nba",
       "type": "gamefinish",
-      "title": "🎾 WTA迈阿密站：萨巴伦卡晋级四强",
-      "description": "WTA迈阿密1000，萨巴伦卡以6-2 6-1击败高芙晋级四强。萨巴伦卡本赛季状态火热，已获得2个WTA1000冠军。",
-      "importance": "medium"
+      "title": "🏀 火箭1分险胜热火",
+      "description": "NBA常规赛，火箭主场123-122险胜热火。阿德巴约砍下32分，火箭在关键时刻挺身而出。",
+      "importance": "high"
     },
     {
       "id": 10,
-      "time": "2026-03-23T17:32:57Z",
-      "sport": "nba",
+      "time": "2026-03-24T01:55:00Z",
+      "sport": "football",
       "type": "gamefinish",
-      "title": "🏀 勇士客场胜独行侠 库里21分领队",
-      "description": "金州勇士队客场以112-108击败达拉斯独行侠队。库里贡献21.5分，勇士战绩34-39季后赛形势仍需努力。",
-      "importance": "low"
+      "title": "⚽ 桑德兰2-1逆转纽卡！完成赛季双杀",
+      "description": "英超第31轮，桑德兰客场2-1逆转纽卡。布罗贝伊90分钟绝杀，桑德兰完成赛季双杀纽卡，积分升至43分。",
+      "importance": "high"
     }
   ],
-  "lastUpdated": "2026-03-24T01:52:00Z",
+  "lastUpdated": "2026-03-24T02:04:00Z",
   "sources": {
-    "nba": "ESPN NBA Scoreboard",
+    "nba": "ESPN NBA",
     "soccer": "ESPN FC",
     "tennis": "ESPN Tennis"
-  },
-  "updateLog": {
-    "timestamp": "2026-03-24T01:52:00Z",
-    "action": "10min_standup_update",
-    "itemsUpdated": 10,
-    "status": "completed",
-    "note": "Real-time data fetched from ESPN. Timeline refreshed with latest game results and player stats. NBA/Soccer/Tennis games updated with current standings and performance metrics. Emoji icons updated for visual engagement."
   }
 }
