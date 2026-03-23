@@ -2,98 +2,98 @@
   "timeline": [
     {
       "id": 1,
-      "time": "2026-03-24T00:41:00Z",
+      "time": "2026-03-24T00:45:00Z",
       "sport": "nba",
-      "type": "gamefinish",
-      "title": "🏀 NBA焦点：库里膝伤恢复进展，湖人9连胜继续",
-      "description": "NBA常规赛更新：库里（膝伤）已开始进行实战接触训练，有望近期复出。湖人（46-25）保持9连胜势头，肯纳德表现出色，关键球先手赢球。",
+      "type": "record",
+      "title": "🏀 杜兰特超越乔丹得分榜",
+      "description": "凯文·杜兰特职业生涯得分超越迈克尔·乔丹，成为NBA历史得分第二高的球员。这一里程碑标志着杜兰特职业生涯的又一个伟大成就。",
       "importance": "high"
     },
     {
       "id": 2,
-      "time": "2026-03-24T00:40:15Z",
+      "time": "2026-03-24T00:30:00Z",
       "sport": "nba",
       "type": "gamefinish",
-      "title": "🏀 NBA西部：杜兰特超越乔丹，历史得分榜再进一步",
-      "description": "NBA历史时刻！杜兰特得分超越乔丹，升至历史得分榜前列。\"还有四个\"——杜兰特继续冲击历史纪录，西部争冠格局更新。",
+      "title": "🔥 肯纳德绝杀湖人赢球",
+      "description": "肯纳德在比赛最后时刻投中关键球，帮助湖人队赢得胜利。这支红热的湖人队继续保持强势表现，目前战绩火热。",
       "importance": "high"
     },
     {
       "id": 3,
-      "time": "2026-03-24T00:39:30Z",
+      "time": "2026-03-24T00:15:00Z",
       "sport": "nba",
-      "type": "gamefinish",
-      "title": "🏀 NBA东部：威廉姆斯伤愈复出，雷霆对76人",
-      "description": "NBA东部焦点：OKC雷霆（联盟第一）消息称威廉姆斯将在对76人比赛中复出。SGA领跑全联盟31.6分，雷霆继续冲击历史战绩。",
-      "importance": "high"
+      "type": "injury",
+      "title": "🤕 库里膝伤恢复进展",
+      "description": "斯蒂芬·库里的膝伤恢复良好，已准备进行实战接触训练。这对勇士队的季后赛前景是个好消息。",
+      "importance": "medium"
     },
     {
       "id": 4,
-      "time": "2026-03-24T00:38:45Z",
-      "sport": "nba",
+      "time": "2026-03-23T23:45:00Z",
+      "sport": "football",
       "type": "gamefinish",
-      "title": "🏀 NBA禁赛：米切尔、香槟尼遭禁赛处罚",
-      "description": "NBA纪律处罚：雷霆米切尔、奇才香槟尼因违规被禁赛。卢卡·东契奇16次技术犯规被取消，避免禁赛。联盟继续严格执行纪律。",
+      "title": "⚽ 曼城赢得联赛杯冠军",
+      "description": "曼城在联赛杯决赛中击败阿森纳，赢得本赛季首个重要杯赛冠军。这场胜利表明曼城在英超争冠中仍有竞争力。",
       "importance": "high"
     },
     {
       "id": 5,
-      "time": "2026-03-24T00:38:00Z",
+      "time": "2026-03-23T23:30:00Z",
       "sport": "football",
-      "type": "gamefinish",
-      "title": "⚽ 英超：曼城赢得英联杯，阿森纳无缘四冠",
-      "description": "英超焦点：曼城击败阿森纳赢得英联杯冠军。阿森纳无缘四冠王梦想，但仍领先曼城9分。曼城暗示英超争冠还未结束。",
+      "type": "transfer",
+      "title": "📰 格里兹曼加盟奥兰多城",
+      "description": "安托万·格里兹曼与美国职业大联盟球队奥兰多城达成协议，签订两年合同。这是MLS今年冬季转会窗口的重磅交易。",
       "importance": "high"
     },
     {
       "id": 6,
-      "time": "2026-03-24T00:37:15Z",
+      "time": "2026-03-23T23:15:00Z",
       "sport": "football",
-      "type": "gamefinish",
-      "title": "⚽ 英超：热刺危机加深，帅位岌岌可危",
-      "description": "英超焦点：热刺主场0-3惨败诺丁汉森林，仅领先降级区1分。球队陷入危机，主帅位置岌岌可危。英超争四形势复杂。",
+      "type": "transfer",
+      "title": "🇫🇷 齐达内口头同意执教法国",
+      "description": "消息人士透露，齐内丁·齐达内已口头同意接任法国国家队主教练职位。这将是他职业生涯中的重要新篇章。",
       "importance": "high"
     },
     {
       "id": 7,
-      "time": "2026-03-24T00:36:30Z",
-      "sport": "football",
+      "time": "2026-03-23T23:00:00Z",
+      "sport": "tennis",
       "type": "gamefinish",
-      "title": "⚽ 英超：格里兹曼加盟奥兰多，转会市场升温",
-      "description": "英超转会新闻：格里兹曼与奥兰多联队达成2年合约。英超转会市场升温，多支球队调整阵容备战冲刺阶段。",
+      "title": "🎾 科达击败阿尔卡拉斯",
+      "description": "科尔达在迈阿密公开赛第三轮中击败卡洛斯·阿尔卡拉斯，爆冷晋级。这是本赛季网坛的一个重大冷门。",
       "importance": "high"
     },
     {
       "id": 8,
-      "time": "2026-03-24T00:35:45Z",
+      "time": "2026-03-23T22:45:00Z",
       "sport": "tennis",
-      "type": "gamefinish",
-      "title": "🎾 ATP迈阿密：阿尔卡拉斯爆冷出局，科达晋级",
-      "description": "ATP迈阿密大师赛男单第三轮，世界第一阿尔卡拉斯以3-6/7-5/4-6不敌本土好手科达，爆出超大冷门。阿尔卡拉斯近期状态下滑。",
-      "importance": "high"
+      "type": "injury",
+      "title": "🤒 拉德卡诺娃因病退赛",
+      "description": "埃琳娜·拉德卡诺娃因病仍未痊愈，宣布退出迈阿密公开赛。英国网球明星继续与疾病作斗争。",
+      "importance": "medium"
     },
     {
       "id": 9,
-      "time": "2026-03-24T00:35:00Z",
+      "time": "2026-03-23T22:30:00Z",
       "sport": "tennis",
-      "type": "gamefinish",
-      "title": "🎾 WTA迈阿密：郑钦文逆转晋级16强",
-      "description": "WTA1000迈阿密站第三轮，中国选手郑钦文以4-6/6-2/6-4逆转战胜15号种子凯斯，晋级女单16强。即时排名升至No.30。",
+      "type": "record",
+      "title": "🏆 辛纳赢得印第安威尔斯",
+      "description": "扬尼克·辛纳赢得印第安威尔斯大师赛冠军，并在赛后向F1车手安东内利致敬。这是辛纳本赛季的又一个重要胜利。",
       "importance": "high"
     },
     {
       "id": 10,
-      "time": "2026-03-24T00:34:15Z",
-      "sport": "football",
-      "type": "gamefinish",
-      "title": "🇫🇷 齐达内确认执教法国！接替德尚执掌国家队",
-      "description": "法国足坛大新闻！齐达内口头同意执教法国国家队，将接替德尚成为新任主帅，为2026世界杯做准备。法国足坛迎来新时代。",
-      "importance": "high"
+      "time": "2026-03-23T22:15:00Z",
+      "sport": "nba",
+      "type": "suspension",
+      "title": "⚠️ 雷霆后卫遭禁赛",
+      "description": "俄克拉荷马城雷霆队后卫德尼斯·施罗德遭到禁赛处罚。球队面临人员调整的挑战。",
+      "importance": "medium"
     }
   ],
-  "lastUpdated": "2026-03-24T00:41:00Z",
+  "lastUpdated": "2026-03-24T00:52:00Z",
   "sources": {
-    "nba": "ESPN NBA Scoreboard",
+    "nba": "ESPN NBA",
     "soccer": "ESPN FC",
     "tennis": "ESPN Tennis"
   }
