@@ -1,0 +1,100 @@
+{
+  "timeline": [
+    {
+      "id": 1,
+      "time": "2026-03-23T23:11:00Z",
+      "sport": "NBA",
+      "type": "gamefinish",
+      "title": "🏀 Celtics主场大胜！Brown砍29分",
+      "description": "凯尔特人主场击败森林狼！Jaylen Brown砍下29分7篮板，绿衫军继续领跑东部",
+      "importance": "high"
+    },
+    {
+      "id": 2,
+      "time": "2026-03-23T23:10:00Z",
+      "sport": "NBA",
+      "type": "gamefinish",
+      "title": "🔥 Booker25分！太阳主场险胜猛龙",
+      "description": "德文·布克砍下25分6助攻，太阳主场120-98击败猛龙，保持西部争冠势头",
+      "importance": "high"
+    },
+    {
+      "id": 3,
+      "time": "2026-03-23T23:09:00Z",
+      "sport": "NBA",
+      "type": "gamefinish",
+      "title": "💪 Knicks主场大胜！Towns26分16篮板",
+      "description": "尼克斯主场145-113大胜奇才！Karl-Anthony Towns砍26分16篮板，纽约军团势不可挡",
+      "importance": "high"
+    },
+    {
+      "id": 4,
+      "time": "2026-03-23T23:08:00Z",
+      "sport": "NBA",
+      "type": "gamefinish",
+      "title": "⚡ Monk32分！国王主场击败篮网",
+      "description": "Malik Monk砍下32分6助攻，国王主场126-122险胜篮网，保持季后赛争夺",
+      "importance": "high"
+    },
+    {
+      "id": 5,
+      "time": "2026-03-23T23:07:00Z",
+      "sport": "NBA",
+      "type": "gamefinish",
+      "title": "🎯 Jokic三双！掘金主场胜开拓者",
+      "description": "Nikola Jokic砍22分14篮板14助攻三双，掘金主场128-112击败开拓者",
+      "importance": "high"
+    },
+    {
+      "id": 6,
+      "time": "2026-03-23T23:06:00Z",
+      "sport": "Soccer",
+      "type": "breaking",
+      "title": "🔥 皇马德比大胜！维尼修斯梅开二度",
+      "description": "皇马主场3-1击败马竞！Vini Jr梅开二度，皇马继续领跑西甲积分榜",
+      "importance": "high"
+    },
+    {
+      "id": 7,
+      "time": "2026-03-23T23:05:00Z",
+      "sport": "Soccer",
+      "type": "gamefinish",
+      "title": "⚽ 曼城点杀阿森纳！英超争冠白热化",
+      "description": "英超争冠大戏！曼城点球大战击败阿森纳，两队积分差距缩小至1分",
+      "importance": "high"
+    },
+    {
+      "id": 8,
+      "time": "2026-03-23T23:04:00Z",
+      "sport": "Tennis",
+      "type": "upset",
+      "title": "💥 阿尔卡拉斯爆冷出局！Korda创造奇迹",
+      "description": "迈阿密大师赛第三轮，Sebastian Korda击败世界第一阿尔卡拉斯，爆冷晋级",
+      "importance": "high"
+    },
+    {
+      "id": 9,
+      "time": "2026-03-23T23:03:00Z",
+      "sport": "Soccer",
+      "type": "transfer",
+      "title": "📝 格列兹曼确认转会MLS！奥兰多城官宣",
+      "description": "官方确认！格列兹曼与奥兰多城签署2年合同，今夏正式登陆美国职业大联盟",
+      "importance": "medium"
+    },
+    {
+      "id": 10,
+      "time": "2026-03-23T23:02:00Z",
+      "sport": "NBA",
+      "type": "milestone",
+      "title": "📊 KD历史第五！超越乔丹生涯总得分",
+      "description": "Kevin Durant生涯总得分正式超越迈克尔·乔丹，升至历史第五位！还差4分登顶第四",
+      "importance": "high"
+    }
+  ],
+  "lastUpdated": "2026-03-23T23:11:30Z",
+  "sources": {
+    "nba": "ESPN NBA",
+    "soccer": "ESPN FC",
+    "tennis": "ESPN Tennis"
+  }
+}
