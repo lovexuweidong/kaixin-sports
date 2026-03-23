@@ -1,29 +1,16 @@
 {
-  "lastUpdated": "2026-03-24T07:25:00Z",
+  "lastUpdated": "2026-03-24T07:35:00Z",
   "dataSource": "ESPN",
   "timeline": [
-    {
-      "id": "tl010",
-      "sport": "basketball",
-      "sportLabel": "🏀 NBA",
-      "time": "07:25",
-      "type": "score",
-      "typeLabel": "📊赛果",
-      "title": "NBA今日10场激战🔥",
-      "desc": "湖人对阵活塞，马刺vs热火，雷霆客战76人等4场正在激战",
-      "image": "🏀",
-      "isLive": true,
-      "important": true
-    },
     {
       "id": "tl001",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "07:25",
+      "time": "07:35",
       "type": "score",
       "typeLabel": "📊赛果",
-      "title": "湖人vs活塞🔥激战正酣",
-      "desc": "10-10战平，第一节进行中",
+      "title": "马刺38-31领先热火🔥",
+      "desc": "圣安东尼奥马刺客场挑战迈阿密热火，波波维奇率队首节领先7分",
       "image": "🏀",
       "isLive": true,
       "important": true
@@ -32,11 +19,11 @@
       "id": "tl002",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "07:24",
+      "time": "07:35",
       "type": "score",
       "typeLabel": "📊赛果",
-      "title": "马刺vs热火🔥",
-      "desc": "比赛即将开始",
+      "title": "雷霆35-35战平76人⚡",
+      "desc": "西部第一雷霆客场对阵费城青年军，首节结束时双方战成平手",
       "image": "🏀",
       "isLive": true,
       "important": true
@@ -45,11 +32,11 @@
       "id": "tl003",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "07:23",
+      "time": "07:34",
       "type": "score",
       "typeLabel": "📊赛果",
-      "title": "雷霆客战76人⚡",
-      "desc": "比赛即将开始",
+      "title": "步行者34-34追平魔术🔄",
+      "desc": "印第安纳步行者首节末段发力，将比分追成34-34平手",
       "image": "🏀",
       "isLive": true,
       "important": false
@@ -58,293 +45,215 @@
       "id": "tl004",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "07:22",
+      "time": "07:34",
       "type": "score",
       "typeLabel": "📊赛果",
-      "title": "步行者vs魔术",
-      "desc": "比赛即将开始",
+      "title": "湖人27-27活塞💪",
+      "desc": "洛杉矶湖人客场挑战东部第一活塞，首节结束双方27-27握手言和",
       "image": "🏀",
       "isLive": true,
-      "important": false
+      "important": true
     },
     {
       "id": "tl005",
-      "sport": "soccer",
-      "sportLabel": "⚽ 足球",
-      "time": "07:21",
-      "type": "score",
-      "typeLabel": "📊赛果",
-      "title": "格拉纳达1-0拉科鲁尼亚",
-      "desc": "西班牙足球联赛正在进行",
-      "image": "⚽",
-      "isLive": true,
-      "important": false
+      "sport": "basketball",
+      "sportLabel": "🏀 NBA",
+      "time": "07:33",
+      "type": "schedule",
+      "typeLabel": "📅待赛",
+      "title": "勇士客战独行侠🔥",
+      "desc": "勇士客场挑战独行侠，库里领衔出击西部季后赛卡位战",
+      "image": "🏀",
+      "isLive": false,
+      "important": true
     },
     {
       "id": "tl006",
-      "sport": "soccer",
-      "sportLabel": "⚽ 足球",
-      "time": "07:20",
-      "type": "score",
-      "typeLabel": "📊赛果",
-      "title": "独立圣菲2-1独立麦德林",
-      "desc": "哥伦比亚足球联赛精彩对决",
-      "image": "⚽",
-      "isLive": true,
+      "sport": "basketball",
+      "sportLabel": "🏀 NBA",
+      "time": "07:33",
+      "type": "schedule",
+      "typeLabel": "📅待赛",
+      "title": "雄鹿vs快船⚔️",
+      "desc": "字母哥对决莱昂纳德，东部季后赛卡位关键战即将打响",
+      "image": "🏀",
+      "isLive": false,
       "important": false
     },
     {
       "id": "tl007",
-      "sport": "tennis",
-      "sportLabel": "🎾 网球",
-      "time": "07:19",
-      "type": "news",
-      "typeLabel": "📰 热点",
-      "title": "网球赛事正在进行🏆",
-      "desc": "ATP/WTA多场对决激战正酣",
-      "image": "🎾",
+      "sport": "soccer",
+      "sportLabel": "⚽ 足球",
+      "time": "07:32",
+      "type": "score",
+      "typeLabel": "📊赛果",
+      "title": "格拉纳达1-0拉科鲁尼亚⚽",
+      "desc": "西乙升级关键战，格拉纳达主场1球领先拉科鲁尼亚",
+      "image": "⚽",
       "isLive": true,
       "important": false
     },
     {
       "id": "tl008",
-      "sport": "basketball",
-      "sportLabel": "🏀 NBA",
-      "time": "07:18",
-      "type": "news",
-      "typeLabel": "📰 热点",
-      "title": "NBA东西部最新排名",
-      "desc": "东部：活塞领跑 西部：雷霆第一",
-      "image": "🏀",
-      "isLive": false,
-      "important": true
+      "sport": "soccer",
+      "sportLabel": "⚽ 足球",
+      "time": "07:31",
+      "type": "score",
+      "typeLabel": "📊赛果",
+      "title": "独立圣菲2-1独立麦德林🔥",
+      "desc": "哥伦比亚联赛经典德比，独立圣菲主场2-1领先独立麦德林",
+      "image": "⚽",
+      "isLive": true,
+      "important": false
     },
     {
       "id": "tl009",
-      "sport": "basketball",
-      "sportLabel": "🏀 NBA",
-      "time": "07:17",
+      "sport": "soccer",
+      "sportLabel": "⚽ 足球",
+      "time": "07:30",
+      "type": "score",
+      "typeLabel": "📊赛果",
+      "title": "阿根廷足坛🔥Nueva Chicago 3-1领先",
+      "desc": "阿根廷乙级联赛，Nueva Chicago主场3-1大幅领先",
+      "image": "⚽",
+      "isLive": true,
+      "important": false
+    },
+    {
+      "id": "tl010",
+      "sport": "tennis",
+      "sportLabel": "🎾 网球",
+      "time": "07:29",
       "type": "news",
-      "typeLabel": "📰 热点",
-      "title": "活塞锁定季后赛🎉",
-      "desc": "底特律活塞51胜19负提前锁定季后赛席位",
-      "image": "🏀",
-      "isLive": false,
-      "important": true
+      "typeLabel": "🏆 战报",
+      "title": "ATP/WTA多场激战🏆",
+      "desc": "印第安维尔斯站男女单第三轮、第四轮全面开战，多场焦点战进行中",
+      "image": "🎾",
+      "isLive": true,
+      "important": false
     }
   ],
   "nba": {
+    "liveGames": [
+      {
+        "home": "Pistons",
+        "away": "Lakers",
+        "homeScore": 27,
+        "awayScore": 27,
+        "period": "Q1",
+        "status": "End of 1st Quarter - TIED",
+        "homeRecord": "51-19",
+        "awayRecord": "46-25",
+        "broadcast": "NBA TV"
+      },
+      {
+        "home": "Magic",
+        "away": "Pacers",
+        "homeScore": 34,
+        "awayScore": 34,
+        "period": "Q1",
+        "status": "End of 1st Quarter - TIED",
+        "homeRecord": "38-32",
+        "awayRecord": "15-56",
+        "broadcast": "NBA TV"
+      },
+      {
+        "home": "76ers",
+        "away": "Thunder",
+        "homeScore": 35,
+        "awayScore": 35,
+        "period": "Q1",
+        "status": "End of 1st Quarter - TIED",
+        "homeRecord": "39-32",
+        "awayRecord": "56-15",
+        "broadcast": "NBCSN"
+      },
+      {
+        "home": "Heat",
+        "away": "Spurs",
+        "homeScore": 31,
+        "awayScore": 38,
+        "period": "Q1",
+        "status": "Spurs leading by 7 - 12.3s left",
+        "homeRecord": "38-33",
+        "awayRecord": "53-18",
+        "broadcast": "Peacock",
+        "lastPlay": "Kasparas Jakucionis 23-foot shot"
+      },
+      {
+        "home": "Grizzlies",
+        "away": "Hawks",
+        "homeScore": 0,
+        "awayScore": 0,
+        "period": "Pre-game",
+        "status": "Pregame"
+      },
+      {
+        "home": "Rockets",
+        "away": "Bulls",
+        "homeScore": 0,
+        "awayScore": 0,
+        "period": "Pre-game",
+        "status": "Pregame"
+      },
+      {
+        "home": "Warriors",
+        "away": "Mavericks",
+        "homeScore": 0,
+        "awayScore": 0,
+        "period": "Pre-game",
+        "status": "Pregame"
+      },
+      {
+        "home": "Bucks",
+        "away": "Clippers",
+        "homeScore": 0,
+        "awayScore": 0,
+        "period": "Pre-game",
+        "status": "Pregame"
+      }
+    ],
     "standings": {
       "east": [
-        {
-          "rank": 1,
-          "team": "Pistons",
-          "w": 51,
-          "l": 19,
-          "pct": ".729"
-        },
-        {
-          "rank": 2,
-          "team": "Celtics",
-          "w": 47,
-          "l": 24,
-          "pct": ".662"
-        },
-        {
-          "rank": 3,
-          "team": "Knicks",
-          "w": 47,
-          "l": 25,
-          "pct": ".653"
-        },
-        {
-          "rank": 4,
-          "team": "Cavaliers",
-          "w": 44,
-          "l": 27,
-          "pct": ".620"
-        },
-        {
-          "rank": 5,
-          "team": "Raptors",
-          "w": 39,
-          "l": 31,
-          "pct": ".557"
-        },
-        {
-          "rank": 6,
-          "team": "Hawks",
-          "w": 39,
-          "l": 32,
-          "pct": ".549"
-        },
-        {
-          "rank": 7,
-          "team": "76ers",
-          "w": 39,
-          "l": 32,
-          "pct": ".549"
-        },
-        {
-          "rank": 8,
-          "team": "Magic",
-          "w": 38,
-          "l": 32,
-          "pct": ".543"
-        },
-        {
-          "rank": 9,
-          "team": "Heat",
-          "w": 38,
-          "l": 33,
-          "pct": ".535"
-        },
-        {
-          "rank": 10,
-          "team": "Hornets",
-          "w": 37,
-          "l": 34,
-          "pct": ".521"
-        }
+        { "rank": 1, "team": "Pistons", "w": 51, "l": 19, "pct": ".729" },
+        { "rank": 2, "team": "Celtics", "w": 47, "l": 24, "pct": ".662" },
+        { "rank": 3, "team": "Knicks", "w": 47, "l": 25, "pct": ".653" },
+        { "rank": 4, "team": "Cavaliers", "w": 44, "l": 27, "pct": ".620" },
+        { "rank": 5, "team": "Raptors", "w": 39, "l": 31, "pct": ".557" },
+        { "rank": 6, "team": "Hawks", "w": 39, "l": 32, "pct": ".549" },
+        { "rank": 7, "team": "76ers", "w": 39, "l": 32, "pct": ".549" },
+        { "rank": 8, "team": "Magic", "w": 38, "l": 32, "pct": ".543" },
+        { "rank": 9, "team": "Heat", "w": 38, "l": 33, "pct": ".535" },
+        { "rank": 10, "team": "Hornets", "w": 37, "l": 34, "pct": ".521" }
       ],
       "west": [
-        {
-          "rank": 1,
-          "team": "Thunder",
-          "w": 56,
-          "l": 15,
-          "pct": ".789"
-        },
-        {
-          "rank": 2,
-          "team": "Spurs",
-          "w": 53,
-          "l": 18,
-          "pct": ".746"
-        },
-        {
-          "rank": 3,
-          "team": "Lakers",
-          "w": 46,
-          "l": 25,
-          "pct": ".648"
-        },
-        {
-          "rank": 4,
-          "team": "Rockets",
-          "w": 43,
-          "l": 27,
-          "pct": ".614"
-        },
-        {
-          "rank": 5,
-          "team": "Nuggets",
-          "w": 44,
-          "l": 28,
-          "pct": ".611"
-        },
-        {
-          "rank": 6,
-          "team": "Timberwolves",
-          "w": 44,
-          "l": 28,
-          "pct": ".611"
-        },
-        {
-          "rank": 7,
-          "team": "Suns",
-          "w": 40,
-          "l": 32,
-          "pct": ".556"
-        },
-        {
-          "rank": 8,
-          "team": "Clippers",
-          "w": 35,
-          "l": 36,
-          "pct": ".493"
-        },
-        {
-          "rank": 9,
-          "team": "Trail Blazers",
-          "w": 35,
-          "l": 37,
-          "pct": ".486"
-        },
-        {
-          "rank": 10,
-          "team": "Warriors",
-          "w": 33,
-          "l": 38,
-          "pct": ".465"
-        }
+        { "rank": 1, "team": "Thunder", "w": 56, "l": 15, "pct": ".789" },
+        { "rank": 2, "team": "Spurs", "w": 53, "l": 18, "pct": ".746" },
+        { "rank": 3, "team": "Lakers", "w": 46, "l": 25, "pct": ".648" },
+        { "rank": 4, "team": "Rockets", "w": 43, "l": 27, "pct": ".614" },
+        { "rank": 5, "team": "Nuggets", "w": 44, "l": 28, "pct": ".611" },
+        { "rank": 6, "team": "Timberwolves", "w": 44, "l": 28, "pct": ".611" },
+        { "rank": 7, "team": "Suns", "w": 40, "l": 32, "pct": ".556" },
+        { "rank": 8, "team": "Clippers", "w": 35, "l": 36, "pct": ".493" },
+        { "rank": 9, "team": "Trail Blazers", "w": 35, "l": 37, "pct": ".486" },
+        { "rank": 10, "team": "Warriors", "w": 33, "l": 38, "pct": ".465" }
       ]
     }
   },
   "tennis": {
     "atp": [
-      {
-        "rank": 1,
-        "name": "Carlos Alcaraz",
-        "points": 13550,
-        "trend": "-"
-      },
-      {
-        "rank": 2,
-        "name": "Jannik Sinner",
-        "points": 11400,
-        "trend": "-"
-      },
-      {
-        "rank": 3,
-        "name": "Novak Djokovic",
-        "points": 5370,
-        "trend": "-"
-      },
-      {
-        "rank": 4,
-        "name": "Alexander Zverev",
-        "points": 4905,
-        "trend": "-"
-      },
-      {
-        "rank": 5,
-        "name": "Lorenzo Musetti",
-        "points": 4365,
-        "trend": "↑"
-      }
+      { "rank": 1, "name": "Carlos Alcaraz", "points": 13550, "trend": "-" },
+      { "rank": 2, "name": "Jannik Sinner", "points": 11400, "trend": "-" },
+      { "rank": 3, "name": "Novak Djokovic", "points": 5370, "trend": "-" },
+      { "rank": 4, "name": "Alexander Zverev", "points": 4905, "trend": "-" },
+      { "rank": 5, "name": "Lorenzo Musetti", "points": 4365, "trend": "↑" }
     ],
     "wta": [
-      {
-        "rank": 1,
-        "name": "Aryna Sabalenka",
-        "points": 11025,
-        "trend": "-"
-      },
-      {
-        "rank": 2,
-        "name": "Elena Rybakina",
-        "points": 7783,
-        "trend": "↑"
-      },
-      {
-        "rank": 3,
-        "name": "Iga Swiatek",
-        "points": 7413,
-        "trend": "↓"
-      },
-      {
-        "rank": 4,
-        "name": "Coco Gauff",
-        "points": 6748,
-        "trend": "-"
-      },
-      {
-        "rank": 5,
-        "name": "Jessica Pegula",
-        "points": 6678,
-        "trend": "-"
-      }
+      { "rank": 1, "name": "Aryna Sabalenka", "points": 11025, "trend": "-" },
+      { "rank": 2, "name": "Elena Rybakina", "points": 7783, "trend": "↑" },
+      { "rank": 3, "name": "Iga Swiatek", "points": 7413, "trend": "↓" },
+      { "rank": 4, "name": "Coco Gauff", "points": 6748, "trend": "-" },
+      { "rank": 5, "name": "Jessica Pegula", "points": 6678, "trend": "-" }
     ]
   },
   "soccer": {
@@ -354,20 +263,38 @@
         "home": "Granada",
         "away": "Deportivo La Coruña",
         "score": "1-0",
-        "status": "进行中"
+        "status": "进行中",
+        "venue": "Ciudad Deportiva del Granada CF"
       },
       {
         "league": "Colombia Primera A",
         "home": "Independiente Santa Fe",
         "away": "Independiente Medellin",
         "score": "2-1",
-        "status": "进行中"
+        "status": "进行中",
+        "venue": "Estadio Nemesio Camacho El Campín"
       },
       {
         "league": "Argentina Primera B",
         "home": "Nueva Chicago",
         "away": "Gimnasia y Tiro Salta",
         "score": "3-1",
+        "status": "进行中",
+        "venue": "República de Mataderos",
+        "scorer": "F Rojas 45'+1'"
+      },
+      {
+        "league": "Paraguay Primera Division",
+        "home": "Trinidense",
+        "away": "Deportivo Recoleta",
+        "score": "3-2",
+        "status": "进行中"
+      },
+      {
+        "league": "Colombia Primera A",
+        "home": "Boyacá Chicó",
+        "away": "Deportes Tolima",
+        "score": "1-1",
         "status": "进行中"
       }
     ]
