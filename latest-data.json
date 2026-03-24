@@ -1,134 +1,134 @@
 {
-  "lastUpdated": "2026-03-24T08:20:48.774396+08:00",
-  "dataSource": "ESPN NBA Live API (2026-03-24)",
+  "lastUpdated": "2026-03-24T08:21:30.000000+08:00",
+  "dataSource": "ESPN Live Data (2026-03-24 08:21 UTC)",
   "timeline": [
     {
       "id": "tl001",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "08:20",
-      "type": "schedule",
-      "typeLabel": "📋 今日赛程",
-      "title": "国王 @ 黄蜂 | 08:30 开球",
-      "desc": "黄蜂主场迎战国王，黄蜂37胜34负东部第10，国王31胜40负西部第12 | ESPN 直播",
-      "image": "🏀",
-      "isLive": false,
+      "time": "08:21",
+      "type": "live",
+      "typeLabel": "🔴 直播中",
+      "title": "雷霆 65 @ 51 七六人 | 半场",
+      "desc": "雷霆无解模式！SGA领衔65分狂潮，半场领先14分 | ESPN直播",
+      "image": "⚡",
+      "isLive": true,
       "important": true
     },
     {
       "id": "tl002",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "08:20",
-      "type": "schedule",
-      "typeLabel": "📋 今日赛程",
-      "title": "鹈鹕 @ 尼克斯 | 09:00 开球",
-      "desc": "尼克斯主场47胜25负东部第3，MSG全场关注！鹈鹕急求一胜 | ESPN 直播",
-      "image": "⭐",
-      "isLive": false,
+      "time": "08:21",
+      "type": "live",
+      "typeLabel": "🔴 直播中",
+      "title": "马刺 87 @ 58 热火 | 半场",
+      "desc": "马刺火力全开！文班狂砍87分？半场领先29分打崩热火 | ESPN直播",
+      "image": "🔥",
+      "isLive": true,
       "important": true
     },
     {
       "id": "tl003",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "08:20",
-      "type": "schedule",
-      "typeLabel": "📋 今日赛程",
-      "title": "魔术 @ 骑士 | 09:30 开球",
-      "desc": "东部第4 vs 第4！骑士44胜27负，魔术38胜32负，两队仅差6场 | ESPN 直播",
-      "image": "🔥",
-      "isLive": false,
+      "time": "08:21",
+      "type": "live",
+      "typeLabel": "🔴 直播中",
+      "title": "湖人 55 @ 52 活塞 | 半场",
+      "desc": "湖人vs活塞强强对话！东契奇对飙康宁汉姆，半场仅差3分 | ESPN直播",
+      "image": "🏀",
+      "isLive": true,
       "important": true
     },
     {
       "id": "tl004",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "08:20",
-      "type": "schedule",
-      "typeLabel": "📋 今日赛程",
-      "title": "掘金 @ 太阳 | 10:00 开球",
-      "desc": "掘金44胜28负 vs 太阳40胜32负！约基奇PK三巨头，西部第5卡位战 | ESPN 直播",
-      "image": "⚡",
-      "isLive": false,
+      "time": "08:21",
+      "type": "live",
+      "typeLabel": "🔴 直播中",
+      "title": "魔术 60 @ 59 步行者 | 半场",
+      "desc": "东部卡位战！魔术班凯罗 vs 步行者哈利伯顿，半场仅差1分！",
+      "image": "⭐",
+      "isLive": true,
       "important": true
     },
     {
       "id": "tl005",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "08:20",
-      "type": "news",
-      "typeLabel": "📰 排名",
-      "title": "活塞 52胜19负锁定东部季后赛",
-      "desc": "活塞74.3%胜率领跑东部，领先第2名凯尔特人5场，提前锁定季后赛资格",
+      "time": "08:21",
+      "type": "live",
+      "typeLabel": "🔴 直播中",
+      "title": "灰熊 22 @ 32 老鹰 | Q2 7:11",
+      "desc": "莫兰特对飙特雷杨！老鹰32分领先，莫兰特受伤缺阵后灰熊哑火",
       "image": "🏀",
-      "isLive": false,
-      "important": true
+      "isLive": true,
+      "important": false
     },
     {
       "id": "tl006",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "08:20",
+      "time": "08:21",
+      "type": "live",
+      "typeLabel": "🔴 直播中",
+      "title": "火箭 6 @ 6 公牛 | Q1 6:53",
+      "desc": "锡伯杜式防守！火箭公牛开局集体打铁，首节仅6-6战平",
+      "image": "🏀",
+      "isLive": true,
+      "important": false
+    },
+    {
+      "id": "tl007",
+      "sport": "tennis",
+      "sportLabel": "🎾 ATP",
+      "time": "08:21",
       "type": "news",
-      "typeLabel": "📰 排名",
-      "title": "雷霆 56胜15负西部称霸",
-      "desc": "雷霆78.9%胜率领跑全联盟！领先第2名马刺3场胜差，DPOY竞争激烈",
-      "image": "⚡",
+      "typeLabel": "📊 排名更新",
+      "title": "ATP世界排名：阿尔卡拉斯13550分领跑",
+      "desc": "辛纳11400分升至第2！德约暴跌至5370分跌出前3，费德勒席位不保",
+      "image": "🎾",
       "isLive": false,
       "important": true
     },
     {
-      "id": "tl007",
-      "sport": "basketball",
-      "sportLabel": "🏀 NBA",
-      "time": "08:20",
-      "type": "news",
-      "typeLabel": "📰 热点",
-      "title": "西部附加赛格局白热化",
-      "desc": "太阳40胜32负暂列第7！快船/开拓者/勇士三队仅差2场胜差，附加赛名额悬念丛生",
-      "image": "🏀",
-      "isLive": false,
-      "important": false
-    },
-    {
       "id": "tl008",
-      "sport": "basketball",
-      "sportLabel": "🏀 NBA",
-      "time": "08:20",
+      "sport": "tennis",
+      "sportLabel": "🎾 WTA",
+      "time": "08:21",
       "type": "news",
-      "typeLabel": "📰 热点",
-      "title": "3月24日NBA比赛日",
-      "desc": "今日共4场比赛：国王@黄蜂、鹈鹕@尼克斯、魔术@骑士、掘金@太阳",
-      "image": "🏀",
+      "typeLabel": "📊 排名更新",
+      "title": "WTA排名：萨巴伦卡11025分稳坐第1",
+      "desc": "莱巴金娜升至第2！斯瓦泰克跌至第3，郑钦文1553分排名第26",
+      "image": "🎾",
       "isLive": false,
       "important": false
     },
     {
       "id": "tl009",
-      "sport": "tennis",
-      "sportLabel": "🎾 ATP",
-      "time": "08:20",
+      "sport": "soccer",
+      "sportLabel": "⚽ 足球",
+      "time": "08:21",
       "type": "news",
-      "typeLabel": "📊 排名",
-      "title": "ATP世界排名TOP10",
-      "desc": "阿尔卡拉斯13550分稳居第1，辛纳11830分第2，德约科维奇10430分升至第3",
-      "image": "🎾",
+      "typeLabel": "📰 战报",
+      "title": "格拉纳达 1-0 拉科鲁尼亚 | 西乙",
+      "desc": "西乙联赛格拉纳达主场1球小胜拉科鲁尼亚，积35分排名第12",
+      "image": "⚽",
       "isLive": false,
       "important": false
     },
     {
       "id": "tl010",
-      "sport": "tennis",
-      "sportLabel": "🎾 WTA",
-      "time": "08:20",
+      "sport": "soccer",
+      "sportLabel": "⚽ 非洲杯",
+      "time": "08:21",
       "type": "news",
-      "typeLabel": "📊 排名",
-      "title": "WTA世界排名TOP10",
-      "desc": "萨巴伦卡11025分强势领跑，斯瓦泰克9775分升至第2，高芙8200分升至第3",
-      "image": "🎾",
+      "typeLabel": "🏆 非洲杯",
+      "title": "非洲杯小组赛进行中 | 摩洛哥vs塞内加尔",
+      "desc": "非洲杯资格赛激战！摩洛哥vs塞内加尔、阿尔及利亚vs肯尼亚等4场比赛同时进行",
+      "image": "🌍",
       "isLive": false,
       "important": false
     }
@@ -136,320 +136,76 @@
   "nba": {
     "standings": {
       "east": [
-        {
-          "rank": 1,
-          "team": "Pistons",
-          "w": 52,
-          "l": 19,
-          "pct": ".729",
-          "conf": "东部第1",
-          "note": "已锁定季后赛"
-        },
-        {
-          "rank": 2,
-          "team": "Celtics",
-          "w": 47,
-          "l": 24,
-          "pct": ".662"
-        },
-        {
-          "rank": 3,
-          "team": "Knicks",
-          "w": 47,
-          "l": 25,
-          "pct": ".653"
-        },
-        {
-          "rank": 4,
-          "team": "Cavaliers",
-          "w": 44,
-          "l": 27,
-          "pct": ".620"
-        },
-        {
-          "rank": 5,
-          "team": "Raptors",
-          "w": 39,
-          "l": 31,
-          "pct": ".557"
-        },
-        {
-          "rank": 6,
-          "team": "Hawks",
-          "w": 39,
-          "l": 32,
-          "pct": ".549"
-        },
-        {
-          "rank": 7,
-          "team": "76ers",
-          "w": 39,
-          "l": 32,
-          "pct": ".543"
-        },
-        {
-          "rank": 8,
-          "team": "Magic",
-          "w": 38,
-          "l": 32,
-          "pct": ".543"
-        },
-        {
-          "rank": 9,
-          "team": "Heat",
-          "w": 38,
-          "l": 33,
-          "pct": ".535"
-        },
-        {
-          "rank": 10,
-          "team": "Hornets",
-          "w": 37,
-          "l": 34,
-          "pct": ".521"
-        }
+        {"rank": 1, "team": "Pistons", "w": 52, "l": 19, "pct": ".729", "conf": "东部第1", "note": "已锁定季后赛"},
+        {"rank": 2, "team": "Celtics", "w": 47, "l": 24, "pct": ".662"},
+        {"rank": 3, "team": "Knicks", "w": 47, "l": 25, "pct": ".653"},
+        {"rank": 4, "team": "Cavaliers", "w": 44, "l": 27, "pct": ".620"},
+        {"rank": 5, "team": "Raptors", "w": 39, "l": 31, "pct": ".557"},
+        {"rank": 6, "team": "Hawks", "w": 39, "l": 32, "pct": ".549"},
+        {"rank": 7, "team": "76ers", "w": 39, "l": 32, "pct": ".543"},
+        {"rank": 8, "team": "Magic", "w": 38, "l": 32, "pct": ".543"},
+        {"rank": 9, "team": "Heat", "w": 38, "l": 33, "pct": ".535"},
+        {"rank": 10, "team": "Hornets", "w": 37, "l": 34, "pct": ".521"}
       ],
       "west": [
-        {
-          "rank": 1,
-          "team": "Thunder",
-          "w": 56,
-          "l": 15,
-          "pct": ".789",
-          "conf": "西部第1",
-          "note": "已锁定季后赛"
-        },
-        {
-          "rank": 2,
-          "team": "Spurs",
-          "w": 53,
-          "l": 18,
-          "pct": ".746"
-        },
-        {
-          "rank": 3,
-          "team": "Lakers",
-          "w": 46,
-          "l": 25,
-          "pct": ".648"
-        },
-        {
-          "rank": 4,
-          "team": "Rockets",
-          "w": 43,
-          "l": 27,
-          "pct": ".614"
-        },
-        {
-          "rank": 5,
-          "team": "Nuggets",
-          "w": 44,
-          "l": 28,
-          "pct": ".611"
-        },
-        {
-          "rank": 6,
-          "team": "Timberwolves",
-          "w": 44,
-          "l": 28,
-          "pct": ".611"
-        },
-        {
-          "rank": 7,
-          "team": "Suns",
-          "w": 40,
-          "l": 32,
-          "pct": ".556"
-        },
-        {
-          "rank": 8,
-          "team": "Clippers",
-          "w": 35,
-          "l": 36,
-          "pct": ".493"
-        },
-        {
-          "rank": 9,
-          "team": "Trail Blazers",
-          "w": 35,
-          "l": 37,
-          "pct": ".486"
-        },
-        {
-          "rank": 10,
-          "team": "Warriors",
-          "w": 33,
-          "l": 38,
-          "pct": ".465"
-        }
+        {"rank": 1, "team": "Thunder", "w": 56, "l": 15, "pct": ".789", "conf": "西部第1", "note": "已锁定季后赛"},
+        {"rank": 2, "team": "Spurs", "w": 53, "l": 18, "pct": ".746"},
+        {"rank": 3, "team": "Lakers", "w": 46, "l": 25, "pct": ".648"},
+        {"rank": 4, "team": "Rockets", "w": 43, "l": 27, "pct": ".614"},
+        {"rank": 5, "team": "Nuggets", "w": 44, "l": 28, "pct": ".611"},
+        {"rank": 6, "team": "Timberwolves", "w": 44, "l": 28, "pct": ".611"},
+        {"rank": 7, "team": "Suns", "w": 40, "l": 32, "pct": ".556"},
+        {"rank": 8, "team": "Clippers", "w": 35, "l": 36, "pct": ".493"},
+        {"rank": 9, "team": "Trail Blazers", "w": 35, "l": 37, "pct": ".486"},
+        {"rank": 10, "team": "Warriors", "w": 33, "l": 38, "pct": ".465"}
       ]
     },
     "liveGames": [
-      {
-        "home": "Hornets",
-        "away": "Kings",
-        "homeScore": 0,
-        "awayScore": 0,
-        "time": "08:30",
-        "status": "scheduled",
-        "note": "📋 即将开球 | 黄蜂 vs 国王"
-      },
-      {
-        "home": "Knicks",
-        "away": "Pelicans",
-        "homeScore": 0,
-        "awayScore": 0,
-        "time": "09:00",
-        "status": "scheduled",
-        "note": "📋 即将开球 | 尼克斯 vs 鹈鹕"
-      },
-      {
-        "home": "Cavaliers",
-        "away": "Magic",
-        "homeScore": 0,
-        "awayScore": 0,
-        "time": "09:30",
-        "status": "scheduled",
-        "note": "📋 即将开球 | 骑士 vs 魔术"
-      },
-      {
-        "home": "Suns",
-        "away": "Nuggets",
-        "homeScore": 0,
-        "awayScore": 0,
-        "time": "10:00",
-        "status": "scheduled",
-        "note": "📋 即将开球 | 太阳 vs 掘金"
-      }
+      {"home": "Pistons", "away": "Lakers", "homeScore": 52, "awayScore": 55, "time": "半场", "status": "halftime", "note": "🔴 半场 | 湖人 vs 活塞"},
+      {"home": "Magic", "away": "Pacers", "homeScore": 60, "awayScore": 59, "time": "半场", "status": "halftime", "note": "🔴 半场 | 魔术 vs 步行者"},
+      {"home": "Thunder", "away": "76ers", "homeScore": 65, "awayScore": 51, "time": "半场", "status": "halftime", "note": "🔴 半场 | 雷霆 vs 七六人"},
+      {"home": "Heat", "away": "Spurs", "homeScore": 58, "awayScore": 87, "time": "半场", "status": "halftime", "note": "🔴 半场 | 马刺 vs 热火"},
+      {"home": "Hawks", "away": "Grizzlies", "homeScore": 32, "awayScore": 22, "time": "Q2 7:11", "status": "live", "note": "🔴 进行中 | 老鹰 vs 灰熊"},
+      {"home": "Bulls", "away": "Rockets", "homeScore": 6, "awayScore": 6, "time": "Q1 6:53", "status": "live", "note": "🔴 进行中 | 公牛 vs 火箭"},
+      {"home": "Raptors", "away": "Jazz", "homeScore": 0, "awayScore": 0, "time": "未开始", "status": "scheduled", "note": "📋 未开始 | 猛龙 vs 爵士"},
+      {"home": "Mavericks", "away": "Warriors", "homeScore": 0, "awayScore": 0, "time": "未开始", "status": "scheduled", "note": "📋 未开始 | 独行侠 vs 勇士"},
+      {"home": "Trail Blazers", "away": "Nets", "homeScore": 0, "awayScore": 0, "time": "未开始", "status": "scheduled", "note": "📋 未开始 | 开拓者 vs 篮网"},
+      {"home": "Clippers", "away": "Bucks", "homeScore": 0, "awayScore": 0, "time": "未开始", "status": "scheduled", "note": "📋 未开始 | 快船 vs 雄鹿"}
     ]
   },
   "tennis": {
     "atp": [
-      {
-        "rank": 1,
-        "name": "Carlos Alcaraz",
-        "points": 13550,
-        "trend": "-"
-      },
-      {
-        "rank": 2,
-        "name": "Jannik Sinner",
-        "points": 11830,
-        "trend": "-"
-      },
-      {
-        "rank": 3,
-        "name": "Novak Djokovic",
-        "points": 10430,
-        "trend": "↑"
-      },
-      {
-        "rank": 4,
-        "name": "Alexander Zverev",
-        "points": 8700,
-        "trend": "-"
-      },
-      {
-        "rank": 5,
-        "name": "Taylor Fritz",
-        "points": 7600,
-        "trend": "↑"
-      },
-      {
-        "rank": 6,
-        "name": "Daniil Medvedev",
-        "points": 5900,
-        "trend": "-"
-      },
-      {
-        "rank": 7,
-        "name": "Alex De Minaur",
-        "points": 4410,
-        "trend": "-"
-      },
-      {
-        "rank": 8,
-        "name": "Lorenzo Musetti",
-        "points": 4210,
-        "trend": "↓"
-      },
-      {
-        "rank": 9,
-        "name": "Tommy Paul",
-        "points": 3800,
-        "trend": "-"
-      },
-      {
-        "rank": 10,
-        "name": "Ben Shelton",
-        "points": 3550,
-        "trend": "-"
-      }
+      {"rank": 1, "name": "Carlos Alcaraz", "points": 13550, "trend": "-"},
+      {"rank": 2, "name": "Jannik Sinner", "points": 11400, "trend": "↑"},
+      {"rank": 3, "name": "Novak Djokovic", "points": 5370, "trend": "↓"},
+      {"rank": 4, "name": "Alexander Zverev", "points": 4905, "trend": "-"},
+      {"rank": 5, "name": "Lorenzo Musetti", "points": 4365, "trend": "↑"},
+      {"rank": 6, "name": "Alex De Minaur", "points": 4185, "trend": "↓"},
+      {"rank": 7, "name": "Taylor Fritz", "points": 4170, "trend": "↑"},
+      {"rank": 8, "name": "Felix Auger-Aliassime", "points": 4000, "trend": "↑"},
+      {"rank": 9, "name": "Ben Shelton", "points": 3860, "trend": "↑"},
+      {"rank": 10, "name": "Daniil Medvedev", "points": 3610, "trend": "↓"}
     ],
     "wta": [
-      {
-        "rank": 1,
-        "name": "Aryna Sabalenka",
-        "points": 11025,
-        "trend": "-"
-      },
-      {
-        "rank": 2,
-        "name": "Iga Swiatek",
-        "points": 9775,
-        "trend": "↑"
-      },
-      {
-        "rank": 3,
-        "name": "Coco Gauff",
-        "points": 8200,
-        "trend": "↑"
-      },
-      {
-        "rank": 4,
-        "name": "Jessica Pegula",
-        "points": 7100,
-        "trend": "↓"
-      },
-      {
-        "rank": 5,
-        "name": "Elena Rybakina",
-        "points": 6500,
-        "trend": "-"
-      },
-      {
-        "rank": 6,
-        "name": "Paula Badosa",
-        "points": 5500,
-        "trend": "-"
-      },
-      {
-        "rank": 7,
-        "name": "Emma Navarro",
-        "points": 4600,
-        "trend": "↑"
-      },
-      {
-        "rank": 8,
-        "name": "Danielle Collins",
-        "points": 4000,
-        "trend": "-"
-      },
-      {
-        "rank": 9,
-        "name": "Madison Keys",
-        "points": 3600,
-        "trend": "-"
-      },
-      {
-        "rank": 10,
-        "name": "Beatriz Haddad Maia",
-        "points": 3100,
-        "trend": "-"
-      }
+      {"rank": 1, "name": "Aryna Sabalenka", "points": 11025, "trend": "-"},
+      {"rank": 2, "name": "Elena Rybakina", "points": 7783, "trend": "↑"},
+      {"rank": 3, "name": "Iga Swiatek", "points": 7413, "trend": "↓"},
+      {"rank": 4, "name": "Coco Gauff", "points": 6748, "trend": "↓"},
+      {"rank": 5, "name": "Jessica Pegula", "points": 6678, "trend": "↓"},
+      {"rank": 6, "name": "Amanda Anisimova", "points": 6180, "trend": "↑"},
+      {"rank": 7, "name": "Jasmine Paolini", "points": 4232, "trend": "-"},
+      {"rank": 8, "name": "Elina Svitolina", "points": 4020, "trend": "↑"},
+      {"rank": 9, "name": "Victoria Mboko", "points": 3351, "trend": "↑"},
+      {"rank": 10, "name": "Mirra Andreeva", "points": 3066, "trend": "↑"}
     ]
   },
   "soccer": {
-    "liveMatches": []
+    "liveMatches": [
+      {"home": "Granada", "away": "Deportivo La Coruña", "homeScore": 1, "awayScore": 0, "league": "西乙", "status": "finished", "note": "🏁 完场 | 格拉纳达 1-0 拉科鲁尼亚"},
+      {"home": "Senegal", "away": "Morocco", "homeScore": 0, "awayScore": 0, "league": "非洲杯", "status": "live", "note": "🔴 进行中 | 塞内加尔 vs 摩洛哥"},
+      {"home": "Algeria", "away": "Kenya", "homeScore": 0, "awayScore": 0, "league": "非洲杯", "status": "live", "note": "🔴 进行中 | 阿尔及利亚 vs 肯尼亚"},
+      {"home": "Burkina Faso", "away": "South Africa", "homeScore": 0, "awayScore": 0, "league": "非洲杯", "status": "live", "note": "🔴 进行中 | 布基纳法索 vs 南非"},
+      {"home": "Ivory Coast", "away": "Tanzania", "homeScore": 0, "awayScore": 0, "league": "非洲杯", "status": "live", "note": "🔴 进行中 | 科特迪瓦 vs 坦桑尼亚"}
+    ]
   }
 }
