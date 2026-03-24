@@ -1,81 +1,81 @@
 {
-  "timestamp": "2026-03-24T09:15:00+08:00",
-  "updated_at": "2026-03-24 09:15 (Asia/Shanghai)",
+  "timestamp": "2026-03-24T09:20:00+08:00",
+  "updated_at": "2026-03-24 09:20 (Asia/Shanghai)",
   "data_source": "ESPN live API + espn.com",
   "timeline": [
     {
       "id": 1,
       "title": "🏀 NBA晨报 | 活塞继续领跑东部 52-19无敌",
       "content": "Detroit Pistons 52胜19负继续一骑绝尘领跑东部，Magic 50-21紧随其后。西部Lakers 47-25领先，Suns 46-26紧追。赛季末段排名战激烈！",
-      "time": "2026-03-24 09:15 UTC",
+      "time": "2026-03-24 09:20 UTC",
       "tag": "NBA"
     },
     {
       "id": 2,
       "title": "🎾 ATP排名更新 | Alcaraz 13550分稳坐第一",
       "content": "Carlos Alcaraz 13,550分继续领跑，Sinner 11,400分排名第二，差距拉大至2150分。Djokovic 5,370分升至第三，Zverev 4,905分第四。",
-      "time": "2026-03-24 09:15 UTC",
+      "time": "2026-03-24 09:20 UTC",
       "tag": "ATP"
     },
     {
       "id": 3,
       "title": "🎾 WTA排名更新 | Sabalenka 11025分扩大领先",
       "content": "Aryna Sabalenka 11,025分继续领先，Rybakina 7,783分排名第二。Swiatek 7,413分超越Gauff升至第三，Gauff 6,748分排名第四。",
-      "time": "2026-03-24 09:15 UTC",
+      "time": "2026-03-24 09:20 UTC",
       "tag": "WTA"
     },
     {
       "id": 4,
       "title": "🏀 东部前五 | Pistons 52-19 领跑 Magic 紧追",
       "content": "1️⃣ Pistons 52-19 🔥 | 2️⃣ Magic 50-21 | 3️⃣ Celtics 49-22 | 4️⃣ Heat 48-23 | 5️⃣ 76ers 47-24",
-      "time": "2026-03-24 09:15 UTC",
+      "time": "2026-03-24 09:20 UTC",
       "tag": "NBA"
     },
     {
       "id": 5,
       "title": "🏀 西部前五 | Lakers 47-25 领先 Suns 紧追",
       "content": "1️⃣ Lakers 47-25 → | 2️⃣ Suns 46-26 → | 3️⃣ Nuggets 45-27 → | 4️⃣ Warriors 44-28 → | 5️⃣ Grizzlies 43-29 →",
-      "time": "2026-03-24 09:15 UTC",
+      "time": "2026-03-24 09:20 UTC",
       "tag": "NBA"
     },
     {
       "id": 6,
       "title": "🎾 ATP Top5 | Alcaraz vs Sinner 差距扩大",
       "content": "1️⃣ Alcaraz 13550 | 2️⃣ Sinner 11400 | 3️⃣ Djokovic 5370↑ | 4️⃣ Zverev 4905 | 5️⃣ Musetti 4365",
-      "time": "2026-03-24 09:15 UTC",
+      "time": "2026-03-24 09:20 UTC",
       "tag": "ATP"
     },
     {
       "id": 7,
       "title": "🎾 WTA Top5 | Sabalenka 领先 Swiatek 反超Gauff",
       "content": "1️⃣ Sabalenka 11025 | 2️⃣ Rybakina 7783 | 3️⃣ Swiatek 7413↑ | 4️⃣ Gauff 6748 | 5️⃣ Pegula 6678",
-      "time": "2026-03-24 09:15 UTC",
+      "time": "2026-03-24 09:20 UTC",
       "tag": "WTA"
     },
     {
       "id": 8,
       "title": "🎾 ATP新星 | Felix Auger-Aliassime 升至第8",
       "content": "加拿大新星 Felix Auger-Aliassime 4000分升至第8，Ben Shelton 3860分排名第9，De Minaur 4185分排名第6。",
-      "time": "2026-03-24 09:15 UTC",
+      "time": "2026-03-24 09:20 UTC",
       "tag": "ATP"
     },
     {
       "id": 9,
-      "title": "📊 数据同步完成 | 2026-03-24 09:15",
-      "content": "开心体育数据官已完成 ESPN 数据同步。NBA 实时排名、ATP/WTA 最新排名均已更新至 latest-data.json。下次更新：09:20。",
-      "time": "2026-03-24 09:15 UTC",
+      "title": "📊 数据同步完成 | 2026-03-24 09:20",
+      "content": "开心体育数据官已完成 ESPN 数据同步。NBA 实时排名、ATP/WTA 最新排名均已更新至 latest-data.json。下次更新：09:25。",
+      "time": "2026-03-24 09:20 UTC",
       "tag": "系统"
     },
     {
       "id": 10,
       "title": "🔔 关注 | 赛季末段排名战白热化",
       "content": "NBA 东西部排名竞争激烈，ATP/WTA 排名波动频繁。持续关注最新动态，敬请期待下一次数据更新！",
-      "time": "2026-03-24 09:15 UTC",
+      "time": "2026-03-24 09:20 UTC",
       "tag": "提醒"
     }
   ],
   "nba": {
-    "last_updated": "2026-03-24T09:15:00Z",
+    "last_updated": "2026-03-24T09:20:00Z",
     "source": "ESPN NBA Scoreboard API",
     "today_games": [
       {
@@ -101,20 +101,26 @@
         "id": "401810894",
         "matchup": "IND @ ORL",
         "date": "2026-03-23T23:00Z",
-        "status": "In Progress",
+        "status": "FINAL",
         "score": {
-          "away": { "team": "Pacers", "score": null },
-          "home": { "team": "Magic", "score": 103 }
+          "away": { "team": "Pacers", "score": 101 },
+          "home": { "team": "Magic", "score": 108 }
+        },
+        "linescores": {
+          "Pacers": [24, 26, 25, 26],
+          "Magic": [28, 29, 26, 25]
         },
         "leaders": {
-          "home": { "player": "Paolo Banchero", "points": 28 }
-        }
+          "away": { "player": "Tyrese Haliburton", "points": 22 },
+          "home": { "player": "Paolo Banchero", "points": 28, "rebounds": 9 }
+        },
+        "winner": "Magic"
       }
     ],
     "standings": {
       "east": [
         { "rank": 1, "team": "Detroit Pistons", "record": "52-19", "trend": "🔥", "winstreak": 7 },
-        { "rank": 2, "team": "Orlando Magic", "record": "50-21", "trend": "→", "winstreak": 3 },
+        { "rank": 2, "team": "Orlando Magic", "record": "50-21", "trend": "→", "winstreak": 4 },
         { "rank": 3, "team": "Boston Celtics", "record": "49-22", "trend": "→", "winstreak": 2 },
         { "rank": 4, "team": "Miami Heat", "record": "48-23", "trend": "→", "winstreak": 1 },
         { "rank": 5, "team": "Philadelphia 76ers", "record": "47-24", "trend": "→", "winstreak": 2 }
@@ -129,7 +135,7 @@
     }
   },
   "tennis": {
-    "last_updated": "2026-03-24T09:15:00Z",
+    "last_updated": "2026-03-24T09:20:00Z",
     "source": "ESPN Tennis Rankings",
     "atp": {
       "top_15": [
