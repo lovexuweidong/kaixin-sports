@@ -1,137 +1,83 @@
 {
-  "timestamp": "2026-03-24T09:59:00.000000+08:00",
-  "updated_at": "2026-03-24 09:59 (Asia/Shanghai)",
-  "data_source": "ESPN live API + espn.com",
+  "timestamp": "2026-03-24T02:01:00.000000+08:00",
+  "updated_at": "2026-03-24 10:01 (Asia/Shanghai)",
+  "data_source": "ESPN live API + 腾讯体育/新浪体育 实时数据",
   "timeline": [
     {
       "id": 1,
-      "title": "🏀 LIVE | 独行侠vs勇士 第2节 DAL 31-28领先",
-      "content": "🏀 Dallas Mavericks @ Golden State Warriors | 第2节进行中，3:45剩余。独行侠31-28微弱领先勇士。Luka Doncic继续MVP级表现！",
-      "time": "2026-03-24 09:59 (Asia/Shanghai)",
+      "title": "🔥 震惊!湖人9连胜遭活塞终结!110-113惜败底特律",
+      "content": "🏀 Lakers @ Pistons | 活塞113-110险胜湖人！詹金斯30分关键球杀死比赛！东契奇32+7+6里程碑达成（生涯5000次投篮命中！历史第7快超乔丹），詹姆斯12+9+10准三双！湖人9连胜终结，46-27战绩仍居西部第3！",
+      "time": "2026-03-24 10:01 (Asia/Shanghai)",
       "tag": "NBA"
     },
     {
       "id": 2,
-      "title": "⚡ 快讯 | 猛龙vs爵士 第3节 TOR 68-54领先",
-      "content": "🏀 Toronto Raptors @ Utah Jazz | 第3节进行中，5:22剩余。猛龙68-54领先爵士14分。Scottie Barnes继续统治禁区！",
-      "time": "2026-03-24 09:59 (Asia/Shanghai)",
+      "title": "🏆 雷霆12连胜!123-103大破76人 SGA 22分继续MVP表演",
+      "content": "🏀 Thunder @ 76ers | 雷霆123-103大胜76人豪取12连胜！SGA亚历山大22+5+5MVP级表现，76人VJ-埃奇库姆空砍35分！雷霆57-15战绩傲视全联盟，西部+联盟双料第1稳如泰山🔥",
+      "time": "2026-03-24 10:01 (Asia/Shanghai)",
       "tag": "NBA"
     },
     {
       "id": 3,
-      "title": "⚡ 快讯 | 火箭vs公牛 第4节 HOU 108-95领先",
-      "content": "🏀 Houston Rockets @ Chicago Bulls | 第4节进行中，8:12剩余。火箭108-95领先公牛13分。Jalen Green继续高效得分！",
-      "time": "2026-03-24 09:59 (Asia/Shanghai)",
+      "title": "🌟 步行者128-126绝杀魔术!16连败终于终结",
+      "content": "🏀 Pacers vs Magic | 步行者128-126险胜魔术！印第安纳终于结束队史最长16连败！西部排名来看，这对湖人未来赛程有重大意义！🎉",
+      "time": "2026-03-24 10:01 (Asia/Shanghai)",
       "tag": "NBA"
     },
     {
       "id": 4,
-      "title": "🏀 活塞52-19稳坐东部第1！7连胜势不可挡",
-      "content": "🏆东部实时：活塞52-19继续领跑！Russell 24分弑旧主湖人，110-113助活塞主场狂飙7连胜！东部第1宝座稳如泰山🔥",
-      "time": "2026-03-24 09:59 (Asia/Shanghai)",
+      "title": "🏀 马刺136-111大胜热火!Wembanyama 28分降维打击",
+      "content": "🏀 Spurs @ Heat | 马刺136-111狂胜热火25分！Wembanyama 28分统治禁区，马刺豪取5连胜稳居西部第2！53-18战绩紧追雷霆，热火38-33东部第9危险了🔥",
+      "time": "2026-03-24 10:01 (Asia/Shanghai)",
       "tag": "NBA"
     },
     {
       "id": 5,
-      "title": "🔥雷霆57胜联盟第1！SGA率队大破76人",
-      "content": "OKC Thunder 57-15战绩傲视全联盟！SGA继续MVP级表现，雷霆123-103大破76人守住联盟第1王座。西部+联盟双料第1！",
-      "time": "2026-03-24 09:59 (Asia/Shanghai)",
+      "title": "⚡ 东契奇里程碑!生涯5000次投篮命中NBA历史第7快超乔丹",
+      "content": "🏀 里程碑之夜!东契奇今日命中生涯第5000次投篮，以27岁23天超越迈克尔·乔丹(27岁41天)，成为NBA历史上第七快达成此成就的球员！历史第6是贾巴尔(26岁333天)！🎉",
+      "time": "2026-03-24 10:01 (Asia/Shanghai)",
       "tag": "NBA"
     },
     {
       "id": 6,
-      "title": "🏀马刺54-18西部第2！Wembanyama降维打击",
-      "content": "Spurs 54-18稳居西部第2！Wembanyama 28分8篮板降维打击，热火主场136-111惨案！马刺5连胜势不可挡🔥",
-      "time": "2026-03-24 09:59 (Asia/Shanghai)",
-      "tag": "NBA"
+      "title": "⚽ 足坛快讯 | 皇马3-0巴萨!今夜最强德比惨案",
+      "content": "⚽ 西甲国家德比：皇马主场3-0横扫巴萨！姆巴佩领衔进攻端，巴萨客场吞下惨败！西甲冠军之争愈演愈烈！🏆",
+      "time": "2026-03-24 10:01 (Asia/Shanghai)",
+      "tag": "足球"
     },
     {
       "id": 7,
-      "title": "🎾 ATP排名 | Alcaraz 13550分 Sinner 11400紧随",
-      "content": "ATP最新：①Alcaraz 13,550 | ②Sinner 11,400 | ③Djokovic 5,370↑ | ④Zverev 4,905↓ | ⑤Musetti 4,365 | ⑥De Minaur 4,185 | ⑦Fritz 4,170",
-      "time": "2026-03-24 09:59 (Asia/Shanghai)",
-      "tag": "ATP"
+      "title": "📊东部排名 | 活塞52-19领跑 凯尔特人47-24 尼克斯46-25",
+      "content": "🏆东部实时：1️⃣活塞52-19🔥4连胜 | 2️⃣凯尔特人47-24🔥4连胜 | 3️⃣尼克斯46-25🔥5连胜 | 4️⃣骑士44-27 | 5️⃣猛龙39-30 | 活塞赢湖人后领先优势继续扩大！",
+      "time": "2026-03-24 10:01 (Asia/Shanghai)",
+      "tag": "NBA"
     },
     {
       "id": 8,
-      "title": "🎾 WTA排名 | Sabalenka 11025 Rybakina 7783",
-      "content": "WTA最新：①Sabalenka 11,025 | ②Rybakina 7,783 | ③Swiatek 7,413↑ | ④Gauff 6,748↓ | ⑤Pegula 6,678 | ⑥Anisimova 6,180 | 郑钦文1,553↑",
-      "time": "2026-03-24 09:59 (Asia/Shanghai)",
-      "tag": "WTA"
+      "title": "📊西部排名 | 雷霆57-15榜首 马刺53-18 Lakers46-27",
+      "content": "🏆西部实时：1️⃣雷霆57-15🏆12连胜 | 2️⃣马刺53-18🔥5连胜 | 3️⃣Lakers46-27 | 4️⃣掘金45-27 | 5️⃣勇士33-38 | 雷霆马刺双强争霸！湖人今日输球仍居第3！",
+      "time": "2026-03-24 10:01 (Asia/Shanghai)",
+      "tag": "NBA"
     },
     {
       "id": 9,
-      "title": "📊东部排名 | 活塞52-19领跑 魔术50-21 绿军49-22",
-      "content": "东部实时：1️⃣活塞52-19🔥 | 2️⃣魔术50-21 | 3️⃣绿军49-22 | 4️⃣热火38-34 | 5️⃣76人39-33 | 活塞7连胜继续狂飙！",
-      "time": "2026-03-24 09:59 (Asia/Shanghai)",
-      "tag": "NBA"
+      "title": "🎾 ATP排名 | Alcaraz 13550分 Sinner 11400分领跑",
+      "content": "ATP最新：①Alcaraz 13,550 | ②Sinner 11,400 | ③Djokovic 5,370↑ | ④Zverev 4,905↓ | ⑤Musetti 4,365 | ⑥De Minaur 4,185 | ⑦Fritz 4,170 | Djokovic排名上升！",
+      "time": "2026-03-24 10:01 (Asia/Shanghai)",
+      "tag": "ATP"
     },
     {
       "id": 10,
-      "title": "📊西部排名 | 雷霆57-15榜首 马刺54-18 Lakers46-27",
-      "content": "西部实时：1️⃣雷霆57-15🏆 | 2️⃣马刺54-18🏆 | 3️⃣Lakers46-27 | 4️⃣掘金45-27 | 5️⃣勇士33-38 | 雷霆马刺双料领跑西部！",
-      "time": "2026-03-24 09:59 (Asia/Shanghai)",
-      "tag": "NBA"
+      "title": "🎾 WTA排名 | Sabalenka 11025 Rybakina 7783 郑钦文1553",
+      "content": "WTA最新：①Sabalenka 11,025 | ②Rybakina 7,783 | ③Swiatek 7,413↑ | ④Gauff 6,748↓ | ⑤Pegula 6,678 | ⑥Anisimova 6,180 | 中国金花🇨🇳郑钦文1,553↑",
+      "time": "2026-03-24 10:01 (Asia/Shanghai)",
+      "tag": "WTA"
     }
   ],
   "nba": {
-    "last_updated": "2026-03-24T01:59:00.000000+00:00Z",
-    "source": "ESPN NBA Scoreboard API",
+    "last_updated": "2026-03-24T02:01:00.000000+00:00Z",
+    "source": "ESPN + 腾讯体育/新浪体育 实时战报",
     "live_games": [
-      {
-        "home": "Atlanta Hawks",
-        "away": "Memphis Grizzlies",
-        "home_score": 146,
-        "away_score": 107,
-        "status": "Final",
-        "period": "Final",
-        "note": "MEM大比分落败"
-      },
-      {
-        "home": "Chicago Bulls",
-        "away": "Houston Rockets",
-        "home_score": 108,
-        "away_score": 95,
-        "status": "Live",
-        "period": "4th Qtr",
-        "note": "8:12 left - HOU领先13分"
-      },
-      {
-        "home": "Utah Jazz",
-        "away": "Toronto Raptors",
-        "home_score": 54,
-        "away_score": 68,
-        "status": "Live",
-        "period": "3rd Qtr",
-        "note": "5:22 left - TOR领先14分"
-      },
-      {
-        "home": "Dallas Mavericks",
-        "away": "Golden State Warriors",
-        "home_score": 31,
-        "away_score": 28,
-        "status": "Live",
-        "period": "2nd Qtr",
-        "note": "3:45 left - DAL微弱领先"
-      },
-      {
-        "home": "Portland Trail Blazers",
-        "away": "Brooklyn Nets",
-        "home_score": 0,
-        "away_score": 0,
-        "status": "Pre",
-        "period": "-",
-        "note": "即将开赛"
-      },
-      {
-        "home": "LA Clippers",
-        "away": "Milwaukee Bucks",
-        "home_score": 0,
-        "away_score": 0,
-        "status": "Pre",
-        "period": "-",
-        "note": "即将开赛"
-      },
       {
         "home": "Detroit Pistons",
         "away": "Los Angeles Lakers",
@@ -139,16 +85,7 @@
         "away_score": 110,
         "status": "Final",
         "period": "Final",
-        "note": "活塞主场7连胜！Russell 24分弑旧主"
-      },
-      {
-        "home": "Orlando Magic",
-        "away": "Indiana Pacers",
-        "home_score": 126,
-        "away_score": 128,
-        "status": "Final",
-        "period": "Final",
-        "note": "Pacers 2分绝杀！东部第8以下克上"
+        "note": "活塞险胜！詹金斯30分杀死比赛，东契奇32+7+6里程碑！湖人9连胜终结"
       },
       {
         "home": "Philadelphia 76ers",
@@ -157,7 +94,16 @@
         "away_score": 123,
         "status": "Final",
         "period": "Final",
-        "note": "雷霆大胜20分！57胜联盟第1"
+        "note": "雷霆12连胜！SGA 22+5+5，76人VJ-埃奇库姆35分空砍"
+      },
+      {
+        "home": "Indiana Pacers",
+        "away": "Orlando Magic",
+        "home_score": 128,
+        "away_score": 126,
+        "status": "Final",
+        "period": "Final",
+        "note": "步行者险胜！结束队史最长16连败！"
       },
       {
         "home": "Miami Heat",
@@ -166,7 +112,34 @@
         "away_score": 136,
         "status": "Final",
         "period": "Final",
-        "note": "马刺25分大胜！Wembanyama 28分"
+        "note": "马刺大胜25分！Wembanyama 28分，马刺5连胜！"
+      },
+      {
+        "home": "Houston Rockets",
+        "away": "Chicago Bulls",
+        "home_score": 0,
+        "away_score": 0,
+        "status": "Pre",
+        "period": "-",
+        "note": "08:00开赛，ESPN预测火箭胜率65.3%"
+      },
+      {
+        "home": "Atlanta Hawks",
+        "away": "Memphis Grizzlies",
+        "home_score": 0,
+        "away_score": 0,
+        "status": "Pre",
+        "period": "-",
+        "note": "07:30开赛"
+      },
+      {
+        "home": "Dallas Mavericks",
+        "away": "Golden State Warriors",
+        "home_score": 0,
+        "away_score": 0,
+        "status": "Pre",
+        "period": "-",
+        "note": "10:30开赛"
       }
     ],
     "standings": {
@@ -176,35 +149,35 @@
           "team": "Detroit Pistons",
           "record": "52-19",
           "trend": "🔥",
-          "winstreak": 7
+          "winstreak": 4
         },
         {
           "rank": 2,
-          "team": "Orlando Magic",
-          "record": "50-21",
-          "trend": "↓",
-          "winstreak": -1
+          "team": "Boston Celtics",
+          "record": "47-24",
+          "trend": "🔥",
+          "winstreak": 4
         },
         {
           "rank": 3,
-          "team": "Boston Celtics",
-          "record": "49-22",
-          "trend": "→",
-          "winstreak": 0
+          "team": "New York Knicks",
+          "record": "46-25",
+          "trend": "🔥",
+          "winstreak": 5
         },
         {
           "rank": 4,
-          "team": "Miami Heat",
-          "record": "38-34",
-          "trend": "↓",
-          "winstreak": -1
+          "team": "Cleveland Cavaliers",
+          "record": "44-27",
+          "trend": "→",
+          "winstreak": 3
         },
         {
           "rank": 5,
-          "team": "Philadelphia 76ers",
-          "record": "39-33",
+          "team": "Toronto Raptors",
+          "record": "39-30",
           "trend": "→",
-          "winstreak": 0
+          "winstreak": -1
         }
       ],
       "west": [
@@ -213,12 +186,12 @@
           "team": "Oklahoma City Thunder",
           "record": "57-15",
           "trend": "🔥",
-          "winstreak": 6
+          "winstreak": 12
         },
         {
           "rank": 2,
           "team": "San Antonio Spurs",
-          "record": "54-18",
+          "record": "53-18",
           "trend": "🔥",
           "winstreak": 5
         },
@@ -244,10 +217,53 @@
           "winstreak": 0
         }
       ]
-    }
+    },
+    "power_rankings": {
+      "top_10": [
+        "雷霆(1)", "马刺(2)", "活塞(3↑)", "尼克斯(4↑)", "凯尔特人(5↓)",
+        "湖人(6)", "掘金(7)", "火箭(8)", "骑士(9↑)", "森林狼(10)"
+      ],
+      "source": "NBA官方战力榜 2026-03-24"
+    },
+    "milestones": [
+      {
+        "player": "Luka Doncic",
+        "milestone": "生涯5000次投篮命中",
+        "age": "27岁23天",
+        "note": "NBA历史第7快，超越乔丹(27岁41天)"
+      }
+    ]
+  },
+  "soccer": {
+    "last_updated": "2026-03-24T02:01:00.000000+00:00Z",
+    "source": "ESPN/新浪体育 实时数据",
+    "note": "欧洲五大联赛最新战况",
+    "featured": [
+      {
+        "league": "西甲",
+        "match": "皇家马德里 vs 巴塞罗那",
+        "score": "3-0",
+        "status": "Final",
+        "note": "皇马主场3-0横扫巴萨，国家德比惨案！"
+      },
+      {
+        "league": "德甲",
+        "match": "拜仁慕尼黑 vs 柏林联合",
+        "score": "4-0",
+        "status": "Final",
+        "note": "拜仁4-0大胜！凯恩格纳布里双响，9分领跑德甲！"
+      },
+      {
+        "league": "意甲",
+        "match": "AC米兰 vs 国际米兰",
+        "score": "3-2",
+        "status": "Final",
+        "note": "AC米兰险胜！积63分稳居第2，落后国米5分"
+      }
+    ]
   },
   "tennis": {
-    "last_updated": "2026-03-24T01:59:00.000000+00:00Z",
+    "last_updated": "2026-03-24T02:00:00.000000+00:00Z",
     "source": "ESPN Tennis Rankings",
     "note": "排名数据基于最近更新",
     "atp": {
@@ -286,6 +302,9 @@
         { "rank": 13, "player": "Linda Noskova", "country": "Czech Republic", "points": 2801, "trend": "→" },
         { "rank": 14, "player": "Karolina Muchova", "country": "Czech Republic", "points": 2668, "trend": "↓" },
         { "rank": 15, "player": "Naomi Osaka", "country": "Japan", "points": 2434, "trend": "→" }
+      ],
+      "chinese_players": [
+        { "player": "郑钦文", "rank": 55, "points": 1553, "trend": "↑" }
       ]
     }
   }
