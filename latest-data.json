@@ -1,56 +1,69 @@
 {
-  "lastUpdated": "2026-03-24T07:49:00+08:00",
-  "dataSource": "ESPN NBA Live",
+  "lastUpdated": "2026-03-24T07:59:00+08:00",
+  "dataSource": "ESPN NBA Live + ATP/WTA Rankings",
   "timeline": [
+    {
+      "id": "tl010",
+      "sport": "basketball",
+      "sportLabel": "🏀 NBA",
+      "time": "07:59",
+      "type": "score",
+      "typeLabel": "🔴直播",
+      "title": "湖人 vs 活塞",
+      "desc": "Q2 5:49 | 湖人 27 : 23 活塞（湖人领先）",
+      "image": "🏀",
+      "isLive": true,
+      "important": true
+    },
     {
       "id": "tl011",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "07:49",
+      "time": "07:55",
       "type": "score",
       "typeLabel": "🔴直播",
-      "title": "湖人 vs 活塞",
-      "desc": "上半场结束 | 湖人 33 : 活塞 33",
+      "title": "步行者 vs 魔术",
+      "desc": "Q2 4:35 | 步行者 34 : 34 魔术（双方战平！）",
       "image": "🏀",
       "isLive": true,
       "important": true
     },
     {
       "id": "tl001",
-      "sport": "football",
-      "sportLabel": "⚽ 足球",
-      "time": "07:40",
+      "sport": "tennis",
+      "sportLabel": "🎾 网球",
+      "time": "07:50",
       "type": "news",
       "typeLabel": "📰 热点",
-      "title": "姆巴佩确认伤情",
-      "desc": "皇马前锋姆巴佩左腿肌肉拉伤，预计缺阵3-4周",
-      "image": "⚽",
+      "title": "ATP排名剧变：德约跌至第5",
+      "desc": "2026年ATP最新排名：辛纳11830分领跑，阿卡13550分第1，德约仅5370分跌至第5",
+      "image": "🎾",
       "isLive": false,
       "important": true
     },
     {
       "id": "tl002",
-      "sport": "basketball",
-      "sportLabel": "🏀 NBA",
-      "time": "07:35",
+      "sport": "tennis",
+      "sportLabel": "🎾 网球",
+      "time": "07:48",
       "type": "news",
       "typeLabel": "📰 热点",
-      "title": "活塞力克湖人冲战绩",
-      "desc": "活塞上半场以33分紧咬湖人，坎宁安持续高效砍分",
-      "image": "🏀",
+      "title": "WTA排名大洗牌：莱巴金娜跃居第2",
+      "desc": "WTA最新排名：萨巴伦卡11025分稳坐第1，莱巴金娜7783分飙升至第2，斯瓦泰克跌至第3",
+      "image": "🎾",
       "isLive": false,
       "important": true
     },
     {
       "id": "tl003",
-      "sport": "tennis",
-      "sportLabel": "🎾 网球",
-      "time": "07:30",
+      "sport": "basketball",
+      "sportLabel": "🏀 NBA",
+      "time": "07:45",
       "type": "news",
       "typeLabel": "📰 热点",
-      "title": "阿尔卡拉斯夺阳光双赛冠军",
-      "desc": "阿尔卡拉斯在印第安维尔斯击败鲁内，实现阳光双赛背靠背夺冠",
-      "image": "🎾",
+      "title": "活塞力克湖人冲战绩",
+      "desc": "活塞主场51胜19负领跑东部，坎宁安场均25+领跑东部后卫榜",
+      "image": "🏀",
       "isLive": false,
       "important": true
     },
@@ -58,77 +71,64 @@
       "id": "tl004",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "07:25",
-      "type": "news",
-      "typeLabel": "📰 热点",
-      "title": "NBA官方撤销东契奇技犯",
-      "desc": "联盟审查后撤销东契奇赛季第16次技术犯规，独行侠核心无需缺席",
+      "time": "07:42",
+      "type": "score",
+      "typeLabel": "🔴直播",
+      "title": "马刺 vs 热火",
+      "desc": "Q2 6:30 | 马刺 38 : 10 热火（马刺碾压！）",
       "image": "🏀",
-      "isLive": false,
+      "isLive": true,
       "important": false
     },
     {
       "id": "tl005",
-      "sport": "football",
-      "sportLabel": "⚽ 足球",
-      "time": "07:20",
-      "type": "news",
-      "typeLabel": "📰 热点",
-      "title": "齐达内接近执教法国",
-      "desc": "据法国媒体RMC确认，齐达内已接受法国国家队帅位，将于欧洲杯后上任",
-      "image": "⚽",
-      "isLive": false,
+      "sport": "basketball",
+      "sportLabel": "🏀 NBA",
+      "time": "07:40",
+      "type": "score",
+      "typeLabel": "🔴直播",
+      "title": "雷霆 vs 76人",
+      "desc": "Q2 4:31 | 雷霆 35 : 16 76人（亚历山大缺阵仍大比分领先）",
+      "image": "🏀",
+      "isLive": true,
       "important": false
     },
     {
       "id": "tl006",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "07:15",
+      "time": "07:38",
       "type": "news",
       "typeLabel": "📰 热点",
-      "title": "雷霆豪取六连胜",
-      "desc": "雷霆在亚历山大缺阵情况下击败森林狼，稳居西部第一",
+      "title": "灰熊 vs 老鹰：Q1胶着",
+      "desc": "灰熊客场挑战老鹰，首节双方战成20-20，教练挑战判罚成功",
       "image": "🏀",
       "isLive": false,
       "important": false
     },
     {
       "id": "tl007",
-      "sport": "tennis",
-      "sportLabel": "🎾 网球",
-      "time": "07:10",
+      "sport": "football",
+      "sportLabel": "⚽ 足球",
+      "time": "07:35",
       "type": "news",
       "typeLabel": "📰 热点",
-      "title": "斯瓦泰克换帅震动网坛",
-      "desc": "前世界第一斯瓦泰克与教练团队解约，备战红土赛季寻找新搭档",
-      "image": "🎾",
+      "title": "非洲杯预选赛：摩洛哥 vs 塞内加尔",
+      "desc": "非洲杯预选赛第4比赛日：摩洛哥主场对阵塞内加尔，阿尔及利亚、肯尼亚等多队同步进行",
+      "image": "⚽",
       "isLive": false,
       "important": false
     },
     {
       "id": "tl008",
-      "sport": "basketball",
-      "sportLabel": "🏀 NBA",
-      "time": "07:05",
+      "sport": "tennis",
+      "sportLabel": "🎾 网球",
+      "time": "07:30",
       "type": "news",
       "typeLabel": "📰 热点",
-      "title": "快船锁定季后赛",
-      "desc": "快船击败鹈鹕，正式锁定2025-26赛季西部季后赛席位",
-      "image": "🏀",
-      "isLive": false,
-      "important": false
-    },
-    {
-      "id": "tl009",
-      "sport": "football",
-      "sportLabel": "⚽ 足球",
-      "time": "07:00",
-      "type": "news",
-      "typeLabel": "📰 热点",
-      "title": "曼城签下年轻前锋",
-      "desc": "曼城官宣从萨尔茨堡红牛签下18岁前锋霍纳斯·科恩，转会费5000万欧元",
-      "image": "⚽",
+      "title": "ATP新星崛起：穆塞蒂第5、谢尔顿第9",
+      "desc": "ATP排名年轻化加速：意大利新星穆塞蒂4365分升至第5，美国黑马谢尔顿3860分闯进前10",
+      "image": "🎾",
       "isLive": false,
       "important": false
     }
@@ -136,215 +136,102 @@
   "nba": {
     "standings": {
       "east": [
-        {
-          "rank": 1,
-          "team": "Celtics",
-          "w": 47,
-          "l": 24,
-          "pct": ".662"
-        },
-        {
-          "rank": 2,
-          "team": "Knicks",
-          "w": 47,
-          "l": 25,
-          "pct": ".653"
-        },
-        {
-          "rank": 3,
-          "team": "Cavaliers",
-          "w": 46,
-          "l": 25,
-          "pct": ".648"
-        },
-        {
-          "rank": 4,
-          "team": "Pistons",
-          "w": 51,
-          "l": 19,
-          "pct": ".729"
-        },
-        {
-          "rank": 5,
-          "team": "Magic",
-          "w": 39,
-          "l": 32,
-          "pct": ".549"
-        },
-        {
-          "rank": 6,
-          "team": "Heat",
-          "w": 38,
-          "l": 33,
-          "pct": ".535"
-        },
-        {
-          "rank": 7,
-          "team": "Hawks",
-          "w": 35,
-          "l": 37,
-          "pct": ".486"
-        },
-        {
-          "rank": 8,
-          "team": "Raptors",
-          "w": 28,
-          "l": 41,
-          "pct": ".400"
-        },
-        {
-          "rank": 9,
-          "team": "Bulls",
-          "w": 28,
-          "l": 42,
-          "pct": ".400"
-        },
-        {
-          "rank": 10,
-          "team": "76ers",
-          "w": 24,
-          "l": 46,
-          "pct": ".343"
-        }
+        { "rank": 1, "team": "Pistons", "w": 51, "l": 19, "pct": ".729" },
+        { "rank": 2, "team": "Celtics", "w": 47, "l": 24, "pct": ".662" },
+        { "rank": 3, "team": "Knicks", "w": 47, "l": 25, "pct": ".653" },
+        { "rank": 4, "team": "Cavaliers", "w": 46, "l": 25, "pct": ".648" },
+        { "rank": 5, "team": "Raptors", "w": 39, "l": 31, "pct": ".557" },
+        { "rank": 6, "team": "Hawks", "w": 39, "l": 32, "pct": ".549" },
+        { "rank": 7, "team": "Magic", "w": 38, "l": 32, "pct": ".543" },
+        { "rank": 8, "team": "76ers", "w": 39, "l": 32, "pct": ".549" },
+        { "rank": 9, "team": "Heat", "w": 38, "l": 33, "pct": ".535" },
+        { "rank": 10, "team": "Hornets", "w": 17, "l": 53, "pct": ".243" }
       ],
       "west": [
-        {
-          "rank": 1,
-          "team": "Thunder",
-          "w": 56,
-          "l": 15,
-          "pct": ".789"
-        },
-        {
-          "rank": 2,
-          "team": "Lakers",
-          "w": 46,
-          "l": 25,
-          "pct": ".648"
-        },
-        {
-          "rank": 3,
-          "team": "Nuggets",
-          "w": 44,
-          "l": 28,
-          "pct": ".611"
-        },
-        {
-          "rank": 4,
-          "team": "Rockets",
-          "w": 44,
-          "l": 28,
-          "pct": ".611"
-        },
-        {
-          "rank": 5,
-          "team": "Timberwolves",
-          "w": 43,
-          "l": 27,
-          "pct": ".614"
-        },
-        {
-          "rank": 6,
-          "team": "Clippers",
-          "w": 37,
-          "l": 34,
-          "pct": ".521"
-        },
-        {
-          "rank": 7,
-          "team": "Warriors",
-          "w": 35,
-          "l": 36,
-          "pct": ".493"
-        },
-        {
-          "rank": 8,
-          "team": "Mavericks",
-          "w": 33,
-          "l": 38,
-          "pct": ".465"
-        },
-        {
-          "rank": 9,
-          "team": "Grizzlies",
-          "w": 29,
-          "l": 41,
-          "pct": ".414"
-        },
-        {
-          "rank": 10,
-          "team": "Spurs",
-          "w": 19,
-          "l": 53,
-          "pct": ".264"
-        }
+        { "rank": 1, "team": "Thunder", "w": 56, "l": 15, "pct": ".789" },
+        { "rank": 2, "team": "Lakers", "w": 46, "l": 25, "pct": ".648" },
+        { "rank": 3, "team": "Nuggets", "w": 44, "l": 28, "pct": ".611" },
+        { "rank": 4, "team": "Rockets", "w": 43, "l": 27, "pct": ".614" },
+        { "rank": 5, "team": "Spurs", "w": 53, "l": 18, "pct": ".746" },
+        { "rank": 6, "team": "Timberwolves", "w": 43, "l": 27, "pct": ".614" },
+        { "rank": 7, "team": "Clippers", "w": 35, "l": 36, "pct": ".493" },
+        { "rank": 8, "team": "Warriors", "w": 33, "l": 38, "pct": ".465" },
+        { "rank": 9, "team": "Grizzlies", "w": 24, "l": 46, "pct": ".343" },
+        { "rank": 10, "team": "Mavericks", "w": 23, "l": 48, "pct": ".324" }
       ]
-    }
+    },
+    "liveGames": [
+      {
+        "home": "Pistons",
+        "away": "Lakers",
+        "homeScore": 23,
+        "awayScore": 27,
+        "quarter": 2,
+        "timeLeft": "5:49",
+        "status": "live"
+      },
+      {
+        "home": "Magic",
+        "away": "Pacers",
+        "homeScore": 34,
+        "awayScore": 34,
+        "quarter": 2,
+        "timeLeft": "4:35",
+        "status": "live"
+      },
+      {
+        "home": "76ers",
+        "away": "Thunder",
+        "homeScore": 16,
+        "awayScore": 35,
+        "quarter": 2,
+        "timeLeft": "4:31",
+        "status": "live"
+      },
+      {
+        "home": "Heat",
+        "away": "Spurs",
+        "homeScore": 10,
+        "awayScore": 38,
+        "quarter": 2,
+        "timeLeft": "6:30",
+        "status": "live"
+      },
+      {
+        "home": "Grizzlies",
+        "away": "Hawks",
+        "homeScore": 11,
+        "awayScore": 20,
+        "quarter": 1,
+        "timeLeft": "4:30",
+        "status": "live"
+      }
+      ]
   },
   "tennis": {
     "atp": [
-      {
-        "rank": 1,
-        "name": "Carlos Alcaraz",
-        "points": 13550,
-        "trend": "-"
-      },
-      {
-        "rank": 2,
-        "name": "Jannik Sinner",
-        "points": 11830,
-        "trend": "↓"
-      },
-      {
-        "rank": 3,
-        "name": "Novak Djokovic",
-        "points": 10430,
-        "trend": "↑"
-      },
-      {
-        "rank": 4,
-        "name": "Alexander Zverev",
-        "points": 8700,
-        "trend": "-"
-      },
-      {
-        "rank": 5,
-        "name": "Taylor Fritz",
-        "points": 7600,
-        "trend": "↑"
-      }
+      { "rank": 1, "name": "Carlos Alcaraz", "points": 13550, "trend": "-" },
+      { "rank": 2, "name": "Jannik Sinner", "points": 11830, "trend": "↑" },
+      { "rank": 3, "name": "Alexander Zverev", "points": 4905, "trend": "↑" },
+      { "rank": 4, "name": "Lorenzo Musetti", "points": 4365, "trend": "↑" },
+      { "rank": 5, "name": "Novak Djokovic", "points": 5370, "trend": "↓" },
+      { "rank": 6, "name": "Alex De Minaur", "points": 4185, "trend": "-" },
+      { "rank": 7, "name": "Taylor Fritz", "points": 4170, "trend": "↓" },
+      { "rank": 8, "name": "Felix Auger-Aliassime", "points": 4000, "trend": "↑" },
+      { "rank": 9, "name": "Ben Shelton", "points": 3860, "trend": "↑" },
+      { "rank": 10, "name": "Daniil Medvedev", "points": 3610, "trend": "↓" }
     ],
     "wta": [
-      {
-        "rank": 1,
-        "name": "Aryna Sabalenka",
-        "points": 11025,
-        "trend": "-"
-      },
-      {
-        "rank": 2,
-        "name": "Iga Swiatek",
-        "points": 9775,
-        "trend": "-"
-      },
-      {
-        "rank": 3,
-        "name": "Coco Gauff",
-        "points": 8200,
-        "trend": "↑"
-      },
-      {
-        "rank": 4,
-        "name": "Jessica Pegula",
-        "points": 7100,
-        "trend": "↓"
-      },
-      {
-        "rank": 5,
-        "name": "Elena Rybakina",
-        "points": 6500,
-        "trend": "-"
-      }
+      { "rank": 1, "name": "Aryna Sabalenka", "points": 11025, "trend": "-" },
+      { "rank": 2, "name": "Elena Rybakina", "points": 7783, "trend": "↑" },
+      { "rank": 3, "name": "Iga Swiatek", "points": 7413, "trend": "↓" },
+      { "rank": 4, "name": "Coco Gauff", "points": 6748, "trend": "↑" },
+      { "rank": 5, "name": "Jessica Pegula", "points": 6678, "trend": "↓" },
+      { "rank": 6, "name": "Amanda Anisimova", "points": 6180, "trend": "↑" },
+      { "rank": 7, "name": "Jasmine Paolini", "points": 4232, "trend": "↑" },
+      { "rank": 8, "name": "Elina Svitolina", "points": 4020, "trend": "↑" },
+      { "rank": 9, "name": "Victoria Mboko", "points": 3351, "trend": "↑" },
+      { "rank": 10, "name": "Mirra Andreeva", "points": 3066, "trend": "↑" }
     ]
   }
 }
