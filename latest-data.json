@@ -1,30 +1,30 @@
 {
-  "lastUpdated": "2026-03-24T00:11:00+08:00",
-  "dataSource": "ESPN NBA Live API",
+  "lastUpdated": "2026-03-24T08:19:30.845980+08:00",
+  "dataSource": "ESPN NBA Live API (2026-03-24)",
   "timeline": [
     {
       "id": "tl001",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "08:11",
-      "type": "score",
-      "typeLabel": "🔴半场",
-      "title": "活塞 vs 湖人 | 活塞65:51半场领先",
-      "desc": "活塞52胜19负65:51领先湖人14分，活塞胜率74.3%继续领跑东部 | 🔴半场结束",
+      "time": "08:19",
+      "type": "schedule",
+      "typeLabel": "📋 今日赛程",
+      "title": "国王 @ 黄蜂 | 08:30 开球",
+      "desc": "黄蜂主场迎战国王，黄蜂37胜34负东部第10，国王31胜40负西部第12 | ESPN 直播",
       "image": "🏀",
-      "isLive": true,
+      "isLive": false,
       "important": true
     },
     {
       "id": "tl002",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "08:10",
-      "type": "news",
-      "typeLabel": "📰 热点",
-      "title": "活塞 vs 湖人半场战报",
-      "desc": "活塞52胜19负65:51领先湖人，胜率74.3%继续领跑东部",
-      "image": "🏀",
+      "time": "08:19",
+      "type": "schedule",
+      "typeLabel": "📋 今日赛程",
+      "title": "鹈鹕 @ 尼克斯 | 09:00 开球",
+      "desc": "尼克斯主场47胜25负东部第3，MSG全场关注！鹈鹕急求一胜 | ESPN 直播",
+      "image": "⭐",
       "isLive": false,
       "important": true
     },
@@ -32,12 +32,12 @@
       "id": "tl003",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "08:05",
-      "type": "news",
-      "typeLabel": "📰 热点",
-      "title": "活塞已锁定季后赛",
-      "desc": "活塞52胜19负东部第一（胜率74.3%），已锁定季后赛席位",
-      "image": "🏀",
+      "time": "08:19",
+      "type": "schedule",
+      "typeLabel": "📋 今日赛程",
+      "title": "魔术 @ 骑士 | 09:30 开球",
+      "desc": "东部第4 vs 第4！骑士44胜27负，魔术38胜32负，两队仅差6场 | ESPN 直播",
+      "image": "🔥",
       "isLive": false,
       "important": true
     },
@@ -45,12 +45,12 @@
       "id": "tl004",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "08:00",
-      "type": "news",
-      "typeLabel": "📰 热点",
-      "title": "东部排名剧变",
-      "desc": "活塞领跑东部(52-19)，凯尔特人(47-24)和尼克斯(47-25)分列2-3位",
-      "image": "🏀",
+      "time": "08:19",
+      "type": "schedule",
+      "typeLabel": "📋 今日赛程",
+      "title": "掘金 @ 太阳 | 10:00 开球",
+      "desc": "掘金44胜28负 vs 太阳40胜32负！约基奇PK三巨头，西部第5卡位战 | ESPN 直播",
+      "image": "⚡",
       "isLive": false,
       "important": true
     },
@@ -58,11 +58,11 @@
       "id": "tl005",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "07:55",
+      "time": "08:19",
       "type": "news",
-      "typeLabel": "📰 热点",
-      "title": "雷霆继续领跑西部",
-      "desc": "雷霆56胜15负胜率78.9%稳居西部第一，马刺53胜18负紧随其后",
+      "typeLabel": "📰 排名",
+      "title": "活塞 52胜19负锁定东部季后赛",
+      "desc": "活塞74.3%胜率领跑东部，领先第2名凯尔特人5场，提前锁定季后赛资格",
       "image": "🏀",
       "isLive": false,
       "important": true
@@ -71,24 +71,24 @@
       "id": "tl006",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "07:50",
+      "time": "08:19",
       "type": "news",
-      "typeLabel": "📰 热点",
-      "title": "湖人排名形势紧张",
-      "desc": "湖人46胜25负暂列西部第3，身后火箭/掘金/森林狼紧追不舍",
-      "image": "🏀",
+      "typeLabel": "📰 排名",
+      "title": "雷霆 56胜15负西部称霸",
+      "desc": "雷霆78.9%胜率领跑全联盟！领先第2名马刺3场胜差，DPOY竞争激烈",
+      "image": "⚡",
       "isLive": false,
-      "important": false
+      "important": true
     },
     {
       "id": "tl007",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "07:45",
+      "time": "08:19",
       "type": "news",
       "typeLabel": "📰 热点",
-      "title": "3月24日NBA赛程",
-      "desc": "活塞vs湖人正在进行中，其他球队暂无比赛",
+      "title": "西部附加赛格局白热化",
+      "desc": "太阳40胜32负暂列第7！快船/开拓者/勇士三队仅差2场胜差，附加赛名额悬念丛生",
       "image": "🏀",
       "isLive": false,
       "important": false
@@ -97,11 +97,11 @@
       "id": "tl008",
       "sport": "basketball",
       "sportLabel": "🏀 NBA",
-      "time": "07:40",
+      "time": "08:19",
       "type": "news",
       "typeLabel": "📰 热点",
-      "title": "西部附加赛名额白热化",
-      "desc": "太阳40胜32负排名第7，快船/开拓者/勇士三队仅差2场胜差",
+      "title": "3月24日NBA比赛日",
+      "desc": "今日共4场比赛：国王@黄蜂、鹈鹕@尼克斯、魔术@骑士、掘金@太阳",
       "image": "🏀",
       "isLive": false,
       "important": false
@@ -110,11 +110,11 @@
       "id": "tl009",
       "sport": "tennis",
       "sportLabel": "🎾 ATP",
-      "time": "07:35",
+      "time": "08:19",
       "type": "news",
       "typeLabel": "📊 排名",
-      "title": "ATP世界排名",
-      "desc": "阿尔卡拉斯13550分领跑，辛纳11830分第2，德约10430分升至第3",
+      "title": "ATP世界排名TOP10",
+      "desc": "阿尔卡拉斯13550分稳居第1，辛纳11830分第2，德约科维奇10430分升至第3",
       "image": "🎾",
       "isLive": false,
       "important": false
@@ -123,11 +123,11 @@
       "id": "tl010",
       "sport": "tennis",
       "sportLabel": "🎾 WTA",
-      "time": "07:30",
+      "time": "08:19",
       "type": "news",
       "typeLabel": "📊 排名",
-      "title": "WTA世界排名",
-      "desc": "萨巴伦卡11025分第1，斯瓦泰克9775分第2，高芙8200分升至第3",
+      "title": "WTA世界排名TOP10",
+      "desc": "萨巴伦卡11025分强势领跑，斯瓦泰克9775分升至第2，高芙8200分升至第3",
       "image": "🎾",
       "isLive": false,
       "important": false
@@ -185,7 +185,7 @@
           "team": "76ers",
           "w": 39,
           "l": 32,
-          "pct": ".549"
+          "pct": ".543"
         },
         {
           "rank": 8,
@@ -224,8 +224,7 @@
           "team": "Spurs",
           "w": 53,
           "l": 18,
-          "pct": ".746",
-          "conf": "西部第2"
+          "pct": ".746"
         },
         {
           "rank": 3,
@@ -284,7 +283,45 @@
           "pct": ".465"
         }
       ]
-    }
+    },
+    "liveGames": [
+      {
+        "home": "Hornets",
+        "away": "Kings",
+        "homeScore": 0,
+        "awayScore": 0,
+        "time": "08:30",
+        "status": "scheduled",
+        "note": "📋 即将开球 | 黄蜂 vs 国王"
+      },
+      {
+        "home": "Knicks",
+        "away": "Pelicans",
+        "homeScore": 0,
+        "awayScore": 0,
+        "time": "09:00",
+        "status": "scheduled",
+        "note": "📋 即将开球 | 尼克斯 vs 鹈鹕"
+      },
+      {
+        "home": "Cavaliers",
+        "away": "Magic",
+        "homeScore": 0,
+        "awayScore": 0,
+        "time": "09:30",
+        "status": "scheduled",
+        "note": "📋 即将开球 | 骑士 vs 魔术"
+      },
+      {
+        "home": "Suns",
+        "away": "Nuggets",
+        "homeScore": 0,
+        "awayScore": 0,
+        "time": "10:00",
+        "status": "scheduled",
+        "note": "📋 即将开球 | 太阳 vs 掘金"
+      }
+    ]
   },
   "tennis": {
     "atp": [
@@ -317,6 +354,36 @@
         "name": "Taylor Fritz",
         "points": 7600,
         "trend": "↑"
+      },
+      {
+        "rank": 6,
+        "name": "Daniil Medvedev",
+        "points": 5900,
+        "trend": "-"
+      },
+      {
+        "rank": 7,
+        "name": "Alex De Minaur",
+        "points": 4410,
+        "trend": "-"
+      },
+      {
+        "rank": 8,
+        "name": "Lorenzo Musetti",
+        "points": 4210,
+        "trend": "↓"
+      },
+      {
+        "rank": 9,
+        "name": "Tommy Paul",
+        "points": 3800,
+        "trend": "-"
+      },
+      {
+        "rank": 10,
+        "name": "Ben Shelton",
+        "points": 3550,
+        "trend": "-"
       }
     ],
     "wta": [
@@ -330,7 +397,7 @@
         "rank": 2,
         "name": "Iga Swiatek",
         "points": 9775,
-        "trend": "-"
+        "trend": "↑"
       },
       {
         "rank": 3,
@@ -349,7 +416,40 @@
         "name": "Elena Rybakina",
         "points": 6500,
         "trend": "-"
+      },
+      {
+        "rank": 6,
+        "name": "Paula Badosa",
+        "points": 5500,
+        "trend": "-"
+      },
+      {
+        "rank": 7,
+        "name": "Emma Navarro",
+        "points": 4600,
+        "trend": "↑"
+      },
+      {
+        "rank": 8,
+        "name": "Danielle Collins",
+        "points": 4000,
+        "trend": "-"
+      },
+      {
+        "rank": 9,
+        "name": "Madison Keys",
+        "points": 3600,
+        "trend": "-"
+      },
+      {
+        "rank": 10,
+        "name": "Beatriz Haddad Maia",
+        "points": 3100,
+        "trend": "-"
       }
     ]
+  },
+  "soccer": {
+    "liveMatches": []
   }
 }
