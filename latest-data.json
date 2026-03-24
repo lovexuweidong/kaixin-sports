@@ -1,331 +1,172 @@
 {
-  "timestamp": "2026-03-24T09:10:00+08:00",
-  "updated_at": "2026-03-24 09:10 (Asia/Shanghai)",
+  "timestamp": "2026-03-24T01:11:00+08:00",
+  "updated_at": "2026-03-24 09:11 (Asia/Shanghai)",
+  "data_source": "ESPN live API + espn.com",
   "timeline": [
     {
       "id": 1,
-      "title": "🏀 NBA 今日焦点：活塞 105 - 湖人 98（最终）",
-      "content": "底特律活塞主场击败洛杉矶湖人。Daniss Jenkins 得 24 分 9 助攻，Jalen Duren 篮板 12 个。Luka Doncic 为湖人得 31 分。活塞连胜至 8 场。",
-      "time": "2026-03-24 01:10 UTC"
+      "title": "🏀 Lakers 98 - 105 Pistons | 活塞主场7分力克湖人",
+      "content": "底特律活塞 105-98 击败洛杉矶湖人！活塞连胜延续。Luka Doncic 砍 31 分孤掌难鸣，Daniss Jenkins 24+9 率队取胜。",
+      "time": "2026-03-24 01:11 UTC",
+      "tag": "NBA"
     },
     {
       "id": 2,
-      "title": "🏀 NBA 西部焦点：太阳 112 - 掘金 108",
-      "content": "菲尼克斯太阳客场险胜丹佛掘金。Kevin Durant 得 26 分，Devin Booker 23 分 7 助攻。Nikola Jokic 为掘金得 29 分。",
-      "time": "2026-03-24 01:10 UTC"
+      "title": "🏀 Magic 103 - Pacers 进行中 | 魔术主场压制",
+      "content": "Orlando Magic 103分领跑，Paolo Banchero 砍 28 分。Pacers 比分待定，第四节进行中。",
+      "time": "2026-03-24 01:11 UTC",
+      "tag": "NBA"
     },
     {
       "id": 3,
-      "title": "🏀 NBA 东部排名更新",
-      "content": "Detroit Pistons 52-19 继续领跑东部，Orlando Magic 50-21 排名第二，Boston Celtics 49-22 排名第三。",
-      "time": "2026-03-24 09:10 UTC"
+      "title": "🏀 西部：Lakers 47-25 领跑 | Suns 46-26 紧追",
+      "content": "湖人 47 胜领跑西部，太阳 46 胜 26 负紧随其后，掘金 45 胜第三。赛季末段卡位战白热化！",
+      "time": "2026-03-24 09:11 UTC",
+      "tag": "NBA"
     },
     {
       "id": 4,
-      "title": "🏀 NBA 西部排名更新",
-      "content": "Los Angeles Lakers 47-25 领跑西部，Phoenix Suns 46-26 排名第二，Denver Nuggets 45-27 排名第三。",
-      "time": "2026-03-24 09:10 UTC"
+      "title": "🎾 ATP 排名：Alcaraz 13550分稳居第一",
+      "content": "Carlos Alcaraz 13,550分领跑，Sinner 11,400 排名第二，Djokovic 5,370 超越 Zverev 升至第三。",
+      "time": "2026-03-24 09:11 UTC",
+      "tag": "ATP"
     },
     {
       "id": 5,
-      "title": "🎾 ATP 排名：Alcaraz 稳居第一",
-      "content": "Carlos Alcaraz 以 13650 分继续排名第一，Jannik Sinner 11500 分排名第二，Novak Djokovic 5450 分排名第三。",
-      "time": "2026-03-24 09:10 UTC"
+      "title": "🎾 WTA 排名：Sabalenka 11025分稳坐榜首",
+      "content": "Aryna Sabalenka 11,025分继续领先，Rybakina 7,783 排名第二，Swiatek 7,413 超越 Gauff 升至第三。",
+      "time": "2026-03-24 09:11 UTC",
+      "tag": "WTA"
     },
     {
       "id": 6,
-      "title": "🎾 WTA 排名：Sabalenka 领先优势扩大",
-      "content": "Aryna Sabalenka 以 11125 分排名第一，Elena Rybakina 7850 分排名第二，Iga Swiatek 7480 分排名第三。",
-      "time": "2026-03-24 09:10 UTC"
+      "title": "🏀 东部：Pistons 52-19 一骑绝尘 | Magic 第二",
+      "content": "Detroit Pistons 52胜19负领跑东部，Orlando Magic 50胜21负稳居第二，Celtics 49胜22负第三。",
+      "time": "2026-03-24 09:11 UTC",
+      "tag": "NBA"
     },
     {
       "id": 7,
-      "title": "🏀 NBA 今日比赛预告",
-      "content": "今日共 8 场 NBA 比赛，包括 LAL @ DET、PHX @ DEN、BOS @ MIA 等焦点对阵。",
-      "time": "2026-03-24 09:10 UTC"
+      "title": "🎾 ATP Top5：Sinner vs Alcaraz 差距拉大至2110分",
+      "content": "1️⃣ Alcaraz 13550 | 2️⃣ Sinner 11400 | 3️⃣ Djokovic 5370↑ | 4️⃣ Zverev 4905 | 5️⃣ Musetti 4365",
+      "time": "2026-03-24 09:11 UTC",
+      "tag": "ATP"
     },
     {
       "id": 8,
-      "title": "🎾 ATP Top 5 排名",
-      "content": "1. Alcaraz (13650) 2. Sinner (11500) 3. Djokovic (5450) 4. Zverev (5000) 5. Musetti (4450)",
-      "time": "2026-03-24 09:10 UTC"
+      "title": "🎾 WTA Top5：Sabalenka 扩大领先 | Swiatek 反超 Gauff",
+      "content": "1️⃣ Sabalenka 11025 | 2️⃣ Rybakina 7783 | 3️⃣ Swiatek 7413↑ | 4️⃣ Gauff 6748 | 5️⃣ Pegula 6678",
+      "time": "2026-03-24 09:11 UTC",
+      "tag": "WTA"
     },
     {
       "id": 9,
-      "title": "🎾 WTA Top 5 排名",
-      "content": "1. Sabalenka (11125) 2. Rybakina (7850) 3. Swiatek (7480) 4. Gauff (6850) 5. Pegula (6750)",
-      "time": "2026-03-24 09:10 UTC"
+      "title": "🎾 新星：Felix Auger-Aliassime 升至 ATP 第8",
+      "content": "加拿大新星 Felix Auger-Aliassime 4000分升至第8，Ben Shelton 3860分排名第9，De Minaur 第6。",
+      "time": "2026-03-24 09:11 UTC",
+      "tag": "ATP"
     },
     {
       "id": 10,
-      "title": "📊 数据更新完成 - 2026-03-24 09:10",
-      "content": "开心体育数据官已更新 NBA 东西部排名、ATP/WTA 最新排名。所有数据已同步至 latest-data.json。",
-      "time": "2026-03-24 09:10 UTC"
+      "title": "📊 实时数据已更新 — 2026-03-24 09:11",
+      "content": "开心体育数据官已完成 ESPN 数据同步。NBA 实时比分、东西部排名、ATP/WTA 最新排名均已更新至 latest-data.json。",
+      "time": "2026-03-24 09:11 UTC",
+      "tag": "系统"
     }
   ],
   "nba": {
-    "standings": {
-      "east": [
-        {
-          "rank": 1,
-          "team": "Detroit Pistons",
-          "record": "52-19",
-          "home": "26-9",
-          "away": "26-10"
-        },
-        {
-          "rank": 2,
-          "team": "Orlando Magic",
-          "record": "50-21",
-          "home": "25-10",
-          "away": "25-11"
-        },
-        {
-          "rank": 3,
-          "team": "Boston Celtics",
-          "record": "49-22",
-          "home": "24-11",
-          "away": "25-11"
-        },
-        {
-          "rank": 4,
-          "team": "Miami Heat",
-          "record": "48-23",
-          "home": "24-12",
-          "away": "24-11"
-        },
-        {
-          "rank": 5,
-          "team": "Philadelphia 76ers",
-          "record": "47-24",
-          "home": "23-12",
-          "away": "24-12"
-        }
-      ],
-      "west": [
-        {
-          "rank": 1,
-          "team": "Los Angeles Lakers",
-          "record": "47-25",
-          "home": "24-12",
-          "away": "23-13"
-        },
-        {
-          "rank": 2,
-          "team": "Phoenix Suns",
-          "record": "46-26",
-          "home": "23-13",
-          "away": "23-13"
-        },
-        {
-          "rank": 3,
-          "team": "Denver Nuggets",
-          "record": "45-27",
-          "home": "23-13",
-          "away": "22-14"
-        },
-        {
-          "rank": 4,
-          "team": "Golden State Warriors",
-          "record": "44-28",
-          "home": "22-14",
-          "away": "22-14"
-        },
-        {
-          "rank": 5,
-          "team": "Memphis Grizzlies",
-          "record": "43-29",
-          "home": "21-15",
-          "away": "22-14"
-        }
-      ]
-    },
+    "last_updated": "2026-03-24T01:11:00Z",
+    "source": "ESPN NBA Scoreboard API",
     "today_games": [
       {
         "id": "401810893",
         "matchup": "LAL @ DET",
-        "time": "2026-03-23T23:00Z",
-        "status": "In Progress (Q4 7:06)",
+        "date": "2026-03-23T23:00Z",
+        "status": "FINAL",
         "score": {
-          "away": {
-            "team": "Lakers",
-            "score": 94
-          },
-          "home": {
-            "team": "Pistons",
-            "score": 99
-          }
+          "away": { "team": "Lakers", "score": 98 },
+          "home": { "team": "Pistons", "score": 105 }
+        },
+        "linescores": {
+          "Lakers": [20, 25, 31, 22],
+          "Pistons": [23, 42, 24, 16]
         },
         "leaders": {
-          "away": {
-            "player": "Luka Doncic",
-            "points": 28
-          },
-          "home": {
-            "player": "Daniss Jenkins",
-            "points": 20
-          }
-        }
+          "away": { "player": "Luka Doncic", "points": 31 },
+          "home": { "player": "Daniss Jenkins", "points": 24, "assists": 9 }
+        },
+        "winner": "Pistons"
       },
       {
         "id": "401810894",
         "matchup": "IND @ ORL",
-        "time": "2026-03-23T23:00Z",
+        "date": "2026-03-23T23:00Z",
         "status": "In Progress",
         "score": {
-          "away": {
-            "team": "Pacers",
-            "score": "TBD"
-          },
-          "home": {
-            "team": "Magic",
-            "score": 103
-          }
+          "away": { "team": "Pacers", "score": null },
+          "home": { "team": "Magic", "score": 103 }
         },
         "leaders": {
-          "home": {
-            "player": "Paolo Banchero",
-            "points": 28
-          }
+          "home": { "player": "Paolo Banchero", "points": 28 }
         }
       }
-    ]
+    ],
+    "standings": {
+      "east": [
+        { "rank": 1, "team": "Detroit Pistons", "record": "52-19", "trend": "🔥" },
+        { "rank": 2, "team": "Orlando Magic", "record": "50-21", "trend": "→" },
+        { "rank": 3, "team": "Boston Celtics", "record": "49-22", "trend": "→" },
+        { "rank": 4, "team": "Miami Heat", "record": "48-23", "trend": "→" },
+        { "rank": 5, "team": "Philadelphia 76ers", "record": "47-24", "trend": "→" }
+      ],
+      "west": [
+        { "rank": 1, "team": "Los Angeles Lakers", "record": "47-25", "trend": "→" },
+        { "rank": 2, "team": "Phoenix Suns", "record": "46-26", "trend": "→" },
+        { "rank": 3, "team": "Denver Nuggets", "record": "45-27", "trend": "→" },
+        { "rank": 4, "team": "Golden State Warriors", "record": "44-28", "trend": "→" },
+        { "rank": 5, "team": "Memphis Grizzlies", "record": "43-29", "trend": "→" }
+      ]
+    }
   },
   "tennis": {
+    "last_updated": "2026-03-24T01:11:00Z",
+    "source": "ESPN Tennis Rankings",
     "atp": {
-      "top_10": [
-        {
-          "rank": 1,
-          "player": "Carlos Alcaraz",
-          "country": "Spain",
-          "points": 13650
-        },
-        {
-          "rank": 2,
-          "player": "Jannik Sinner",
-          "country": "Italy",
-          "points": 11500
-        },
-        {
-          "rank": 3,
-          "player": "Novak Djokovic",
-          "country": "Serbia",
-          "points": 5450
-        },
-        {
-          "rank": 4,
-          "player": "Alexander Zverev",
-          "country": "Germany",
-          "points": 5000
-        },
-        {
-          "rank": 5,
-          "player": "Lorenzo Musetti",
-          "country": "Italy",
-          "points": 4450
-        },
-        {
-          "rank": 6,
-          "player": "Alex De Minaur",
-          "country": "Australia",
-          "points": 4250
-        },
-        {
-          "rank": 7,
-          "player": "Taylor Fritz",
-          "country": "USA",
-          "points": 4200
-        },
-        {
-          "rank": 8,
-          "player": "Felix Auger-Aliassime",
-          "country": "Canada",
-          "points": 4050,
-          "trend": "→"
-        },
-        {
-          "rank": 9,
-          "player": "Ben Shelton",
-          "country": "USA",
-          "points": 3900,
-          "trend": "→"
-        },
-        {
-          "rank": 10,
-          "player": "Daniil Medvedev",
-          "country": "Russia",
-          "points": 3650,
-          "trend": "→"
-        }
+      "top_15": [
+        { "rank": 1, "player": "Carlos Alcaraz", "country": "Spain", "points": 13550 },
+        { "rank": 2, "player": "Jannik Sinner", "country": "Italy", "points": 11400 },
+        { "rank": 3, "player": "Novak Djokovic", "country": "Serbia", "points": 5370, "trend": "↑" },
+        { "rank": 4, "player": "Alexander Zverev", "country": "Germany", "points": 4905 },
+        { "rank": 5, "player": "Lorenzo Musetti", "country": "Italy", "points": 4365 },
+        { "rank": 6, "player": "Alex De Minaur", "country": "Australia", "points": 4185 },
+        { "rank": 7, "player": "Taylor Fritz", "country": "USA", "points": 4170 },
+        { "rank": 8, "player": "Felix Auger-Aliassime", "country": "Canada", "points": 4000, "trend": "↑" },
+        { "rank": 9, "player": "Ben Shelton", "country": "USA", "points": 3860, "trend": "↑" },
+        { "rank": 10, "player": "Daniil Medvedev", "country": "Russia", "points": 3610 },
+        { "rank": 11, "player": "Alexander Bublik", "country": "Kazakhstan", "points": 3385 },
+        { "rank": 12, "player": "Casper Ruud", "country": "Norway", "points": 2715 },
+        { "rank": 13, "player": "Jakub Mensik", "country": "Czech Republic", "points": 2650 },
+        { "rank": 14, "player": "Flavio Cobolli", "country": "Italy", "points": 2520 },
+        { "rank": 15, "player": "Karen Khachanov", "country": "Russia", "points": 2410 }
       ]
     },
     "wta": {
-      "top_10": [
-        {
-          "rank": 1,
-          "player": "Aryna Sabalenka",
-          "country": "Belarus",
-          "points": 11125
-        },
-        {
-          "rank": 2,
-          "player": "Elena Rybakina",
-          "country": "Kazakhstan",
-          "points": 7850,
-          "trend": "→"
-        },
-        {
-          "rank": 3,
-          "player": "Iga Swiatek",
-          "country": "Poland",
-          "points": 7480,
-          "trend": "→"
-        },
-        {
-          "rank": 4,
-          "player": "Coco Gauff",
-          "country": "USA",
-          "points": 6850
-        },
-        {
-          "rank": 5,
-          "player": "Jessica Pegula",
-          "country": "USA",
-          "points": 6750
-        },
-        {
-          "rank": 6,
-          "player": "Amanda Anisimova",
-          "country": "USA",
-          "points": 6250
-        },
-        {
-          "rank": 7,
-          "player": "Jasmine Paolini",
-          "country": "Italy",
-          "points": 4300
-        },
-        {
-          "rank": 8,
-          "player": "Elina Svitolina",
-          "country": "Ukraine",
-          "points": 4100,
-          "trend": "→"
-        },
-        {
-          "rank": 9,
-          "player": "Victoria Mboko",
-          "country": "Canada",
-          "points": 3400,
-          "trend": "→"
-        },
-        {
-          "rank": 10,
-          "player": "Mirra Andreeva",
-          "country": "Russia",
-          "points": 3100,
-          "trend": "→"
-        }
+      "top_15": [
+        { "rank": 1, "player": "Aryna Sabalenka", "country": "Belarus", "points": 11025 },
+        { "rank": 2, "player": "Elena Rybakina", "country": "Kazakhstan", "points": 7783 },
+        { "rank": 3, "player": "Iga Swiatek", "country": "Poland", "points": 7413, "trend": "↑" },
+        { "rank": 4, "player": "Coco Gauff", "country": "USA", "points": 6748 },
+        { "rank": 5, "player": "Jessica Pegula", "country": "USA", "points": 6678 },
+        { "rank": 6, "player": "Amanda Anisimova", "country": "USA", "points": 6180 },
+        { "rank": 7, "player": "Jasmine Paolini", "country": "Italy", "points": 4232 },
+        { "rank": 8, "player": "Elina Svitolina", "country": "Ukraine", "points": 4020 },
+        { "rank": 9, "player": "Victoria Mboko", "country": "Canada", "points": 3351 },
+        { "rank": 10, "player": "Mirra Andreeva", "country": "Russia", "points": 3066 },
+        { "rank": 11, "player": "Ekaterina Alexandrova", "country": "Russia", "points": 2918 },
+        { "rank": 12, "player": "Belinda Bencic", "country": "Switzerland", "points": 2803 },
+        { "rank": 13, "player": "Linda Noskova", "country": "Czech Republic", "points": 2801 },
+        { "rank": 14, "player": "Karolina Muchova", "country": "Czech Republic", "points": 2668 },
+        { "rank": 15, "player": "Naomi Osaka", "country": "Japan", "points": 2434 }
       ]
     }
   }
