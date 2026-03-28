@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-28T22:52:00.000000+08:00",
-  "timestamp": "2026-03-28T14:52:00.000000+00:00",
+  "updated_at": "2026-03-28T22:55:00.000000+08:00",
+  "timestamp": "2026-03-28T14:55:00.000000+00:00",
   "source": "ESPN API / Live Updates",
   "timeline": [
     {
@@ -9,7 +9,7 @@
       "content": "东部第一底特律活塞客场挑战西部第五森林狼！活塞目前53胜20负，若赢球将逼近58胜！爱德华兹缺阵，森林狼主场全力阻击！",
       "category": "NBA",
       "emoji": "🔥",
-      "timestamp": "2026-03-28T22:50:00.000000+08:00"
+      "timestamp": "2026-03-28T22:55:00.000000+08:00"
     },
     {
       "id": 2,
@@ -17,7 +17,7 @@
       "content": "马刺客场挑战雄鹿！文班亚玛率队冲击56胜，字母哥缺阵，雄鹿主场能否阻击？马刺近期7连胜势不可挡！",
       "category": "NBA",
       "emoji": "🏀",
-      "timestamp": "2026-03-28T22:50:00.000000+08:00"
+      "timestamp": "2026-03-28T22:55:00.000000+08:00"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "content": "克利夫兰骑士以149-128大胜迈阿密热火！创队史常规赛单场得分新高！进攻火力全开，46胜28负稳居东部第四！",
       "category": "NBA",
       "emoji": "⚡",
-      "timestamp": "2026-03-28T22:50:00.000000+08:00"
+      "timestamp": "2026-03-28T22:55:00.000000+08:00"
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "content": "美国vs比利时国际友谊赛在亚特兰大Mercedes-Benz球场进行中！两队世界级球星云集，主场美足全力争胜！",
       "category": "Soccer",
       "emoji": "🇺🇸",
-      "timestamp": "2026-03-28T22:50:00.000000+08:00"
+      "timestamp": "2026-03-28T22:55:00.000000+08:00"
     },
     {
       "id": 5,
@@ -41,7 +41,7 @@
       "content": "雷霆58胜16负胜率.784领跑西部，马刺55胜18负胜率.753紧随其后！西部头名之争进入白热化阶段！",
       "category": "NBA",
       "emoji": "⚡",
-      "timestamp": "2026-03-28T22:50:00.000000+08:00"
+      "timestamp": "2026-03-28T22:55:00.000000+08:00"
     },
     {
       "id": 6,
@@ -49,7 +49,7 @@
       "content": "底特律活塞53胜20负东部第一，凯尔特人49胜24负东部第二。东部季后赛格局已定，活塞主场优势明显！",
       "category": "NBA",
       "emoji": "🏆",
-      "timestamp": "2026-03-28T22:50:00.000000+08:00"
+      "timestamp": "2026-03-28T22:55:00.000000+08:00"
     },
     {
       "id": 7,
@@ -57,7 +57,7 @@
       "content": "东契奇拿到赛季第16个技术犯规，若不被撤销下一场将自动禁赛！湖人近期11胜1负状态火热，禁赛影响巨大！",
       "category": "NBA",
       "emoji": "🟡",
-      "timestamp": "2026-03-28T22:50:00.000000+08:00"
+      "timestamp": "2026-03-28T22:55:00.000000+08:00"
     },
     {
       "id": 8,
@@ -65,7 +65,7 @@
       "content": "辛纳6-3/7-6击败兹维列夫晋级迈阿密决赛，将战Lehecka！若明日夺冠将成为2017年费德勒后首位阳光双冠得主！",
       "category": "Tennis",
       "emoji": "🎾",
-      "timestamp": "2026-03-28T22:50:00.000000+08:00"
+      "timestamp": "2026-03-28T22:55:00.000000+08:00"
     },
     {
       "id": 9,
@@ -73,7 +73,7 @@
       "content": "阿尔卡拉斯13550分ATP第一，辛纳11400分第二，德约科维奇5370分第三。新生代统治男子网坛！",
       "category": "Tennis",
       "emoji": "👑",
-      "timestamp": "2026-03-28T22:50:00.000000+08:00"
+      "timestamp": "2026-03-28T22:55:00.000000+08:00"
     },
     {
       "id": 10,
@@ -81,7 +81,7 @@
       "content": "墨西哥城Estadio Banorte球场，墨西哥vs葡萄牙国际友谊赛正在进行！两队世界级球星云集，精彩对决！",
       "category": "Soccer",
       "emoji": "🇲🇽",
-      "timestamp": "2026-03-28T22:50:00.000000+08:00"
+      "timestamp": "2026-03-28T22:55:00.000000+08:00"
     }
   ],
   "nba": {
@@ -97,8 +97,8 @@
         "away_score": null,
         "venue": "Target Center, Minneapolis",
         "broadcast": "ABC",
-        "spread": "MIN -2.5",
-        "total": 223.5,
+        "spread": "MIN -1.5",
+        "total": 222.5,
         "note": "东部第一活塞客场战西部第五森林狼，爱德华兹缺阵"
       },
       {
@@ -111,14 +111,14 @@
         "home_score": null,
         "away_score": null,
         "venue": "Fiserv Forum, Milwaukee",
-        "broadcast": "Prime Video",
+        "broadcast": "ABC",
         "spread": "SA -18.5",
-        "total": 225.5,
+        "total": 226.5,
         "note": "马刺客场挑战雄鹿，文班亚玛PK字母哥（缺阵）"
       },
       {
         "id": "401810932",
-        "date": "2026-03-28T22:00Z",
+        "date": "2026-03-28T23:00Z",
         "match": "Philadelphia 76ers @ Charlotte Hornets",
         "home": "Charlotte Hornets",
         "away": "Philadelphia 76ers",
@@ -126,8 +126,9 @@
         "home_score": null,
         "away_score": null,
         "venue": "Spectrum Center, Charlotte",
-        "spread": "CHA -5.5",
-        "total": 233.5,
+        "broadcast": "NBA TV",
+        "spread": "CHA -6.5",
+        "total": 232.5,
         "note": "恩比德率76ers客场挑战黄蜂"
       },
       {
@@ -140,8 +141,9 @@
         "home_score": null,
         "away_score": null,
         "venue": "State Farm Arena, Atlanta",
+        "broadcast": "Bally Sports",
         "spread": "ATL -14.5",
-        "total": 237.5,
+        "total": 236.5,
         "note": "老鹰主场迎战西部垫底国王"
       },
       {
@@ -154,7 +156,8 @@
         "home_score": null,
         "away_score": null,
         "venue": "FedExForum, Memphis",
-        "spread": "CHI -3.5",
+        "broadcast": "Bally Sports",
+        "spread": "MEM -2.5",
         "total": 244.5,
         "note": "公牛客场挑战灰熊，两队均已无缘季后赛"
       },
@@ -168,6 +171,7 @@
         "home_score": null,
         "away_score": null,
         "venue": "Footprint Center, Phoenix",
+        "broadcast": "Arizona Family",
         "spread": "PHX -6.5",
         "total": 241.5,
         "note": "太阳主场迎战爵士，争夺附加赛席位"
