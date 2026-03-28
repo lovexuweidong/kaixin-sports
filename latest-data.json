@@ -1,302 +1,173 @@
 {
-  "updated_at": "2026-03-28T23:11:00+08:00",
-  "timestamp": "2026-03-28T15:11:00Z",
+  "timestamp": "2026-03-28T23:15:00+08:00",
+  "lastUpdated": "2026-03-28 23:15 (Asia/Shanghai)",
   "timeline": [
     {
       "id": 1,
-      "title": "🏀 NBA焦点赛：马刺-18.5分大分差客战雄鹿",
-      "content": "55-18的马刺今晚3:00 PM EDT客场挑战29-43的雄鹿，维克托·温班亚玛领衔进攻，马刺主客场战绩均衡(28-7 vs 26-11)。",
-      "category": "NBA",
-      "timestamp": "2026-03-28T15:11:00Z"
+      "title": "🏀 NBA 今日焦点：马刺 vs 雄鹿",
+      "content": "圣安东尼奥马刺（55-18）客场挑战密尔沃基雄鹿（29-43）。马刺以18.5分的优势领先，维克托·温班亚玛场均24.2分11.2篮板领衔。",
+      "time": "2026-03-28 19:00 EDT",
+      "category": "NBA"
     },
     {
       "id": 2,
-      "title": "⚽ 2026世界杯预选赛：美国队深度空前",
-      "content": "USMNT在世界杯预选赛中展现出历史最强阵容深度，替补席实力空前，有望创造美国队最佳世界杯成绩。",
-      "category": "Soccer",
-      "timestamp": "2026-03-28T15:10:30Z"
+      "title": "🎾 ATP排名：阿尔卡拉兹继续领跑",
+      "content": "卡洛斯·阿尔卡拉兹（13550分）稳居ATP第一，扬尼克·辛纳（11400分）排名第二，德约科维奇（5370分）排名第三。",
+      "time": "2026-03-28 15:15 UTC",
+      "category": "Tennis"
     },
     {
       "id": 3,
-      "title": "🎾 ATP排名：阿尔卡拉兹13550分领跑",
-      "content": "西班牙天才卡洛斯·阿尔卡拉兹(22岁)以13550分继续占据ATP排名第一，领先意大利新星詹尼克·辛纳(11400分)。",
-      "category": "Tennis",
-      "timestamp": "2026-03-28T15:10:00Z"
+      "title": "🎾 WTA排名：萨巴伦卡领先",
+      "content": "阿琳娜·萨巴伦卡（11025分）继续领跑WTA排名，埃琳娜·里巴基娜（7783分）排名第二，伊加·斯维亚特克（7413分）排名第三。",
+      "time": "2026-03-28 15:15 UTC",
+      "category": "Tennis"
     },
     {
       "id": 4,
-      "title": "⚽ 英超焦点：本·怀特回归遭球迷嘘声",
-      "content": "英超后卫本·怀特在对乌拉圭的友谊赛中回归，尽管主帅图赫尔力挺，但球迷的嘘声表明他仍需证明自己。",
-      "category": "Soccer",
-      "timestamp": "2026-03-28T15:09:30Z"
+      "title": "🏀 NBA 东部排名：马刺领先",
+      "content": "NBA 2025-26赛季常规赛进行中。圣安东尼奥马刺以55胜18负的战绩领先东部。",
+      "time": "2026-03-28 15:15 UTC",
+      "category": "NBA"
     },
     {
       "id": 5,
-      "title": "🎾 WTA排名：萨巴伦卡11025分稳坐第一",
-      "content": "白俄罗斯选手阿琳娜·萨巴伦卡(27岁)以11025分领跑WTA排名，哈萨克斯坦的埃琳娜·里巴基娜上升至第二位(7783分)。",
-      "category": "Tennis",
-      "timestamp": "2026-03-28T15:09:00Z"
+      "title": "🏀 NBA 西部排名：竞争激烈",
+      "content": "NBA西部各队竞争激烈，多支球队争夺季后赛席位。密尔沃基雄鹿目前战绩为29胜43负。",
+      "time": "2026-03-28 15:15 UTC",
+      "category": "NBA"
     },
     {
       "id": 6,
-      "title": "🏀 NBA常规赛：活塞客战狼队5:30 PM EDT",
-      "content": "底特律活塞将在今晚5:30 PM EDT客场挑战明尼苏达森林狼，这是NBA常规赛的另一场焦点对阵。",
-      "category": "NBA",
-      "timestamp": "2026-03-28T15:08:30Z"
+      "title": "🎾 ATP Top 10：意大利双雄崛起",
+      "content": "意大利网球运动员表现出色，洛伦佐·穆塞蒂排名ATP第5，亚历山大·布布利克排名第11。",
+      "time": "2026-03-28 15:15 UTC",
+      "category": "Tennis"
     },
     {
       "id": 7,
-      "title": "🎾 ATP新秀：本·谢尔顿排名第9位",
-      "content": "美国新秀本·谢尔顿(23岁)以3860分排名ATP第9位，展现出强劲的上升势头，成为美国网坛新希望。",
-      "category": "Tennis",
-      "timestamp": "2026-03-28T15:08:00Z"
+      "title": "🎾 WTA Top 10：美国选手强势",
+      "content": "美国网球选手在WTA排名中表现强势，科科·高芙排名第4，杰西卡·佩古拉排名第5，阿曼达·阿尼西莫娃排名第6。",
+      "time": "2026-03-28 15:15 UTC",
+      "category": "Tennis"
     },
     {
       "id": 8,
-      "title": "⚽ 巴塞罗那伤情：拉菲尼亚伤停5周",
-      "content": "巴塞罗那边锋拉菲尼亚遭遇伤病，将伤停5周，这对巴萨的进攻火力造成重大打击。",
-      "category": "Soccer",
-      "timestamp": "2026-03-28T15:07:30Z"
+      "title": "🏀 NBA 数据亮点：马刺进攻火力强",
+      "content": "圣安东尼奥马刺场均得分119.3分，排名NBA第3，三分命中率35.9%排名第1。",
+      "time": "2026-03-28 15:15 UTC",
+      "category": "NBA"
     },
     {
       "id": 9,
-      "title": "🎾 WTA新秀：维多利亚·姆博科排名第9",
-      "content": "加拿大新秀维多利亚·姆博科(19岁)以3351分排名WTA第9位，成为WTA排名中最年轻的选手之一。",
-      "category": "Tennis",
-      "timestamp": "2026-03-28T15:07:00Z"
+      "title": "🏀 NBA 球星表现：温班亚玛全能",
+      "content": "维克托·温班亚玛场均24.2分11.2篮板3.0助攻1.1抢断3.1盖帽，全能表现领衔马刺。",
+      "time": "2026-03-28 15:15 UTC",
+      "category": "NBA"
     },
     {
       "id": 10,
-      "title": "⚽ 利物浦转会：萨拉赫考虑夏季加盟罗马",
-      "content": "利物浦边锋穆罕默德·萨拉赫正考虑在夏季转会窗口加盟意甲罗马队，这将是他职业生涯的重大转折。",
-      "category": "Soccer",
-      "timestamp": "2026-03-28T15:06:30Z"
+      "title": "🎾 ATP新星：门西克崭露头角",
+      "content": "捷克新星雅库布·门西克排名ATP第13，年仅20岁，展现出强大的发展潜力。",
+      "time": "2026-03-28 15:15 UTC",
+      "category": "Tennis"
     }
   ],
   "nba": {
     "standings": {
-      "western_conference": [
-        {
-          "rank": 1,
-          "team": "San Antonio Spurs",
-          "abbreviation": "SA",
-          "wins": 55,
-          "losses": 18,
-          "home_record": "28-7",
-          "away_record": "26-11",
-          "avg_points": 119.3,
-          "leader": "Victor Wembanyama (24.2 PPG)"
-        },
-        {
-          "rank": 2,
-          "team": "Milwaukee Bucks",
-          "abbreviation": "MIL",
-          "wins": 29,
-          "losses": 43,
-          "home_record": "16-19",
-          "away_record": "13-24",
-          "avg_points": 110.6,
-          "leader": "Ryan Rollins (17.1 PPG)"
-        }
-      ],
-      "today_games": [
-        {
-          "id": "401810931",
-          "matchup": "San Antonio Spurs at Milwaukee Bucks",
-          "short_name": "SA @ MIL",
-          "time": "2026-03-28T19:00Z",
-          "time_local": "3:00 PM EDT",
-          "venue": "Fiserv Forum, Milwaukee, WI",
-          "broadcast": "Prime Video",
-          "odds": {
-            "spread": "SA -18.5",
-            "over_under": 226.5,
-            "moneyline_away": "-2100",
-            "moneyline_home": "+1100"
-          },
-          "status": "Scheduled"
-        },
-        {
-          "id": "401810935",
-          "matchup": "Detroit Pistons at Minnesota Timberwolves",
-          "short_name": "DET @ MIN",
-          "time": "2026-03-28T21:30Z",
-          "time_local": "5:30 PM EDT",
-          "status": "Scheduled"
-        }
-      ]
-    }
+      "east": {
+        "leader": "San Antonio Spurs",
+        "record": "55-18",
+        "note": "Spurs leading with strong performance"
+      },
+      "west": {
+        "note": "Competitive season with multiple teams fighting for playoff spots",
+        "example": "Milwaukee Bucks: 29-43"
+      }
+    },
+    "todayGames": [
+      {
+        "matchup": "San Antonio Spurs @ Milwaukee Bucks",
+        "time": "2026-03-28 19:00 EDT",
+        "spread": "SA -18.5",
+        "overUnder": 226.5,
+        "broadcast": "Prime Video"
+      },
+      {
+        "matchup": "Detroit Pistons @ Minnesota Timberwolves",
+        "time": "2026-03-28 21:30 EDT",
+        "broadcast": "TBD"
+      }
+    ]
   },
   "tennis": {
-    "atp_rankings": {
-      "top_10": [
+    "atp": {
+      "top5": [
         {
           "rank": 1,
           "name": "Carlos Alcaraz",
           "country": "Spain",
-          "points": 13550,
-          "age": 22,
-          "trend": "-"
+          "points": 13550
         },
         {
           "rank": 2,
           "name": "Jannik Sinner",
           "country": "Italy",
-          "points": 11400,
-          "age": 24,
-          "trend": "-"
+          "points": 11400
         },
         {
           "rank": 3,
           "name": "Novak Djokovic",
           "country": "Serbia",
-          "points": 5370,
-          "age": 38,
-          "trend": "-"
+          "points": 5370
         },
         {
           "rank": 4,
           "name": "Alexander Zverev",
           "country": "Germany",
-          "points": 4905,
-          "age": 28,
-          "trend": "-"
+          "points": 4905
         },
         {
           "rank": 5,
           "name": "Lorenzo Musetti",
           "country": "Italy",
-          "points": 4365,
-          "age": 24,
-          "trend": "-"
-        },
-        {
-          "rank": 6,
-          "name": "Alex De Minaur",
-          "country": "Australia",
-          "points": 4185,
-          "age": 27,
-          "trend": "-"
-        },
-        {
-          "rank": 7,
-          "name": "Taylor Fritz",
-          "country": "USA",
-          "points": 4170,
-          "age": 28,
-          "trend": "-"
-        },
-        {
-          "rank": 8,
-          "name": "Felix Auger-Aliassime",
-          "country": "Canada",
-          "points": 4000,
-          "age": 25,
-          "trend": "+1"
-        },
-        {
-          "rank": 9,
-          "name": "Ben Shelton",
-          "country": "USA",
-          "points": 3860,
-          "age": 23,
-          "trend": "-1"
-        },
-        {
-          "rank": 10,
-          "name": "Daniil Medvedev",
-          "country": "Russia",
-          "points": 3610,
-          "age": 30,
-          "trend": "+1"
+          "points": 4365
         }
       ]
     },
-    "wta_rankings": {
-      "top_10": [
+    "wta": {
+      "top5": [
         {
           "rank": 1,
           "name": "Aryna Sabalenka",
           "country": "Belarus",
-          "points": 11025,
-          "age": 27,
-          "trend": "-"
+          "points": 11025
         },
         {
           "rank": 2,
           "name": "Elena Rybakina",
           "country": "Kazakhstan",
-          "points": 7783,
-          "age": 26,
-          "trend": "+1"
+          "points": 7783
         },
         {
           "rank": 3,
           "name": "Iga Swiatek",
           "country": "Poland",
-          "points": 7413,
-          "age": 24,
-          "trend": "-1"
+          "points": 7413
         },
         {
           "rank": 4,
           "name": "Coco Gauff",
           "country": "USA",
-          "points": 6748,
-          "age": 22,
-          "trend": "-"
+          "points": 6748
         },
         {
           "rank": 5,
           "name": "Jessica Pegula",
           "country": "USA",
-          "points": 6678,
-          "age": 32,
-          "trend": "-"
-        },
-        {
-          "rank": 6,
-          "name": "Amanda Anisimova",
-          "country": "USA",
-          "points": 6180,
-          "age": 24,
-          "trend": "-"
-        },
-        {
-          "rank": 7,
-          "name": "Jasmine Paolini",
-          "country": "Italy",
-          "points": 4232,
-          "age": 30,
-          "trend": "-"
-        },
-        {
-          "rank": 8,
-          "name": "Elina Svitolina",
-          "country": "Ukraine",
-          "points": 4020,
-          "age": 31,
-          "trend": "+1"
-        },
-        {
-          "rank": 9,
-          "name": "Victoria Mboko",
-          "country": "Canada",
-          "points": 3351,
-          "age": 19,
-          "trend": "+1"
-        },
-        {
-          "rank": 10,
-          "name": "Mirra Andreeva",
-          "country": "Russia",
-          "points": 3066,
-          "age": 18,
-          "trend": "-2"
+          "points": 6678
         }
       ]
     }
-  },
-  "data_source": "ESPN API",
-  "version": "1.0"
+  }
 }
