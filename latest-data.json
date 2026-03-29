@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-29T13:37:30.000000+08:00",
-  "timestamp": "2026-03-29T05:37:30Z",
-  "source": "ESPN API Live Update 13:37",
+  "updated_at": "2026-03-29T13:49:00.000000+08:00",
+  "timestamp": "2026-03-29T05:49:00Z",
+  "source": "ESPN API Live Update 13:49",
   "timeline": [
     {
       "id": 1,
@@ -9,7 +9,7 @@
       "content": "马刺127-95大胜雄鹿豪取8连胜！文班23分15篮板10助攻，Castle三双22+10+10，56胜18负锁定西部前二！",
       "category": "NBA",
       "emoji": "🔥",
-      "timestamp": "2026-03-29T13:37:30+08:00"
+      "timestamp": "2026-03-29T13:49:00+08:00"
     },
     {
       "id": 2,
@@ -17,7 +17,7 @@
       "content": "太阳客场127-118击败爵士！Jalen Green 32分创赛季新高，太阳40胜33负稳居西部第7！",
       "category": "NBA",
       "emoji": "🏀",
-      "timestamp": "2026-03-29T13:37:30+08:00"
+      "timestamp": "2026-03-29T13:49:00+08:00"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "content": "灰熊客场125-122险胜公牛！Buzelis 34分创赛季新高，公牛功亏一篑！",
       "category": "NBA",
       "emoji": "💥",
-      "timestamp": "2026-03-29T13:37:30+08:00"
+      "timestamp": "2026-03-29T13:49:00+08:00"
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "content": "活塞54胜20负稳居东部第一，已锁定季后赛席位！场均117.5分联盟前列！",
       "category": "NBA",
       "emoji": "🏆",
-      "timestamp": "2026-03-29T13:37:30+08:00"
+      "timestamp": "2026-03-29T13:49:00+08:00"
     },
     {
       "id": 5,
@@ -41,7 +41,7 @@
       "content": "亚历山大-沃克27分带领老鹰主场123-113击败国王！老鹰42胜33负稳居东部第6。",
       "category": "NBA",
       "emoji": "📸",
-      "timestamp": "2026-03-29T13:37:30+08:00"
+      "timestamp": "2026-03-29T13:49:00+08:00"
     },
     {
       "id": 6,
@@ -49,7 +49,7 @@
       "content": "恩比德29分率76ers 118-114逆转黄蜂，豪取7连胜！76ers 41-33升至东部第7。",
       "category": "NBA",
       "emoji": "⚡",
-      "timestamp": "2026-03-29T13:37:30+08:00"
+      "timestamp": "2026-03-29T13:49:00+08:00"
     },
     {
       "id": 7,
@@ -57,7 +57,7 @@
       "content": "英超泰恩-威尔德比！桑德兰客场2-1逆转纽卡斯尔，Brobbey第90分钟绝杀！",
       "category": "Soccer",
       "emoji": "⚽",
-      "timestamp": "2026-03-29T13:37:30+08:00"
+      "timestamp": "2026-03-29T13:49:00+08:00"
     },
     {
       "id": 8,
@@ -65,7 +65,7 @@
       "content": "迈阿密大师赛男单决赛今晚上演！辛纳vs Lehecka，辛纳若夺冠将成为2017年费德勒后首位阳光双冠得主！",
       "category": "Tennis",
       "emoji": "🎾",
-      "timestamp": "2026-03-29T13:37:30+08:00"
+      "timestamp": "2026-03-29T13:49:00+08:00"
     },
     {
       "id": 9,
@@ -73,7 +73,7 @@
       "content": "76ers豪取7连胜升东部第7！第7-10名仅差1场：76ers(41-33)、黄蜂(39-34)、魔术(39-34)、热火(39-35)。",
       "category": "NBA",
       "emoji": "🎰",
-      "timestamp": "2026-03-29T13:37:30+08:00"
+      "timestamp": "2026-03-29T13:49:00+08:00"
     },
     {
       "id": 10,
@@ -81,7 +81,7 @@
       "content": "🔥 今晚焦点战！东部第3尼克斯(48-26)客场挑战西部第1雷霆(58-16)！布伦森 vs SGA巅峰对决！",
       "category": "NBA",
       "emoji": "⚡",
-      "timestamp": "2026-03-29T13:37:30+08:00"
+      "timestamp": "2026-03-29T13:49:00+08:00"
     }
   ],
   "nba": {
@@ -97,7 +97,7 @@
         "away_score": null,
         "venue": "Fiserv Forum, Milwaukee",
         "broadcast": "NBA TV",
-        "note": "快船客场挑战雄鹿，Kawhi Leonard 28.3PPG，快船-14.5分"
+        "note": "快船客场挑战雄鹿，Kawhi Leonard 28.3PPG"
       },
       {
         "id": "401810938",
@@ -197,42 +197,6 @@
       }
     ],
     "completed_games": [
-      {
-        "id": "401810946",
-        "date": "2026-03-29T18:00Z",
-        "match": "Phoenix Suns @ Utah Jazz",
-        "home": "Utah Jazz",
-        "away": "Phoenix Suns",
-        "status": "final",
-        "home_score": 118,
-        "away_score": 127,
-        "home_linescores": "28/31/32/27",
-        "away_linescores": "35/28/32/32",
-        "venue": "Delta Center, Salt Lake City",
-        "note": "🏀 太阳127-118轻取爵士！Jalen Green 32分创新高",
-        "highlights": {
-          "video_url": "https://www.espn.com/video/clip?id=48333122",
-          "gif_urls": []
-        }
-      },
-      {
-        "id": "401810947",
-        "date": "2026-03-29T19:00Z",
-        "match": "Memphis Grizzlies @ Chicago Bulls",
-        "home": "Chicago Bulls",
-        "away": "Memphis Grizzlies",
-        "status": "final",
-        "home_score": 122,
-        "away_score": 125,
-        "home_linescores": "32/28/32/30",
-        "away_linescores": "28/35/32/30",
-        "venue": "United Center, Chicago",
-        "note": "🏀 灰熊125-122险胜公牛！Buzelis 34分爆发",
-        "highlights": {
-          "video_url": null,
-          "gif_urls": []
-        }
-      },
       {
         "id": "401810931",
         "date": "2026-03-28T19:00Z",
@@ -358,11 +322,7 @@
           "home_score": 1,
           "away_score": 2,
           "venue": "St. James' Park",
-          "note": "泰恩-威尔德比！Brobbey第90分钟绝杀，桑德兰2-1逆转纽卡",
-          "highlights": {
-            "video_url": null,
-            "gif_urls": []
-          }
+          "note": "泰恩-威尔德比！Brobbey第90分钟绝杀，桑德兰2-1逆转纽卡"
         },
         {
           "id": "740896",
@@ -374,11 +334,7 @@
           "home_score": 2,
           "away_score": 0,
           "venue": "Villa Park",
-          "note": "沃特金斯破门回应落选英格兰，维拉2-0击败西汉姆",
-          "highlights": {
-            "video_url": null,
-            "gif_urls": []
-          }
+          "note": "沃特金斯破门回应落选英格兰，维拉2-0击败西汉姆"
         }
       ]
     }
