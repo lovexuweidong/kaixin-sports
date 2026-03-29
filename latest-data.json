@@ -198,6 +198,34 @@
     ],
     "completed_games": [
       {
+        "id": "401810946",
+        "date": "2026-03-29T18:00Z",
+        "match": "Phoenix Suns @ Utah Jazz",
+        "home": "Utah Jazz",
+        "away": "Phoenix Suns",
+        "status": "final",
+        "home_score": 118,
+        "away_score": 127,
+        "home_linescores": "28/31/32/27",
+        "away_linescores": "35/28/32/32",
+        "venue": "Delta Center, Salt Lake City",
+        "note": "🏀 太阳127-118轻取爵士！Jalen Green 32分创新高"
+      },
+      {
+        "id": "401810947",
+        "date": "2026-03-29T19:00Z",
+        "match": "Memphis Grizzlies @ Chicago Bulls",
+        "home": "Chicago Bulls",
+        "away": "Memphis Grizzlies",
+        "status": "final",
+        "home_score": 122,
+        "away_score": 125,
+        "home_linescores": "32/28/32/30",
+        "away_linescores": "28/35/32/30",
+        "venue": "United Center, Chicago",
+        "note": "🏀 灰熊125-122险胜公牛！Buzelis 34分爆发"
+      },
+      {
         "id": "401810931",
         "date": "2026-03-28T19:00Z",
         "match": "San Antonio Spurs @ Milwaukee Bucks",
