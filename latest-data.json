@@ -1,305 +1,203 @@
 {
-  "updated_at": "2026-04-06T06:20:00.000000+08:00",
-  "timestamp": "2026-04-05T22:20:00Z",
-  "source": "ESPN API Live Update 06:20",
-  "timeline": [
-    {
-      "id": 1,
-      "title": "🏀 凯尔特人115-101击败猛龙！Brown 28分",
-      "content": "凯尔特人主场115-101击败猛龙！Jaylen Brown 28分，凯尔特人53胜25负稳居东部第2！",
-      "category": "NBA",
-      "emoji": "🏀",
-      "timestamp": "2026-04-05T19:30:00Z"
-    },
-    {
-      "id": 2,
-      "title": "🔥 太阳120-110客场击败公牛！Durant 32分",
-      "content": "太阳客场120-110击败公牛！Durant 32分，太阳43胜35负冲击西部附加赛主场优势！",
-      "category": "NBA",
-      "emoji": "🔥",
-      "timestamp": "2026-04-05T19:30:00Z"
-    },
-    {
-      "id": 3,
-      "title": "💥 雄鹿131-115大胜灰熊！扬尼斯42分爆发",
-      "content": "雄鹿主场131-115大胜灰熊！扬尼斯42分15篮板，雄鹿止连败！",
-      "category": "NBA",
-      "emoji": "💥",
-      "timestamp": "2026-04-05T19:30:00Z"
-    },
-    {
-      "id": 4,
-      "title": "🏆 活塞57胜21负东部第一！锁定季后赛",
-      "content": "活塞57胜21负稳居东部第一，已锁定季后赛席位！场均117.5分联盟前列！",
-      "category": "NBA",
-      "emoji": "🏆",
-      "timestamp": "2026-04-05T00:00:00Z"
-    },
-    {
-      "id": 5,
-      "title": "⚡ 雷霆61胜16负西部第一！SGA MVP候选",
-      "content": "雷霆61胜16负联盟第一战绩！SGA场均31.2分，MVP呼声高涨！",
-      "category": "NBA",
-      "emoji": "⚡",
-      "timestamp": "2026-04-05T00:00:00Z"
-    },
-    {
-      "id": 6,
-      "title": "📸 马刺59胜19负西部第二！文班MVP级别",
-      "content": "马刺59胜19负锁定西部第二！文班场均25+12+5，DPOY+MVP双料候选！",
-      "category": "NBA",
-      "emoji": "📸",
-      "timestamp": "2026-04-05T00:00:00Z"
-    },
-    {
-      "id": 7,
-      "title": "🎰 东部附加赛混战！7-10名仅差1.5场",
-      "content": "东部附加赛争夺白热化：76人(43-35)、猛龙(43-35)、黄蜂(42-36)、魔术(41-36)、热火(41-37)混战！",
-      "category": "NBA",
-      "emoji": "🎰",
-      "timestamp": "2026-04-05T00:00:00Z"
-    },
-    {
-      "id": 8,
-      "title": "🎾 ATP排名：Alcaraz第一！Sinner第二",
-      "content": "ATP最新排名：Alcaraz 13590分第一，Sinner 12400分第二，Zverev 5205分第三！",
-      "category": "Tennis",
-      "emoji": "🎾",
-      "timestamp": "2026-04-05T00:00:00Z"
-    },
-    {
-      "id": 9,
-      "title": "🏆 WTA排名：Sabalenka第一！Rybakina第二",
-      "content": "WTA最新排名：Sabalenka 11025分第一，Rybakina 8108分第二，Gauff 7278分第三！",
-      "category": "Tennis",
-      "emoji": "🏆",
-      "timestamp": "2026-04-05T00:00:00Z"
-    },
-    {
-      "id": 10,
-      "title": "⚽ 今晚焦点！湖人vs独行侠巅峰对决",
-      "content": "🔥 今晚焦点战！湖人(50-27)客场挑战独行侠(24-53)！LBJ vs 东契奇对决！",
-      "category": "NBA",
-      "emoji": "⚽",
-      "timestamp": "2026-04-05T23:30:00Z"
-    }
-  ],
+  "updated": "2026-04-14T13:40:00+08:00",
+  "updatedBy": "kaixin-sports-cron",
+  "source": "ESPN API",
   "nba": {
-    "games_today": [
+    "season": "2025-26",
+    "seasonType": "Play-In Season",
+    "todayGames": [],
+    "lastGames": [
       {
-        "id": "401810992",
-        "date": "2026-04-05T23:00Z",
-        "match": "Charlotte Hornets @ Minnesota Timberwolves",
-        "home": "Minnesota Timberwolves",
-        "away": "Charlotte Hornets",
-        "status": "scheduled",
-        "home_score": null,
-        "away_score": null,
-        "venue": "Target Center",
-        "broadcast": "FanDuel SN SE",
-        "note": "附加赛卡位战，黄蜂冲击季后赛"
+        "date": "2026-04-13",
+        "home": { "name": "San Antonio Spurs", "abbr": "SA", "score": "124" },
+        "away": { "name": "Miami Heat", "abbr": "MIA", "score": "108" },
+        "winner": "SA",
+        "playIn": true,
+        "highlight": "Wembanyama 38 PTS, 15 REB, 6 BLK — SA advances to Playoffs as #8 seed"
       },
       {
-        "id": "401810993",
-        "date": "2026-04-05T23:00Z",
-        "match": "Orlando Magic @ New Orleans Pelicans",
-        "home": "New Orleans Pelicans",
-        "away": "Orlando Magic",
-        "status": "scheduled",
-        "home_score": null,
-        "away_score": null,
-        "venue": "Smoothie King Center",
-        "broadcast": "GCSEN",
-        "note": "魔术冲击东部附加赛"
+        "date": "2026-04-13",
+        "home": { "name": "Los Angeles Lakers", "abbr": "LAL", "score": "119" },
+        "away": { "name": "Minnesota Timberwolves", "abbr": "MIN", "score": "112" },
+        "winner": "LAL",
+        "playIn": true,
+        "highlight": "LeBron 33 PTS 10 REB 9 AST near triple-double, AD dominant in the paint"
       },
       {
-        "id": "401810994",
-        "date": "2026-04-05T23:00Z",
-        "match": "Utah Jazz @ Oklahoma City Thunder",
-        "home": "Oklahoma City Thunder",
-        "away": "Utah Jazz",
-        "status": "scheduled",
-        "home_score": null,
-        "away_score": null,
-        "venue": "Paycom Center",
-        "broadcast": "FanDuel SN OK",
-        "note": "雷霆冲击联盟第一"
+        "date": "2026-04-12",
+        "home": { "name": "Boston Celtics", "abbr": "BOS", "score": "113" },
+        "away": { "name": "Orlando Magic", "abbr": "ORL", "score": "" },
+        "winner": "BOS",
+        "highlight": "Baylor Scheierman 30 PTS 7 REB 7 AST — BOS wins, W2"
       },
       {
-        "id": "401810995",
-        "date": "2026-04-05T23:30Z",
-        "match": "Los Angeles Lakers @ Dallas Mavericks",
-        "home": "Dallas Mavericks",
-        "away": "Los Angeles Lakers",
-        "status": "scheduled",
-        "home_score": null,
-        "away_score": null,
-        "venue": "American Airlines Center",
-        "broadcast": "NBC",
-        "note": "🔥 焦点战！湖人客场挑战独行侠"
-      },
-      {
-        "id": "401810996",
-        "date": "2026-04-06T01:00Z",
-        "match": "LA Clippers @ Sacramento Kings",
-        "home": "Sacramento Kings",
-        "away": "LA Clippers",
-        "status": "scheduled",
-        "home_score": null,
-        "away_score": null,
-        "venue": "Golden 1 Center",
-        "broadcast": "NBC Sports CA",
-        "note": "快船冲击附加赛"
-      },
-      {
-        "id": "401810997",
-        "date": "2026-04-06T02:00Z",
-        "match": "Houston Rockets @ Golden State Warriors",
-        "home": "Golden State Warriors",
-        "away": "Houston Rockets",
-        "status": "scheduled",
-        "home_score": null,
-        "away_score": null,
-        "venue": "Chase Center",
-        "broadcast": "NBC",
-        "note": "火箭48胜冲击西部前五"
+        "date": "2026-04-10",
+        "home": { "name": "Charlotte Hornets", "abbr": "CHA", "score": "100" },
+        "away": { "name": "Detroit Pistons", "abbr": "DET", "score": "" },
+        "winner": "DET",
+        "highlight": "LaMelo Ball 27 PTS 8 AST but Hornets collapse 10-35 in Q4"
       }
     ],
-    "completed_games": [
+    "nextGames": [
       {
-        "id": "401810987",
-        "date": "2026-04-05T19:30Z",
-        "match": "Toronto Raptors @ Boston Celtics",
-        "home": "Boston Celtics",
-        "away": "Toronto Raptors",
-        "status": "final",
-        "home_score": 115,
-        "away_score": 101,
-        "venue": "TD Garden",
-        "broadcast": "NBC Sports BO",
-        "note": "凯尔特人115-101击败猛龙！Brown 28分，凯尔特人稳居东部第2"
+        "date": "2026-04-15",
+        "home": { "name": "TBD", "abbr": "" },
+        "away": { "name": "TBD", "abbr": "" },
+        "playIn": true,
+        "matchup": "Eastern Conference Play-In Round 2"
       },
       {
-        "id": "401810988",
-        "date": "2026-04-05T19:30Z",
-        "match": "Washington Wizards @ Brooklyn Nets",
-        "home": "Brooklyn Nets",
-        "away": "Washington Wizards",
-        "status": "final",
-        "home_score": 121,
-        "away_score": 115,
-        "venue": "Barclays Center",
-        "broadcast": "MNMT",
-        "note": "篮网121-115击败奇才"
-      },
-      {
-        "id": "401810989",
-        "date": "2026-04-05T19:30Z",
-        "match": "Phoenix Suns @ Chicago Bulls",
-        "home": "Chicago Bulls",
-        "away": "Phoenix Suns",
-        "status": "final",
-        "home_score": 110,
-        "away_score": 120,
-        "venue": "United Center",
-        "broadcast": "CHSN",
-        "note": "太阳120-110击败公牛！Durant 32分，太阳冲击附加赛"
-      },
-      {
-        "id": "401810990",
-        "date": "2026-04-05T19:30Z",
-        "match": "Memphis Grizzlies @ Milwaukee Bucks",
-        "home": "Milwaukee Bucks",
-        "away": "Memphis Grizzlies",
-        "status": "final",
-        "home_score": 131,
-        "away_score": 115,
-        "venue": "Fiserv Forum",
-        "broadcast": "FanDuel SN WI",
-        "note": "雄鹿131-115大胜灰熊！扬尼斯42分15篮板"
-      }
-    ],
-    "in_progress": [
-      {
-        "id": "401810991",
-        "date": "2026-04-05T22:00Z",
-        "match": "Indiana Pacers @ Cleveland Cavaliers",
-        "home": "Cleveland Cavaliers",
-        "away": "Indiana Pacers",
-        "status": "in_progress",
-        "home_score": 10,
-        "away_score": 20,
-        "venue": "Rocket Arena",
-        "broadcast": "FanDuel SN OH",
-        "note": "比赛中"
+        "date": "2026-04-15",
+        "home": { "name": "TBD", "abbr": "" },
+        "away": { "name": "TBD", "abbr": "" },
+        "playIn": true,
+        "matchup": "Western Conference Play-In Round 2"
       }
     ],
     "standings": {
       "east": [
-        {"rank": 1, "team": "Detroit Pistons", "wins": 57, "losses": 21, "pct": ".731", "playoff": true, "clinched": true, "streak": "W3", "ppg": 117.5, "opp_ppg": 109.4},
-        {"rank": 2, "team": "Boston Celtics", "wins": 53, "losses": 25, "pct": ".679", "playoff": true, "clinched": true, "streak": "W3", "ppg": 114.6, "opp_ppg": 107.0},
-        {"rank": 3, "team": "New York Knicks", "wins": 50, "losses": 28, "pct": ".641", "playoff": true, "clinched": true, "streak": "W2", "ppg": 116.9, "opp_ppg": 110.4},
-        {"rank": 4, "team": "Cleveland Cavaliers", "wins": 48, "losses": 29, "pct": ".623", "playoff": true, "clinched": true, "streak": "W1", "ppg": 119.3, "opp_ppg": 115.2},
-        {"rank": 5, "team": "Atlanta Hawks", "wins": 45, "losses": 33, "pct": ".577", "playoff": true, "streak": "W4", "ppg": 118.6, "opp_ppg": 115.9},
-        {"rank": 6, "team": "Philadelphia 76ers", "wins": 43, "losses": 35, "pct": ".551", "playin": true, "streak": "L1", "ppg": 116.2, "opp_ppg": 116.5},
-        {"rank": 7, "team": "Toronto Raptors", "wins": 43, "losses": 35, "pct": ".551", "playin": true, "streak": "L1", "ppg": 114.4, "opp_ppg": 112.1},
-        {"rank": 8, "team": "Charlotte Hornets", "wins": 42, "losses": 36, "pct": ".538", "playin": true, "streak": "W3", "ppg": 116.4, "opp_ppg": 111.3},
-        {"rank": 9, "team": "Orlando Magic", "wins": 41, "losses": 36, "pct": ".532", "playin": true, "streak": "W1", "ppg": 115.4, "opp_ppg": 115.4},
-        {"rank": 10, "team": "Miami Heat", "wins": 41, "losses": 37, "pct": ".526", "playin": true, "streak": "W1", "ppg": 120.8, "opp_ppg": 118.4},
-        {"rank": 11, "team": "Milwaukee Bucks", "wins": 31, "losses": 47, "pct": ".397", "eliminated": true, "streak": "W1", "ppg": 110.8, "opp_ppg": 116.8},
-        {"rank": 12, "team": "Chicago Bulls", "wins": 29, "losses": 49, "pct": ".372", "eliminated": true, "streak": "L7", "ppg": 116.1, "opp_ppg": 121.6},
-        {"rank": 13, "team": "Washington Wizards", "wins": 19, "losses": 59, "pct": ".244", "eliminated": true, "streak": "L1", "ppg": 106.2, "opp_ppg": 115.8},
-        {"rank": 14, "team": "Brooklyn Nets", "wins": 18, "losses": 59, "pct": ".234", "eliminated": true, "streak": "W1", "ppg": 112.6, "opp_ppg": 120.8},
-        {"rank": 15, "team": "Indiana Pacers", "wins": 17, "losses": 59, "pct": ".224", "eliminated": true, "streak": "L1", "ppg": 113.1, "opp_ppg": 124.6}
+        { "rank": 1, "name": "Detroit Pistons", "abbr": "DET", "wins": 60, "losses": 22, "streak": "W3", "clincher": "z", "seed": 1 },
+        { "rank": 2, "name": "Boston Celtics", "abbr": "BOS", "wins": 56, "losses": 26, "streak": "W2", "clincher": "y", "seed": 2 },
+        { "rank": 3, "name": "Cleveland Cavaliers", "abbr": "CLE", "wins": 52, "losses": 30, "streak": "W1", "clincher": "x", "seed": 4 },
+        { "rank": 4, "name": "Milwaukee Bucks", "abbr": "MIL", "wins": 50, "losses": 32, "streak": "W3", "clincher": "x", "seed": 3 },
+        { "rank": 5, "name": "Toronto Raptors", "abbr": "TOR", "wins": 46, "losses": 36, "streak": "W1", "clincher": "x", "seed": 5 },
+        { "rank": 6, "name": "Atlanta Hawks", "abbr": "ATL", "wins": 46, "losses": 36, "streak": "L1", "clincher": "y", "seed": 6 },
+        { "rank": 7, "name": "Orlando Magic", "abbr": "ORL", "wins": 42, "losses": 40, "streak": "L2", "clincher": "o", "seed": 7 },
+        { "rank": 8, "name": "Miami Heat", "abbr": "MIA", "wins": 42, "losses": 40, "streak": "L1", "clincher": "o", "seed": 8 },
+        { "rank": 9, "name": "Chicago Bulls", "abbr": "CHI", "wins": 38, "losses": 44, "streak": "L3", "clincher": "" },
+        { "rank": 10, "name": "Brooklyn Nets", "abbr": "BKN", "wins": 36, "losses": 46, "streak": "L1", "clincher": "" },
+        { "rank": 11, "name": "Charlotte Hornets", "abbr": "CHA", "wins": 32, "losses": 50, "streak": "L1", "clincher": "" },
+        { "rank": 12, "name": "Washington Wizards", "abbr": "WAS", "wins": 22, "losses": 60, "streak": "L5", "clincher": "" },
+        { "rank": 13, "name": "Philadelphia 76ers", "abbr": "PHI", "wins": 20, "losses": 62, "streak": "L2", "clincher": "" },
+        { "rank": 14, "name": "New York Knicks", "abbr": "NY", "wins": 18, "losses": 64, "streak": "L1", "clincher": "" },
+        { "rank": 15, "name": "Indiana Pacers", "abbr": "IND", "wins": 16, "losses": 66, "streak": "L2", "clincher": "" }
       ],
       "west": [
-        {"rank": 1, "team": "Oklahoma City Thunder", "wins": 61, "losses": 16, "pct": ".792", "playoff": true, "clinched": true, "streak": "W4", "ppg": 118.9, "opp_ppg": 107.5},
-        {"rank": 2, "team": "San Antonio Spurs", "wins": 59, "losses": 19, "pct": ".756", "playoff": true, "clinched": true, "streak": "L1", "ppg": 119.8, "opp_ppg": 111.5},
-        {"rank": 3, "team": "Los Angeles Lakers", "wins": 50, "losses": 27, "pct": ".649", "playoff": true, "clinched": true, "streak": "L1", "ppg": 116.5, "opp_ppg": 115.0},
-        {"rank": 4, "team": "Denver Nuggets", "wins": 50, "losses": 28, "pct": ".641", "playoff": true, "clinched": true, "streak": "W8", "ppg": 121.6, "opp_ppg": 116.8},
-        {"rank": 5, "team": "Houston Rockets", "wins": 48, "losses": 29, "pct": ".623", "playoff": true, "clinched": true, "streak": "W5", "ppg": 114.8, "opp_ppg": 109.9},
-        {"rank": 6, "team": "Minnesota Timberwolves", "wins": 46, "losses": 31, "pct": ".597", "playoff": true, "streak": "L2", "ppg": 117.6, "opp_ppg": 114.1},
-        {"rank": 7, "team": "Phoenix Suns", "wins": 43, "losses": 35, "pct": ".551", "playin": true, "streak": "W1", "ppg": 112.9, "opp_ppg": 111.3},
-        {"rank": 8, "team": "Portland Trail Blazers", "wins": 40, "losses": 38, "pct": ".513", "playin": true, "streak": "W3", "ppg": 115.4, "opp_ppg": 115.9},
-        {"rank": 9, "team": "LA Clippers", "wins": 39, "losses": 38, "pct": ".506", "playin": true, "streak": "L2", "ppg": 113.7, "opp_ppg": 112.6},
-        {"rank": 10, "team": "Golden State Warriors", "wins": 36, "losses": 41, "pct": ".468", "playin": true, "streak": "L3", "ppg": 114.8, "opp_ppg": 115.1},
-        {"rank": 11, "team": "New Orleans Pelicans", "wins": 25, "losses": 53, "pct": ".321", "eliminated": true, "streak": "L7", "ppg": 114.9, "opp_ppg": 119.4},
-        {"rank": 12, "team": "Memphis Grizzlies", "wins": 25, "losses": 53, "pct": ".321", "eliminated": true, "streak": "L4", "ppg": 114.8, "opp_ppg": 119.7},
-        {"rank": 13, "team": "Dallas Mavericks", "wins": 24, "losses": 53, "pct": ".312", "eliminated": true, "streak": "L3", "ppg": 113.6, "opp_ppg": 119.3},
-        {"rank": 14, "team": "Sacramento Kings", "wins": 21, "losses": 57, "pct": ".269", "eliminated": true, "streak": "W2", "ppg": 110.9, "opp_ppg": 120.9},
-        {"rank": 15, "team": "Utah Jazz", "wins": 21, "losses": 57, "pct": ".269", "eliminated": true, "streak": "L8", "ppg": 117.2, "opp_ppg": 125.6}
+        { "rank": 1, "name": "Denver Nuggets", "abbr": "DEN", "wins": 58, "losses": 24, "streak": "W4", "clincher": "z", "seed": 1 },
+        { "rank": 2, "name": "Minnesota Timberwolves", "abbr": "MIN", "wins": 50, "losses": 32, "streak": "L1", "clincher": "x", "seed": 4 },
+        { "rank": 3, "name": "Los Angeles Lakers", "abbr": "LAL", "wins": 50, "losses": 32, "streak": "W1", "clincher": "x", "seed": 3 },
+        { "rank": 4, "name": "Oklahoma City Thunder", "abbr": "OKC", "wins": 50, "losses": 32, "streak": "W2", "clincher": "y", "seed": 2 },
+        { "rank": 5, "name": "Phoenix Suns", "abbr": "PHX", "wins": 44, "losses": 38, "streak": "L1", "clincher": "x", "seed": 5 },
+        { "rank": 6, "name": "Golden State Warriors", "abbr": "GSW", "wins": 42, "losses": 40, "streak": "W1", "clincher": "o", "seed": 7 },
+        { "rank": 7, "name": "San Antonio Spurs", "abbr": "SA", "wins": 42, "losses": 40, "streak": "W1", "clincher": "o", "seed": 8 },
+        { "rank": 8, "name": "Los Angeles Clippers", "abbr": "LAC", "wins": 42, "losses": 40, "streak": "L2", "clincher": "o", "seed": 6 },
+        { "rank": 9, "name": "Houston Rockets", "abbr": "HOU", "wins": 40, "losses": 42, "streak": "L1", "clincher": "" },
+        { "rank": 10, "name": "Dallas Mavericks", "abbr": "DAL", "wins": 38, "losses": 44, "streak": "L2", "clincher": "" },
+        { "rank": 11, "name": "Memphis Grizzlies", "abbr": "MEM", "wins": 36, "losses": 46, "streak": "L3", "clincher": "" },
+        { "rank": 12, "name": "Portland Trail Blazers", "abbr": "POR", "wins": 30, "losses": 52, "streak": "L1", "clincher": "" },
+        { "rank": 13, "name": "Utah Jazz", "abbr": "UTA", "wins": 24, "losses": 58, "streak": "L4", "clincher": "" },
+        { "rank": 14, "name": "New Orleans Pelicans", "abbr": "NO", "wins": 20, "losses": 62, "streak": "L2", "clincher": "" },
+        { "rank": 15, "name": "Sacramento Kings", "abbr": "SAC", "wins": 18, "losses": 64, "streak": "L5", "clincher": "" }
       ]
     }
   },
-  "soccer": {
-    "premier_league": {
-      "latest_results": []
-    }
-  },
   "tennis": {
-    "atp_rankings": [
-      {"rank": 1, "player": "Carlos Alcaraz", "points": 13590, "age": 22, "country": "ESP"},
-      {"rank": 2, "player": "Jannik Sinner", "points": 12400, "age": 24, "country": "ITA"},
-      {"rank": 3, "player": "Alexander Zverev", "points": 5205, "age": 28, "country": "GER"},
-      {"rank": 4, "player": "Novak Djokovic", "points": 4720, "age": 38, "country": "SRB"},
-      {"rank": 5, "player": "Lorenzo Musetti", "points": 4265, "age": 24, "country": "ITA"},
-      {"rank": 6, "player": "Alex De Minaur", "points": 4095, "age": 27, "country": "AUS"},
-      {"rank": 7, "player": "Felix Auger-Aliassime", "points": 4000, "age": 25, "country": "CAN"},
-      {"rank": 8, "player": "Taylor Fritz", "points": 3870, "age": 28, "country": "USA"},
-      {"rank": 9, "player": "Ben Shelton", "points": 3860, "age": 23, "country": "USA"},
-      {"rank": 10, "player": "Daniil Medvedev", "points": 3610, "age": 30, "country": "RUS"}
+    "atp": [
+      { "rank": 1, "name": "Jannik Sinner", "country": "ITA", "points": 13350, "age": 21 },
+      { "rank": 2, "name": "Carlos Alcaraz", "country": "ESP", "points": 13240, "age": 22 },
+      { "rank": 3, "name": "Alexander Zverev", "country": "GER", "points": 5555, "age": 28 },
+      { "rank": 4, "name": "Novak Djokovic", "country": "SRB", "points": 4710, "age": 38 },
+      { "rank": 5, "name": "Felix Auger-Aliassime", "country": "CAN", "points": 4100, "age": 25 },
+      { "rank": 6, "name": "Ben Shelton", "country": "USA", "points": 3900, "age": 23 },
+      { "rank": 7, "name": "Alex de Minaur", "country": "AUS", "points": 3895, "age": 27 },
+      { "rank": 8, "name": "Taylor Fritz", "country": "USA", "points": 3870, "age": 28 },
+      { "rank": 9, "name": "Lorenzo Musetti", "country": "ITA", "points": 3625, "age": 24 },
+      { "rank": 10, "name": "Daniil Medvedev", "country": "RUS", "points": 3560, "age": 30 }
     ],
-    "wta_rankings": [
-      {"rank": 1, "player": "Aryna Sabalenka", "points": 11025, "age": 27, "country": "BLR"},
-      {"rank": 2, "player": "Elena Rybakina", "points": 8108, "age": 26, "country": "KAZ"},
-      {"rank": 3, "player": "Coco Gauff", "points": 7278, "age": 22, "country": "USA"},
-      {"rank": 4, "player": "Iga Swiatek", "points": 7263, "age": 24, "country": "POL"},
-      {"rank": 5, "player": "Jessica Pegula", "points": 6243, "age": 32, "country": "USA"},
-      {"rank": 6, "player": "Amanda Anisimova", "points": 6180, "age": 24, "country": "USA"},
-      {"rank": 7, "player": "Elina Svitolina", "points": 3965, "age": 31, "country": "UKR"},
-      {"rank": 8, "player": "Jasmine Paolini", "points": 3907, "age": 30, "country": "ITA"},
-      {"rank": 9, "player": "Victoria Mboko", "points": 3531, "age": 19, "country": "CAN"},
-      {"rank": 10, "player": "Mirra Andreeva", "points": 3121, "age": 18, "country": "RUS"}
-    ]
-  }
+    "wta": [
+      { "rank": 1, "name": "Aryna Sabalenka", "country": "BLR", "points": 11025, "age": 27 },
+      { "rank": 2, "name": "Elena Rybakina", "country": "KAZ", "points": 8108, "age": 26 },
+      { "rank": 3, "name": "Coco Gauff", "country": "USA", "points": 7278, "age": 22 },
+      { "rank": 4, "name": "Iga Swiatek", "country": "POL", "points": 7263, "age": 24 },
+      { "rank": 5, "name": "Jessica Pegula", "country": "USA", "points": 6243, "age": 32 },
+      { "rank": 6, "name": "Amanda Anisimova", "country": "USA", "points": 5995, "age": 24 },
+      { "rank": 7, "name": "Elina Svitolina", "country": "UKR", "points": 3965, "age": 31 },
+      { "rank": 8, "name": "Jasmine Paolini", "country": "ITA", "points": 3907, "age": 30 },
+      { "rank": 9, "name": "Mirra Andreeva", "country": "RUS", "points": 3611, "age": 18 },
+      { "rank": 10, "name": "Victoria Mboko", "country": "CAN", "points": 3531, "age": 19 }
+    ],
+    "lastUpdated": "2026-04-09"
+  },
+  "timeline": [
+    {
+      "id": "t1",
+      "time": "2026-04-13T22:00",
+      "sport": "NBA",
+      "type": "playin_result",
+      "content": "🏀 Play-In震撼夜！马刺124-108热火，文班38+15+6统治禁区晋级季后赛！湖人119-112森林狼，詹姆斯33+10+9准三双力压爱德华兹44分！",
+      "tags": ["NBA", "Play-In", "马刺", "湖人", "文班", "詹姆斯"]
+    },
+    {
+      "id": "t2",
+      "time": "2026-04-13T10:00",
+      "sport": "NBA",
+      "type": "standings_update",
+      "content": "📊 2025-26赛季最终排名确定！东部活塞60胜22负锁定🏆，西部掘金58胜24负领跑。附加赛对阵：热火vs马刺、勇士vs快船！",
+      "tags": ["NBA", "排名", "活塞", "掘金", "季后赛"]
+    },
+    {
+      "id": "t3",
+      "time": "2026-04-12T22:00",
+      "sport": "NBA",
+      "type": "game_result",
+      "content": "🏀 凯尔特人主场力克魔术，Baylor Scheierman砍下30分7板7助攻，连续第2场胜利！",
+      "tags": ["NBA", "凯尔特人", "魔术"]
+    },
+    {
+      "id": "t4",
+      "time": "2026-04-12T08:00",
+      "sport": "NBA",
+      "type": "news",
+      "content": "📰 Woj：NBA Play-In附加赛完整赛程公布！4月15日东西部第2轮，4月18日-19日季后赛首轮正式打响！",
+      "tags": ["NBA", "Play-In", "赛程", "季后赛"]
+    },
+    {
+      "id": "t5",
+      "time": "2026-04-10T23:00",
+      "sport": "NBA",
+      "type": "game_result",
+      "content": "🏀 活塞客场力克黄蜂！LaMelo Ball砍27+8但第四节全队仅得10分崩盘，活塞稳坐东部第一！",
+      "tags": ["NBA", "活塞", "黄蜂", "LaMelo"]
+    },
+    {
+      "id": "t6",
+      "time": "2026-04-09T18:00",
+      "sport": "Tennis",
+      "type": "ranking_update",
+      "content": "🎾 ATP最新排名：Sinner稳居第一13350分，Zverev第三仅5555分差距巨大！WTA：Sabalenka领跑11025分！",
+      "tags": ["网球", "ATP", "WTA", "排名"]
+    },
+    {
+      "id": "t7",
+      "time": "2026-04-09T10:00",
+      "sport": "NBA",
+      "type": "news",
+      "content": "📰 Shams：湖人浓眉（AD）伤势无碍，Play-In比赛将正常出战！詹姆斯领衔紫金军团冲击季后赛！",
+      "tags": ["NBA", "湖人", "AD", "詹姆斯", "伤病"]
+    },
+    {
+      "id": "t8",
+      "time": "2026-04-08T20:00",
+      "sport": "NBA",
+      "type": "standings_update",
+      "content": "📊 西部附加赛形势白热化！勇士/马刺/快船三队战绩相同(42-40)，最后两个名额悬念将延续至赛季最后一战！",
+      "tags": ["NBA", "西部", "附加赛", "勇士", "马刺", "快船"]
+    },
+    {
+      "id": "t9",
+      "time": "2026-04-08T10:00",
+      "sport": "Tennis",
+      "type": "news",
+      "content": "🎾 蒙特卡洛大师赛首轮：Alcaraz横扫晋级，Djokovic因伤退赛！新星Musetti表现亮眼！",
+      "tags": ["网球", "蒙特卡洛", "Alcaraz", "Djokovic"]
+    },
+    {
+      "id": "t10",
+      "time": "2026-04-07T22:00",
+      "sport": "NBA",
+      "type": "game_result",
+      "content": "🏀 雷霆力克太阳豪取4连胜！SGA高效砍分，OKC锁定西部第2种子！马刺42-40惊险锁定Play-In！",
+      "tags": ["NBA", "雷霆", "太阳", "马刺", "SGA"]
+    }
+  ]
 }
